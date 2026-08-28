@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Treasury Ledger{% endblock %}</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  {% if user %}
+  <div class="topbar">
+    <a class="brand" href="/"><span class="mark">&#9650;</span> Treasury Ledger</a>
+    <div class="nav">
+      <a href="/">Dashboard</a>
+      <a href="/clients">Clients</a>
+      <a href="/upload">Upload 1099</a>
+      <span>{{ user.email }}</span>
+      <a href="/logout">Log out</a>
+    </div>
+  </div>
+  {% endif %}
+  <div class="wrap">
+    {% block content %}{% endblock %}
+  </div>
+</body>
+</html>

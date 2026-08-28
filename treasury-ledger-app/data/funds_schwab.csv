@@ -1,0 +1,58 @@
+family,ticker,fund_number,cusip,name,pct_govt_obligations,meets_ca_ct_ny,tax_year
+Schwab,SWRSX,,,Schwab Treasury Inflation Protected Securities Index Fund,100.0000,1,2025
+Schwab,SWAGX,,,Schwab U.S. Aggregate Bond Index Fund,44.0600,0,2025
+Schwab,SWSBX,,,Schwab Short-Term Bond Index Fund,67.9700,1,2025
+Schwab,SWHGX,,,Schwab MarketTrack Growth Portfolio,11.5800,0,2025
+Schwab,SWBGX,,,Schwab MarketTrack Balanced Portfolio,22.5500,0,2025
+Schwab,SWCGX,,,Schwab MarketTrack Conservative Portfolio,30.9400,0,2025
+Schwab,SWOBX,,,Schwab Balanced Fund,34.9300,0,2025
+Schwab,SWBRX,,,Schwab Target 2010 Fund,39.1600,0,2025
+Schwab,SWGRX,,,Schwab Target 2015 Fund,37.5300,0,2025
+Schwab,SWCRX,,,Schwab Target 2020 Fund,35.9200,0,2025
+Schwab,SWHRX,,,Schwab Target 2025 Fund,35.2000,0,2025
+Schwab,SWDRX,,,Schwab Target 2030 Fund,24.3600,0,2025
+Schwab,SWIRX,,,Schwab Target 2035 Fund,16.7500,0,2025
+Schwab,SWERX,,,Schwab Target 2040 Fund,12.1800,0,2025
+Schwab,SWMRX,,,Schwab Target 2045 Fund,8.6400,0,2025
+Schwab,SWNRX,,,Schwab Target 2050 Fund,5.6300,0,2025
+Schwab,SWORX,,,Schwab Target 2055 Fund,3.8900,0,2025
+Schwab,SWPRX,,,Schwab Target 2060 Fund,2.7500,0,2025
+Schwab,SWQRX,,,Schwab Target 2065 Fund,1.4600,0,2025
+Schwab,SWJRX,,,Schwab Monthly Income Fund—Target Payout,13.7900,0,2025
+Schwab,SWKRX,,,Schwab Monthly Income Fund—Flexible Payout,14.1700,0,2025
+Schwab,SWLRX,,,Schwab Monthly Income Fund—Income Payout,16.0100,0,2025
+Schwab,SWYAX,,,Schwab Target 2010 Index Fund,40.3700,0,2025
+Schwab,SWYBX,,,Schwab Target 2015 Index Fund,38.5400,0,2025
+Schwab,SWYLX,,,Schwab Target 2020 Index Fund,40.0800,0,2025
+Schwab,SWYDX,,,Schwab Target 2025 Index Fund,38.3800,0,2025
+Schwab,SWYEX,,,Schwab Target 2030 Index Fund,28.7800,0,2025
+Schwab,SWYFX,,,Schwab Target 2035 Index Fund,20.8900,0,2025
+Schwab,SWYGX,,,Schwab Target 2040 Index Fund,15.5100,0,2025
+Schwab,SWYHX,,,Schwab Target 2045 Index Fund,10.9300,0,2025
+Schwab,SWYMX,,,Schwab Target 2050 Index Fund,6.9900,0,2025
+Schwab,SWYJX,,,Schwab Target 2055 Index Fund,4.9100,0,2025
+Schwab,SWYNX,,,Schwab Target 2060 Index Fund,3.4500,0,2025
+Schwab,SWYOX,,,Schwab Target 2065 Index Fund,1.8400,0,2025
+Schwab,SWGXX,,,Schwab Government Money Fund,36.2000,0,2025
+Schwab,SNVXX,,,Schwab Government Money Fund,36.2000,0,2025
+Schwab,SGUXX,,,Schwab Government Money Fund,36.2000,0,2025
+Schwab,SNRXX,,,Schwab Retirement Government Money Fund,35.5800,0,2025
+Schwab,SNOXX,,,Schwab Treasury Obligations Money Fund,31.3000,0,2025
+Schwab,SCOXX,,,Schwab Treasury Obligations Money Fund,31.3000,0,2025
+Schwab,SNSXX,,,Schwab U.S. Treasury Money Fund,99.9900,1,2025
+Schwab,SUTXX,,,Schwab U.S. Treasury Money Fund,99.9900,1,2025
+Schwab,SWKXX,,,Schwab California Municipal Money Fund,73.9500,1,2025
+Schwab,SCAXX,,,Schwab California Municipal Money Fund,73.9500,1,2025
+Schwab,SWWXX,,,Schwab AMT Tax-Free Money Fund,79.5200,0,2025
+Schwab,SCTXX,,,Schwab AMT Tax-Free Money Fund,79.5200,0,2025
+Schwab,SWTXX,,,Schwab Municipal Money Fund,96.4100,0,2025
+Schwab,SWOXX,,,Schwab Municipal Money Fund,96.4100,0,2025
+Schwab,SWYXX,,,Schwab New York Municipal Money Fund,24.8100,0,2025
+Schwab,SNYXX,,,Schwab New York Municipal Money Fund,24.8100,0,2025
+Schwab,SCHZ,,,Schwab U.S. Aggregate Bond ETF,44.1800,0,2025
+Schwab,SCHP,,,Schwab U.S. TIPS ETF,100.0000,1,2025
+Schwab,SCHO,,,Schwab Short-Term U.S. Treasury ETF,100.0000,1,2025
+Schwab,SCHR,,,Schwab Intermediate-Term U.S. Treasury ETF,100.0000,1,2025
+Schwab,SCHQ,,,Schwab Long-Term U.S. Treasury ETF,100.0000,1,2025
+Schwab,SCCR,,,Schwab Core Bond ETF,14.6900,0,2025
+Schwab,SGVT,,,Schwab Government Money Market ETF,36.6600,0,2025
