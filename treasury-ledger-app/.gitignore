@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+*.db-journal
+.env
+venv/
+.venv/
+
+# Rasterized page images used as an OCR intermediate for the (scanned) Schwab
+# source PDF -- regenerate with the pdftoppm command in data/README.md rather
+# than committing ~3MB of PNGs.
+data/schwab_pages/
