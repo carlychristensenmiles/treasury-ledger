@@ -1,0 +1,225 @@
+=== schwab_pages/page-1.png ===
+charles 2025 Supplementary Tax
+— Information
+The enclosed information may be useful in the preparation of your federal, state, and/or city tax returns.
+* U.S. Government Obligations Information « Percentage of Income Subject to the Federal Alternative
+" Percentage of Income Earned by State and U.S. Territory Minimum Tax (AMT)
+U.S. Government Obligations Information
+In most states, fund dividends derived from U.S. government obligations are generally exempt from state income taxes.
+The percentage shown below is the portion of the dividend income paid by certain funds that qualifies for this exemption.
+To calculate the amount of income earned from U.S. government obligations, multiply the percentage by the ordinary
+dividends you received from the fund during the 2025 calendar year, reported in Box 1a of Form 1099-DIV. Shareholders in
+CA, CT and NY should note that only the funds denoted with an asterisk (*) meet the minimum investment requirements of
+these states to permit the “pass-through” of exempt income. Funds not shown had 0% dividend income derived from U.S.
+government obligations.
+U.S. Government
+Fund Name Trading Symbol Obligation
+Schwab Treasury Inflation Protected Securities Index Fund* SWRSX 100.00%
+Schwab U.S. Aggregate Bond Index Fund SWAGX 44 06%
+Schwab Short-Term Bond Index Fund* SWSBX 67.97%
+Schwab MarketTrack Growth Portfolio™ SWHGX 11.58%
+Schwab MarketTrack Balanced Portfolio™ SWBGX 22.55%
+Schwab MarketTrack Conservative Portfolio™ SWCGX 30.94%
+Schwab Balanced Fund SWOBX 34.93%
+Schwab Target 2010 Fund SWBRX 39.16%
+Schwab Target 2015 Fund SWGRX 37.53%
+Schwab Target 2020 Fund SWCRX 35.92%
+Schwab Target 2025 Fund SWHRX 35.20%
+Schwab Target 2030 Fund SWDRX 24.36%
+Schwab Target 2035 Fund SWIRX 16.75%
+Schwab Target 2040 Fund SWERX 12.18%
+Schwab Target 2045 Fund SWMRX 8.64%
+Schwab Target 2050 Fund SWNRX 5.63%
+Schwab Target 2055 Fund SWORX 3.89%
+Schwab Target 2060 Fund SWPRX 2.75%
+Schwab Target 2065 Fund SWQRX 1.46%
+Schwab Monthly Income Fund—Target Payout SWJRX 13.79%
+Schwab Monthly Income Fund—Flexible Payout SWKRX 14.17%
+Schwab Monthly Income Fund—Income Payout SWLRX 16.01%
+2025 Supplementary Tax Information 1
+=== schwab_pages/page-2.png ===
+U.S. Government Obligations Information (continued)
+
+U.S. Government
+Fund Name Trading Symbol Obligation
+Schwab Target 2010 Index Fund SWYAX 40.37%
+Schwab Target 2015 Index Fund SWYBX 38.54%
+Schwab Target 2020 Index Fund SWYLX 40.08%
+Schwab Target 2025 Index Fund SWYDX 38.38%
+Schwab Target 2030 Index Fund SWYEX 28.78%
+Schwab Target 2035 Index Fund SWYFX 20.89%
+Schwab Target 2040 Index Fund SWYGX 15.51%
+Schwab Target 2045 Index Fund SWYHX 10.93%
+Schwab Target 2050 Index Fund SWYMX 6.99%
+Schwab Target 2055 Index Fund SWYJX 4.91%
+Schwab Target 2060 Index Fund SWYNX 3.45%
+Schwab Target 2065 Index Fund SWYOX 1.84%
+Schwab Government Money Fund’ SWGXX/SNVXX/SGUXX 36.20%
+Schwab Retirement Government Money Fund SNRXX 35.58%
+Schwab Treasury Obligations Money Fund’ SNOXX/SCOXX 31.30%
+Schwab U.S. Treasury Money Fund*' SNSXX/SUTXX 99.99%
+Schwab California Municipal Money Fund*'? SWKXX/SCAXX 73.95%
+Schwab AMT Tax-Free Money Fund! SWWXX/SCTXX 79.52%
+Schwab Municipal Money Fund! SWTXX/SWOXX 96.41%
+Schwab New York Municipal Money Fund! SWYXX/SNYXX 24.81%
+Schwab U.S. Aggregate Bond ETF SCHZ 44.18%
+Schwab U.S. TIPS ETF* SCHP 100.00%
+Schwab Short-Term U.S. Treasury ETF* SCHO 100.00%
+Schwab Intermediate-Term U.S. Treasury ETF* SCHR 100.00%
+Schwab Long-Term U.S. Treasury ETF* SCHQ 100.00%
+Schwab Core Bond ETF SCCR 14.69%
+Schwab Government Money Market ETF SGVT 36.66%
+’ Percentages apply to all share classes.
+? Minimum investment requirement permitting the “pass-through” of exempt income generally only applies to California residents.
+2025 Supplementary Tax Information 2
+=== schwab_pages/page-3.png ===
+Percentage of Income Earned by State and U.S. Territory
+Most states do not impose income tax on interest income derived from their own municipal obligations or those issued by
+U.S. territories. The following table shows the percentage of income paid by each fund on a state-by-state basis. To
+calculate the amount of income attributable to a particular state or territory, you should multiply Form 1099-DIV Box 12
+total tax-exempt income you received in 2025 from a particular fund by the appropriate percentage below. Shareholders
+who are residents of CA, MN and NJ should note that investment thresholds and income limitations may prevent the
+“pass-through” of state-exempt income.
+
+Schwab Municipal Money Schwab AMT Tax-Free Schwab Opportunistic
+
+Fund’ Money Fund! Schwab Tax-Free Bond Fund Municipal Bond Fund
+
+State (SWTXX/SWOXx) (SWWXX/SCTXX) (SWNTX) (SWHYX)
+Alabama 1.50% 5.65% 3.37% 2.59%
+Alaska 0.09% 0.03% 0.01% 0.00%
+Arizona 0.93% 2.15% 0.81% 1.30%
+Arkansas 0.38% 0.00% 0.06% 0.00%
+California 2.89% 0.77% 8.53% 8.50%
+Colorado 2.28% 3.42% 1.97% 3.13%
+Connecticut 0.48% 0.45% 0.87% 0.53%
+Delaware 0.11% 0.00% 0.00% 0.00%
+District of Columbia 2.52% 1.84% 0.19% 0.81%
+Florida 4.97% 4.85% 6.22% 6.96%
+Georgia 3.46% 1.74% 3.39% 1.27%
+Guam 0.00% 0.00% 0.29% 0.00%
+Hawaii 0.30% 0.00% 0.25% 0.06%
+Idaho 0.14% 0.11% 0.24% 0.84%
+IWinois 3.10% 2.88% 8.28% 6.24%
+Indiana 1.23% 2.69% 0.23% 0.16%
+lowa 2.55% 0.56% 0.61% 0.12%
+Kansas 0.80% 0.00% 0.41% 0.00%
+Kentucky 1.94% 2.05% 1.33% 0.92%
+Louisiana 1.07% 0.34% 1.69% 1.20%
+Maine 0.63% 0.17% 0.06% 0.41%
+Maryland 0.74% 1.09% 0.62% 0.94%
+Massachusetts 2.66% 4.13% 2.57% 2.54%
+Michigan 2.39% 2.12% 1.78% 0.98%
+Minnesota 1.37% 1.34% 0.60% 10.13%
+Mississippi 0.45% 0.53% 0.25% 0.15%
+Missouri 0.30% 1.06% 2.03% 1.28%
+Montana 0.00% 0.00% 0.55% 0.00%
+Nebraska 0.73% 0.27% 0.44% 0.30%
+Nevada 0.84% 0.01% 0.41% 0.45%
+New Hampshire 1.08% 0.34% 0.30% 0.58%
+New Jersey 1.85% 1.66% 4.94% 2.96%
+New Mexico 0.00% 0.01% 0.08% 0.00%
+New York 15.85% 14.75% 12.35% 12.36%
+North Carolina 0.37% 0.11% 2.38% 2.18%
+North Dakota 0.04% 0.00% 0.01% 0.00%
+Ohio 2.91% 3.25% 1.87% 1.19%
+Oklahoma 0.11% 0.35% 0.08% 1.24%
+Oregon 1.50% 1.09% 1.76% 1.26%
+Pennsylvania 2.91% 4.60% 3.75% 2.56%
+Puerto Rico 0.00% 0.00% 0.86% 0.43%
+Rhode Island 0.11% 0.13% 0.78% 0.94%
+South Carolina 0.93% 2.05% 1.78% 1.80%
+South Dakota 0.49% 0.00% 0.06% 0.00%
+Tennessee 1.68% 2.23% 1.33% 2.01%
+Texas 23.01% 23.92% 13.67% 12.41%
+Utah 0.47% 0.06% 0.40% 1.27%
+Vermont 0.00% 0.00% 0.15% 0.00%
+Virginia 1.00% 1.77% 0.90% 0.78%
+Washington 1.86% 2.37% 2.67% 2.20%
+West Virginia 0.38% 0.00% 0.59% 0.42%
+Wisconsin 1.79% 1.06% 1.23% 1.60%
+Wyoming 0.81% 0.00% 0.00% 0.00%
+Total 100.00% 100.00% 100.00% 100.00%
+’ Percentages apply to all share classes.
+2025 Supplementary Tax Information 3
+=== schwab_pages/page-4.png ===
+Percentage of Income Earned by State and U.S. Territory (continued)
+
+Schwab California Municipal Schwab New York Municipal Schwab California Tax-Free
+
+Money Fund’ Money Fund’ Bond Fund Schwab Municipal Bond ETF
+
+State (SWKXX/SCAXX) (SWYXX/SNYXX) (SWCAX) (SCMB)
+Alabama 0.00% 0.00% 0.00% 0.50%
+Alaska 0.01% 0.00% 0.00% 0.01%
+Arizona 0.00% 0.00% 0.00% 1.40%
+Arkansas 0.00% 0.00% 0.00% 0.03%
+California 98.59% 0.00% 97.73% 16.67%
+Colorado 0.04% 0.00% 0.00% 1.04%
+Connecticut 0.00% 0.00% 0.00% 1.70%
+Delaware 0.00% 0.00% 0.00% 0.19%
+District of Columbia 0.00% 0.00% 0.00% 1.71%
+Florida 0.00% 0.00% 0.00% 3.09%
+Georgia 0.00% 0.00% 0.00% 2.53%
+Guam 0.00% 0.00% 1.39% 0.00%
+Hawaii 0.00% 0.00% 0.00% 0.23%
+Idaho 0.00% 0.00% 0.00% 0.11%
+Illinois 0.09% 0.00% 0.00% 5.52%
+Indiana 0.03% 0.00% 0.00% 0.66%
+lowa 0.00% 0.00% 0.00% 0.15%
+Kansas 0.00% 0.00% 0.00% 0.36%
+Kentucky 0.06% 0.00% 0.00% 0.64%
+Louisiana 0.00% 0.00% 0.00% 0.40%
+Maine 0.00% 0.00% 0.00% 0.00%
+Maryland 0.09% 0.00% 0.00% 1.81%
+Massachusetts 0.05% 0.00% 0.00% 4.88%
+Michigan 0.01% 0.00% 0.00% 1.22%
+Minnesota 0.00% 0.00% 0.00% 0.69%
+Mississippi 0.02% 0.00% 0.00% 0.08%
+Missouri 0.00% 0.00% 0.00% 0.20%
+Montana 0.00% 0.00% 0.00% 0.00%
+Nebraska 0.00% 0.00% 0.00% 0.45%
+Nevada 0.00% 0.00% 0.00% 0.42%
+New Hampshire 0.00% 0.00% 0.00% 0.01%
+New Jersey 0.00% 0.00% 0.00% 447%
+New Mexico 0.00% 0.00% 0.00% 0.10%
+New York 0.59% 99.99% 0.00% 26.48%
+North Carolina 0.01% 0.00% 0.00% 1.10%
+North Dakota 0.00% 0.00% 0.00% 0.00%
+Ohio 0.11% 0.01% 0.00% 0.93%
+Oklahoma 0.00% 0.00% 0.00% 0.68%
+Oregon 0.00% 0.00% 0.00% 0.63%
+Pennsylvania 0.19% 0.00% 0.00% 3.15%
+Puerto Rico 0.00% 0.00% 0.88% 0.00%
+Rhode Island 0.00% 0.00% 0.00% 0.11%
+South Carolina 0.01% 0.00% 0.00% 0.59%
+South Dakota 0.00% 0.00% 0.00% 0.00%
+Tennessee 0.00% 0.00% 0.00% 0.85%
+Texas 0.06% 0.00% 0.00% 9.27%
+Utah 0.00% 0.00% 0.00% 0.33%
+Vermont 0.00% 0.00% 0.00% 0.00%
+Virginia 0.03% 0.00% 0.00% 1.42%
+Washington 0.00% 0.00% 0.00% 2.50%
+West Virginia 0.00% 0.00% 0.00% 0.03%
+Wisconsin 0.01% 0.00% 0.00% 0.58%
+Wyoming 0.00% 0.00% 0.00% 0.08%
+Total 100.00% 100.00% 100.00% 100.00%
+’ Percentages apply to all share classes.
+Percentage of Income Subject to the Federal Alternative Minimum Tax (AMT)
+Depending on your individual tax situation, you may be required to file IRS Form 6251, Alternative Minimum Tax—Individuals. Please refer to Box 13 on
+your Form 1099-DIV from Charles Schwab & Co., Inc. for the amount of tax-exempt interest dividends you earned that should be included on IRS Form
+6251, if any. For more information about national and state-specific money funds and bond funds, please visit schwabassetmanagement.com.
+Note: Capital gains from municipal (“tax-free”, “tax-exempt”) securities are not exempt from Federal taxation.
+2025 Supplementary Tax Information 4
+=== schwab_pages/page-5.png ===
+For advice on your particular tax situation, or for more information on the taxes covered in this supplement, please consult a professional tax advisor, the
+Internal Revenue Service or your state tax authority.
+Schwab Asset Management® is the dba name for Charles Schwab Investment Management, Inc., the investment adviser for Schwab Funds and Schwab
+ETFs. Schwab Funds are distributed by Charles Schwab & Co., Inc. (Schwab), Member SIPC. Schwab ETFs are distributed by SEI Investments Distribution
+Co. (SIDCO). Schwab Asset Management and Schwab are separate but affiliated companies and subsidiaries of The Charles Schwab Corporation, and are
+not affiliated with SIDCO.
+
+charles Fe
+©2026 Charles Schwab Investment Management, Inc. All rights reserved. etVee Management
+0126-4TCY REG22669-24 00308070 (01/26)
+2025 Supplementary Tax Information 5

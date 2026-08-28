@@ -1,0 +1,1170 @@
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+
+* Funds marked with an asterisk (*) did not meet the minimum investment in U.S. Government securities required to exempt the
+distribution from tax in California, Connecticut, and New York. These three states exempt dividend income only when the mutual fund
+has met certain minimum investments in U.S. government securities.
+  Fund Number                                         Fund Name                                        CUSIP          Percentages
+       6497         30% Allocation Fund*                                                             316069244         38.5630%
+       6498         50% Allocation Fund*                                                             316069236         29.9754%
+       6499         70% Allocation Fund*                                                             316069228         21.6607%
+       6501         85% Allocation Fund*                                                             316069210         11.4162%
+       1761         Fidelity Advisor Asset Manager® 20% - Class A*                                   316069806         23.1995%
+       1763         Fidelity Advisor Asset Manager® 20% - Class C*                                   316069871         23.1995%
+       1765         Fidelity Advisor Asset Manager® 20% - Class I*                                   316069855         23.1995%
+       1764         Fidelity Advisor Asset Manager® 20% - Class M*                                   316069863         23.1995%
+       3255         Fidelity Advisor Asset Manager® 20% - Class Z*                                   316069418         23.1995%
+       1961         Fidelity Advisor Asset Manager® 30% - Class A*                                   316069715         20.0447%
+       1963         Fidelity Advisor Asset Manager® 30% - Class C*                                   316069673         20.0447%
+       1965         Fidelity Advisor Asset Manager® 30% - Class I*                                   316069665         20.0447%
+       1964         Fidelity Advisor Asset Manager® 30% - Class M*                                   316069699         20.0447%
+       3256         Fidelity Advisor Asset Manager® 30% - Class Z*                                   316069392         20.0447%
+       1966         Fidelity Advisor Asset Manager® 40% - Class A*                                   316069640         16.5345%
+       1968         Fidelity Advisor Asset Manager® 40% - Class C*                                   316069616         16.5345%
+       1970         Fidelity Advisor Asset Manager® 40% - Class I*                                   316069590         16.5345%
+       1969         Fidelity Advisor Asset Manager® 40% - Class M*                                   316069632         16.5345%
+       3257         Fidelity Advisor Asset Manager® 40% - Class Z*                                   316069384         16.5345%
+       1766         Fidelity Advisor Asset Manager® 50% - Class A*                                   316069848         13.8942%
+       1768         Fidelity Advisor Asset Manager® 50% - Class C*                                   316069822         13.8942%
+       1770         Fidelity Advisor Asset Manager® 50% - Class I*                                   316069798         13.8942%
+       1769         Fidelity Advisor Asset Manager® 50% - Class M*                                   316069814         13.8942%
+       3258         Fidelity Advisor Asset Manager® 50% - Class Z*                                   316069376         13.8942%
+       1971         Fidelity Advisor Asset Manager® 60% - Class A*                                   316069574         11.5089%
+       1973         Fidelity Advisor Asset Manager® 60% - Class C*                                   316069541         11.5089%
+       1975         Fidelity Advisor Asset Manager® 60% - Class I*                                   316069533         11.5089%
+       1974         Fidelity Advisor Asset Manager® 60% - Class M*                                   316069566         11.5089%
+       3259         Fidelity Advisor Asset Manager® 60% - Class Z*                                   316069368         11.5089%
+       2108         Fidelity Advisor Asset Manager® 70% - Class A*                                   316069525          8.7091%
+
+
+563636.18.0                Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917          1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                     Fund Name                                         CUSIP          Percentages
+      2110        Fidelity Advisor Asset Manager® 70% - Class C*                                  316069491          8.7091%
+      2112        Fidelity Advisor Asset Manager® 70% - Class I*                                  316069475          8.7091%
+      2111        Fidelity Advisor Asset Manager® 70% - Class M*                                  316069483          8.7091%
+      3260        Fidelity Advisor Asset Manager® 70% - Class Z*                                  316069350          8.7091%
+      1771        Fidelity Advisor Asset Manager® 85% - Class A*                                  316069780          5.8711%
+      1773        Fidelity Advisor Asset Manager® 85% - Class C*                                  316069764          5.8711%
+      1775        Fidelity Advisor Asset Manager® 85% - Class I*                                  316069749          5.8711%
+      1774        Fidelity Advisor Asset Manager® 85% - Class M*                                  316069756          5.8711%
+      3261        Fidelity Advisor Asset Manager® 85% - Class Z*                                  316069343          5.8711%
+      1184        Fidelity Advisor Freedom® 2010 Fund - Class A*                                  315792705         30.1871%
+      1186        Fidelity Advisor Freedom® 2010 Fund - Class C*                                  315792887         30.1871%
+      1188        Fidelity Advisor Freedom® 2010 Fund - Class I*                                  315792861         30.1871%
+      3004        Fidelity Advisor Freedom® 2010 Fund - Class K6*                                 315794206         30.1871%
+      1187        Fidelity Advisor Freedom® 2010 Fund - Class M*                                  315792879         30.1871%
+      3240        Fidelity Advisor Freedom® 2010 Fund - Class Z*                                  315796201         30.1871%
+      1296        Fidelity Advisor Freedom® 2015 Fund - Class A*                                  315792580         24.7139%
+      1298        Fidelity Advisor Freedom® 2015 Fund - Class C*                                  315792564         24.7139%
+      1301        Fidelity Advisor Freedom® 2015 Fund - Class I*                                  315792549         24.7139%
+      3005        Fidelity Advisor Freedom® 2015 Fund - Class K6*                                 315794305         24.7139%
+      1299        Fidelity Advisor Freedom® 2015 Fund - Class M*                                  315792556         24.7139%
+      3241        Fidelity Advisor Freedom® 2015 Fund - Class Z*                                  315796300         24.7139%
+      1189        Fidelity Advisor Freedom® 2020 Fund - Class A*                                  315792853         19.6729%
+      1191        Fidelity Advisor Freedom® 2020 Fund - Class C*                                  315792838         19.6729%
+      1193        Fidelity Advisor Freedom® 2020 Fund - Class I*                                  315792812         19.6729%
+      3006        Fidelity Advisor Freedom® 2020 Fund - Class K6*                                 315794404         19.6729%
+      1192        Fidelity Advisor Freedom® 2020 Fund - Class M*                                  315792820         19.6729%
+      3242        Fidelity Advisor Freedom® 2020 Fund - Class Z*                                  315796409         19.6729%
+      1302        Fidelity Advisor Freedom® 2025 Fund - Class A*                                  315792531         15.5750%
+      1304        Fidelity Advisor Freedom® 2025 Fund - Class C*                                  315792515         15.5750%
+      1306        Fidelity Advisor Freedom® 2025 Fund - Class I*                                  315792481         15.5750%
+      3007        Fidelity Advisor Freedom® 2025 Fund - Class K6*                                 315794503         15.5750%
+      1305        Fidelity Advisor Freedom® 2025 Fund - Class M*                                  315792499         15.5750%
+      3243        Fidelity Advisor Freedom® 2025 Fund - Class Z*                                  315796508         15.5750%
+      1194        Fidelity Advisor Freedom® 2030 Fund - Class A*                                  315792796         11.8359%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                    Fund Name                                          CUSIP          Percentages
+      1196        Fidelity Advisor Freedom® 2030 Fund - Class C*                                  315792770         11.8359%
+      1198        Fidelity Advisor Freedom® 2030 Fund - Class I*                                  315792754         11.8359%
+      3008        Fidelity Advisor Freedom® 2030 Fund - Class K6*                                 315794602         11.8359%
+      1197        Fidelity Advisor Freedom® 2030 Fund - Class M*                                  315792762         11.8359%
+      3244        Fidelity Advisor Freedom® 2030 Fund - Class Z*                                  315796607         11.8359%
+      1307        Fidelity Advisor Freedom® 2035 Fund - Class A*                                  315792473          7.8059%
+      1309        Fidelity Advisor Freedom® 2035 Fund - Class C*                                  315792457          7.8059%
+      1311        Fidelity Advisor Freedom® 2035 Fund - Class I*                                  315792432          7.8059%
+      3009        Fidelity Advisor Freedom® 2035 Fund - Class K6*                                 315794701          7.8059%
+      1310        Fidelity Advisor Freedom® 2035 Fund - Class M*                                  315792440          7.8059%
+      3245        Fidelity Advisor Freedom® 2035 Fund - Class Z*                                  315796706          7.8059%
+      1199        Fidelity Advisor Freedom® 2040 Fund - Class A*                                  315792747          3.7396%
+      1202        Fidelity Advisor Freedom® 2040 Fund - Class C*                                  315792721          3.7396%
+      1204        Fidelity Advisor Freedom® 2040 Fund - Class I*                                  315792697          3.7396%
+      3010        Fidelity Advisor Freedom® 2040 Fund - Class K6*                                 315794800          3.7396%
+      1203        Fidelity Advisor Freedom® 2040 Fund - Class M*                                  315792713          3.7396%
+      3246        Fidelity Advisor Freedom® 2040 Fund - Class Z*                                  315796805          3.7396%
+      1599        Fidelity Advisor Freedom® 2045 Fund - Class A*                                  315792390          2.0227%
+      1602        Fidelity Advisor Freedom® 2045 Fund - Class C*                                  315792374          2.0227%
+      1604        Fidelity Advisor Freedom® 2045 Fund - Class I*                                  315792358          2.0227%
+      3011        Fidelity Advisor Freedom® 2045 Fund - Class K6*                                 315794883          2.0227%
+      1603        Fidelity Advisor Freedom® 2045 Fund - Class M*                                  315792366          2.0227%
+      3247        Fidelity Advisor Freedom® 2045 Fund - Class Z*                                  315796888          2.0227%
+      1605        Fidelity Advisor Freedom® 2050 Fund - Class A*                                  315792341          1.9840%
+      1607        Fidelity Advisor Freedom® 2050 Fund - Class C*                                  315792325          1.9840%
+      1609        Fidelity Advisor Freedom® 2050 Fund - Class I*                                  315792291          1.9840%
+      3012        Fidelity Advisor Freedom® 2050 Fund - Class K6*                                 315794875          1.9840%
+      1608        Fidelity Advisor Freedom® 2050 Fund - Class M*                                  315792317          1.9840%
+      3248        Fidelity Advisor Freedom® 2050 Fund - Class Z*                                  315796870          1.9840%
+      2334        Fidelity Advisor Freedom® 2055 Fund - Class A*                                  315793844          1.9278%
+      2335        Fidelity Advisor Freedom® 2055 Fund - Class C*                                  315793810          1.9278%
+      2336        Fidelity Advisor Freedom® 2055 Fund - Class I*                                  315793786          1.9278%
+      3013        Fidelity Advisor Freedom® 2055 Fund - Class K6*                                 315794867          1.9278%
+      2337        Fidelity Advisor Freedom® 2055 Fund - Class M*                                  315793794          1.9278%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                    Fund Name                                          CUSIP          Percentages
+      3249        Fidelity Advisor Freedom® 2055 Fund - Class Z*                                  315796862          1.9278%
+      2709        Fidelity Advisor Freedom® 2060 Fund - Class A*                                  315793760          1.8936%
+      2710        Fidelity Advisor Freedom® 2060 Fund - Class C*                                  315793745          1.8936%
+      2712        Fidelity Advisor Freedom® 2060 Fund - Class I*                                  315793737          1.8936%
+      3014        Fidelity Advisor Freedom® 2060 Fund - Class K6*                                 315794859          1.8936%
+      2711        Fidelity Advisor Freedom® 2060 Fund - Class M*                                  315793752          1.8936%
+      3250        Fidelity Advisor Freedom® 2060 Fund - Class Z*                                  315796854          1.8936%
+      3408        Fidelity Advisor Freedom® 2065 Fund - Class A*                                  315796821          1.8230%
+      3409        Fidelity Advisor Freedom® 2065 Fund - Class C*                                  315796763          1.8230%
+      3411        Fidelity Advisor Freedom® 2065 Fund - Class I*                                  315796755          1.8230%
+      3413        Fidelity Advisor Freedom® 2065 Fund - Class K6*                                 315796730          1.8230%
+      3410        Fidelity Advisor Freedom® 2065 Fund - Class M*                                  315796771          1.8230%
+      3412        Fidelity Advisor Freedom® 2065 Fund - Class Z*                                  315796748          1.8230%
+      7642        Fidelity Advisor Freedom® 2070 Fund - Class A*                                  31579B622          1.9598%
+      7644        Fidelity Advisor Freedom® 2070 Fund - Class C*                                  31579B598          1.9598%
+      7645        Fidelity Advisor Freedom® 2070 Fund - Class I*                                  31579B580          1.9598%
+      7647        Fidelity Advisor Freedom® 2070 Fund - Class K6*                                 31579B564          1.9598%
+      7643        Fidelity Advisor Freedom® 2070 Fund - Class M*                                  31579B614          1.9598%
+      7646        Fidelity Advisor Freedom® 2070 Fund - Class Z*                                  31579B572          1.9598%
+      3194        Fidelity Advisor Freedom® Blend 2010 Fund - Class A*                            315794438         38.6776%
+      3195        Fidelity Advisor Freedom® Blend 2010 Fund - Class C*                            315794412         38.6776%
+      3197        Fidelity Advisor Freedom® Blend 2010 Fund - Class I*                            315794396         38.6776%
+      3196        Fidelity Advisor Freedom® Blend 2010 Fund - Class M*                            315794420         38.6776%
+      3198        Fidelity Advisor Freedom® Blend 2010 Fund - Class Z*                            315794388         38.6776%
+      3185        Fidelity Advisor Freedom® Blend 2015 Fund - Class A*                            315794370         32.8224%
+      3186        Fidelity Advisor Freedom® Blend 2015 Fund - Class C*                            315794354         32.8224%
+      3188        Fidelity Advisor Freedom® Blend 2015 Fund - Class I*                            315794347         32.8224%
+      3187        Fidelity Advisor Freedom® Blend 2015 Fund - Class M*                            315794362         32.8224%
+      3189        Fidelity Advisor Freedom® Blend 2015 Fund - Class Z*                            315794339         32.8224%
+      3176        Fidelity Advisor Freedom® Blend 2020 Fund - Class A*                            315794321         26.9028%
+      3177        Fidelity Advisor Freedom® Blend 2020 Fund - Class C*                            315794297         26.9028%
+      3179        Fidelity Advisor Freedom® Blend 2020 Fund - Class I*                            315794289         26.9028%
+      3178        Fidelity Advisor Freedom® Blend 2020 Fund - Class M*                            315794313         26.9028%
+      3180        Fidelity Advisor Freedom® Blend 2020 Fund - Class Z*                            315794271         26.9028%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                    Fund Name                                          CUSIP          Percentages
+      3166        Fidelity Advisor Freedom® Blend 2025 Fund - Class A*                            315794263         21.5631%
+      3167        Fidelity Advisor Freedom® Blend 2025 Fund - Class C*                            315794248         21.5631%
+      3169        Fidelity Advisor Freedom® Blend 2025 Fund - Class I*                            315794230         21.5631%
+      3168        Fidelity Advisor Freedom® Blend 2025 Fund - Class M*                            315794255         21.5631%
+      3170        Fidelity Advisor Freedom® Blend 2025 Fund - Class Z*                            315794222         21.5631%
+      3157        Fidelity Advisor Freedom® Blend 2030 Fund - Class A*                            315794214         16.9343%
+      3158        Fidelity Advisor Freedom® Blend 2030 Fund - Class C*                            315794180         16.9343%
+      3160        Fidelity Advisor Freedom® Blend 2030 Fund - Class I*                            315794172         16.9343%
+      3159        Fidelity Advisor Freedom® Blend 2030 Fund - Class M*                            315794198         16.9343%
+      3161        Fidelity Advisor Freedom® Blend 2030 Fund - Class Z*                            315794164         16.9343%
+      3148        Fidelity Advisor Freedom® Blend 2035 Fund - Class A*                            315795104         11.5594%
+      3149        Fidelity Advisor Freedom® Blend 2035 Fund - Class C*                            315795302         11.5594%
+      3151        Fidelity Advisor Freedom® Blend 2035 Fund - Class I*                            315795401         11.5594%
+      3150        Fidelity Advisor Freedom® Blend 2035 Fund - Class M*                            315795203         11.5594%
+      3152        Fidelity Advisor Freedom® Blend 2035 Fund - Class Z*                            315795500         11.5594%
+      3139        Fidelity Advisor Freedom® Blend 2040 Fund - Class A*                            315795609          5.8885%
+      3140        Fidelity Advisor Freedom® Blend 2040 Fund - Class C*                            315795807          5.8885%
+      3142        Fidelity Advisor Freedom® Blend 2040 Fund - Class I*                            315795880          5.8885%
+      3141        Fidelity Advisor Freedom® Blend 2040 Fund - Class M*                            315795708          5.8885%
+      3143        Fidelity Advisor Freedom® Blend 2040 Fund - Class Z*                            315795872          5.8885%
+      3129        Fidelity Advisor Freedom® Blend 2045 Fund - Class A*                            315795864          3.2507%
+      3131        Fidelity Advisor Freedom® Blend 2045 Fund - Class C*                            315795849          3.2507%
+      3133        Fidelity Advisor Freedom® Blend 2045 Fund - Class I*                            315795831          3.2507%
+      3132        Fidelity Advisor Freedom® Blend 2045 Fund - Class M*                            315795856          3.2507%
+      3134        Fidelity Advisor Freedom® Blend 2045 Fund - Class Z*                            315795823          3.2507%
+      3120        Fidelity Advisor Freedom® Blend 2050 Fund - Class A*                            315795815          3.1745%
+      3121        Fidelity Advisor Freedom® Blend 2050 Fund - Class C*                            315795781          3.1745%
+      3123        Fidelity Advisor Freedom® Blend 2050 Fund - Class I*                            315795773          3.1745%
+      3122        Fidelity Advisor Freedom® Blend 2050 Fund - Class M*                            315795799          3.1745%
+      3124        Fidelity Advisor Freedom® Blend 2050 Fund - Class Z*                            315795765          3.1745%
+      3109        Fidelity Advisor Freedom® Blend 2055 Fund - Class A*                            315795757          3.0924%
+      3111        Fidelity Advisor Freedom® Blend 2055 Fund - Class C*                            315795732          3.0924%
+      3114        Fidelity Advisor Freedom® Blend 2055 Fund - Class I*                            315795724          3.0924%
+      3113        Fidelity Advisor Freedom® Blend 2055 Fund - Class M*                            315795740          3.0924%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                     Fund Name                                         CUSIP          Percentages
+      3115        Fidelity Advisor Freedom® Blend 2055 Fund - Class Z*                            315795716          3.0924%
+      3096        Fidelity Advisor Freedom® Blend 2060 Fund - Class A*                            315795690          3.0184%
+      3097        Fidelity Advisor Freedom® Blend 2060 Fund - Class C*                            315795674          3.0184%
+      3099        Fidelity Advisor Freedom® Blend 2060 Fund - Class I*                            315795666          3.0184%
+      3098        Fidelity Advisor Freedom® Blend 2060 Fund - Class M*                            315795682          3.0184%
+      3101        Fidelity Advisor Freedom® Blend 2060 Fund - Class Z*                            315795658          3.0184%
+      3419        Fidelity Advisor Freedom® Blend 2065 Fund - Class A*                            315796722          2.8960%
+      3420        Fidelity Advisor Freedom® Blend 2065 Fund - Class C*                            315796698          2.8960%
+      3422        Fidelity Advisor Freedom® Blend 2065 Fund - Class I*                            315796680          2.8960%
+      3421        Fidelity Advisor Freedom® Blend 2065 Fund - Class M*                            315796714          2.8960%
+      3423        Fidelity Advisor Freedom® Blend 2065 Fund - Class Z*                            315796672          2.8960%
+      7657        Fidelity Advisor Freedom® Blend 2070 Fund - Class A*                            31579B499          3.4624%
+      7659        Fidelity Advisor Freedom® Blend 2070 Fund - Class C*                            31579B473          3.4624%
+      7660        Fidelity Advisor Freedom® Blend 2070 Fund - Class I*                            31579B465          3.4624%
+      7658        Fidelity Advisor Freedom® Blend 2070 Fund - Class M*                            31579B481          3.4624%
+      7661        Fidelity Advisor Freedom® Blend 2070 Fund - Class Z*                            31579B457          3.4624%
+      1205        Fidelity Advisor Freedom® Retirement Fund - Class A*                            315792200         33.0324%
+      1207        Fidelity Advisor Freedom® Retirement Fund - Class C*                            315792408         33.0324%
+      1209        Fidelity Advisor Freedom® Retirement Fund - Class I*                            315792606         33.0324%
+      3015        Fidelity Advisor Freedom® Retirement Fund - Class K6*                           315794842         33.0324%
+      1208        Fidelity Advisor Freedom® Retirement Fund - Class M*                            315792507         33.0324%
+      3238        Fidelity Advisor Freedom® Retirement Fund - Class Z*                            315796847         33.0324%
+      1934        Fidelity Advisor Managed Retirement 2010 FundSM - Class A*                      31617K337         43.1948%
+      1937        Fidelity Advisor Managed Retirement 2010 FundSM - Class I*                      31617K295         43.1948%
+      1943        Fidelity Advisor Managed Retirement 2015 FundSM - Class A*                      31617K220         38.9701%
+      1946        Fidelity Advisor Managed Retirement 2015 FundSM - Class I*                      31617K188         38.9701%
+      1997        Fidelity Advisor Managed Retirement 2020 FundSM - Class A*                      31617L202         34.0137%
+      2000        Fidelity Advisor Managed Retirement 2020 FundSM - Class I*                      31617L509         34.0137%
+      2005        Fidelity Advisor Managed Retirement 2025 FundSM - Class A*                      31617L855         30.0716%
+      2008        Fidelity Advisor Managed Retirement 2025 FundSM - Class I*                      31617L822         30.0716%
+      3499        Fidelity Advisor Managed Retirement 2030 FundSM - Class A*                      31617L525         26.3726%
+      3500        Fidelity Advisor Managed Retirement 2030 FundSM - Class I*                      31617L467         26.3726%
+      7304        Fidelity Advisor Managed Retirement 2035 FundSM - Class A*                      31617L376         21.6554%
+      7306        Fidelity Advisor Managed Retirement 2035 FundSM - Class I*                      31617L335         21.6554%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                      Fund Name                                        CUSIP          Percentages
+      1917        Fidelity Advisor Managed Retirement Income FundSM - Class A*                    31617K550         42.8160%
+      1920        Fidelity Advisor Managed Retirement Income FundSM - Class I*                    31617K527         42.8160%
+      7771        Fidelity Advisor® Balanced Fund - Class A*                                      316345743         26.8588%
+      7773        Fidelity Advisor® Balanced Fund - Class C*                                      316345727         26.8588%
+      7774        Fidelity Advisor® Balanced Fund - Class I*                                      316345719         26.8588%
+      7772        Fidelity Advisor® Balanced Fund - Class M*                                      316345735         26.8588%
+      7775        Fidelity Advisor® Balanced Fund - Class Z*                                      316345693         26.8588%
+       258        Fidelity Advisor® Capital & Income Fund - Class A*                              315807826          2.5919%
+       521        Fidelity Advisor® Capital & Income Fund - Class C*                              315807743          2.5919%
+       644        Fidelity Advisor® Capital & Income Fund - Class I*                              315807875          2.5919%
+       165        Fidelity Advisor® Capital & Income Fund - Class M*                              315807305          2.5919%
+      3278        Fidelity Advisor® Capital & Income Fund - Class Z*                              315806802          2.5919%
+      7362        Fidelity Advisor® Conservative Income Bond Fund - Class A*                      31635T237         19.7411%
+      7363        Fidelity Advisor® Conservative Income Bond Fund - Class I*                      31635T229         19.7411%
+      7364        Fidelity Advisor® Conservative Income Bond Fund - Class Z*                      31635T211         19.7411%
+      2209        Fidelity Advisor® Corporate Bond Fund - Class A*                                316146588          8.1286%
+      2217        Fidelity Advisor® Corporate Bond Fund - Class C*                                316146562          8.1286%
+      2220        Fidelity Advisor® Corporate Bond Fund - Class I*                                316146547          8.1286%
+      2218        Fidelity Advisor® Corporate Bond Fund - Class M*                                316146554          8.1286%
+      3304        Fidelity Advisor® Corporate Bond Fund - Class Z*                                31635V125          8.1286%
+      6380        Fidelity Advisor® Environmental Bond Fund - Class A*                            31617L459         41.2014%
+      6381        Fidelity Advisor® Environmental Bond Fund - Class C*                            31617L442         41.2014%
+      6383        Fidelity Advisor® Environmental Bond Fund - Class I*                            31617L426         41.2014%
+      6382        Fidelity Advisor® Environmental Bond Fund - Class M*                            31617L434         41.2014%
+      6384        Fidelity Advisor® Environmental Bond Fund - Class Z*                            31617L418         41.2014%
+       245        Fidelity Advisor® Equity Growth Fund - Class A*                                 315805853          1.8024%
+       479        Fidelity Advisor® Equity Growth Fund - Class C*                                 315805754          1.8024%
+        86        Fidelity Advisor® Equity Growth Fund - Class I*                                 315805101          1.8024%
+       286        Fidelity Advisor® Equity Growth Fund - Class M*                                 315805200          1.8024%
+      2531        Fidelity Advisor® Equity Growth Fund - Class Z*                                 315805267          1.8024%
+       861        Fidelity Advisor® Floating Rate High Income Fund - Class A*                     315807594          0.6503%
+       871        Fidelity Advisor® Floating Rate High Income Fund - Class C*                     315807560          0.6503%
+       279        Fidelity Advisor® Floating Rate High Income Fund - Class I*                     315807552          0.6503%
+       872        Fidelity Advisor® Floating Rate High Income Fund - Class M*                     315807586          0.6503%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                      Fund Name                                        CUSIP           Percentages
+      3277        Fidelity Advisor® Floating Rate High Income Fund - Class Z*                     315806703           0.6503%
+      2424        Fidelity Advisor® Global Credit Fund - Class A*                                 31638R873          22.1804%
+      2425        Fidelity Advisor® Global Credit Fund - Class C*                                 31638R857          22.1804%
+      2432        Fidelity Advisor® Global Credit Fund - Class I*                                 31638R840          22.1804%
+      2426        Fidelity Advisor® Global Credit Fund - Class M*                                 31638R865          22.1804%
+      3282        Fidelity Advisor® Global Credit Fund - Class Z*                                 31638R691          22.1804%
+      1755        Fidelity Advisor® Government Income Fund - Class A*                             31617K782          44.8511%
+      1757        Fidelity Advisor® Government Income Fund - Class C*                             31617K766          44.8511%
+      1759        Fidelity Advisor® Government Income Fund - Class I*                             31617K741          44.8511%
+      1758        Fidelity Advisor® Government Income Fund - Class M*                             31617K758          44.8511%
+      3305        Fidelity Advisor® Government Income Fund - Class Z*                             31617L749          44.8511%
+      8997        Fidelity Advisor® Growth & Income Fund - Class A*                               31638A607           1.5673%
+       272        Fidelity Advisor® Growth & Income Fund - Class A*                               315805846           1.0876%
+      8999        Fidelity Advisor® Growth & Income Fund - Class C*                               31638A805           1.5673%
+       481        Fidelity Advisor® Growth & Income Fund - Class C*                               315805739           1.0876%
+      9000        Fidelity Advisor® Growth & Income Fund - Class I*                               31638A888           1.5673%
+       276        Fidelity Advisor® Growth & Income Fund - Class I*                               315805812           1.0876%
+      8998        Fidelity Advisor® Growth & Income Fund - Class M*                               31638A706           1.5673%
+       274        Fidelity Advisor® Growth & Income Fund - Class M*                               315805820           1.0876%
+      9001        Fidelity Advisor® Growth & Income Fund - Class Z*                               31638A870           1.5673%
+      2885        Fidelity Advisor® Growth & Income Fund - Class Z*                               315805143           1.0876%
+      3311        Fidelity Advisor® High Income Fund - Class A*                                   31641Q771           1.2559%
+      3313        Fidelity Advisor® High Income Fund - Class C*                                   31641Q730           1.2559%
+      3314        Fidelity Advisor® High Income Fund - Class I*                                   31641Q722           1.2559%
+      3312        Fidelity Advisor® High Income Fund - Class M*                                   31641Q748           1.2559%
+      3316        Fidelity Advisor® High Income Fund - Class Z*                                   31641Q714           1.2559%
+      1118        Fidelity Advisor® Investment Grade Bond Fund - Class A*                         316146703          43.3450%
+      1124        Fidelity Advisor® Investment Grade Bond Fund - Class C*                         316146877          43.3450%
+      1126        Fidelity Advisor® Investment Grade Bond Fund - Class I*                         316146869          43.3450%
+      1125        Fidelity Advisor® Investment Grade Bond Fund - Class M*                         316146802          43.3450%
+      3251        Fidelity Advisor® Investment Grade Bond Fund - Class Z*                         31635T807          43.3450%
+       250        Fidelity Advisor® Large Cap Fund - Class A*                                     315805861           3.2532%
+       483        Fidelity Advisor® Large Cap Fund - Class C*                                     315805747           3.2532%
+       536        Fidelity Advisor® Large Cap Fund - Class I*                                     315805887           3.2532%
+
+
+563636.18.0                Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                       Fund Name                                       CUSIP           Percentages
+       534        Fidelity Advisor® Large Cap Fund - Class M*                                     315805705           3.2532%
+      2889        Fidelity Advisor® Large Cap Fund - Class Z*                                     315805135           3.2532%
+      9065        Fidelity Advisor® Large Cap Stock Fund - Class A*                               315911438           2.7305%
+      9067        Fidelity Advisor® Large Cap Stock Fund - Class C*                               315911412           2.7305%
+      9068        Fidelity Advisor® Large Cap Stock Fund - Class I*                               315911396           2.7305%
+      9066        Fidelity Advisor® Large Cap Stock Fund - Class M*                               315911420           2.7305%
+      9069        Fidelity Advisor® Large Cap Stock Fund - Class Z*                               315911388           2.7305%
+       261        Fidelity Advisor® Limited Term Bond Fund - Class A*                             315809806          15.1724%
+       524        Fidelity Advisor® Limited Term Bond Fund - Class C*                             315809889          15.1724%
+        87        Fidelity Advisor® Limited Term Bond Fund - Class I*                             315809103          15.1724%
+       287        Fidelity Advisor® Limited Term Bond Fund - Class M*                             315809202          15.1724%
+      3252        Fidelity Advisor® Limited Term Bond Fund - Class Z*                             315807446          15.1724%
+      6520        Fidelity Advisor® Macro Opportunities Fund - Class A*                           31624J802           1.3356%
+      6521        Fidelity Advisor® Macro Opportunities Fund - Class C*                           31624J885           1.3356%
+      6523        Fidelity Advisor® Macro Opportunities Fund - Class I*                           31624J869           1.3356%
+      6522        Fidelity Advisor® Macro Opportunities Fund - Class M*                           31624J877           1.3356%
+      6524        Fidelity Advisor® Macro Opportunities Fund - Class Z*                           31624J851           1.3356%
+      2034        Fidelity Advisor® Mega Cap Stock Fund - Class A*                                31617F502           4.6924%
+      2036        Fidelity Advisor® Mega Cap Stock Fund - Class C*                                31617F700           4.6924%
+      2038        Fidelity Advisor® Mega Cap Stock Fund - Class I*                                31617F882           4.6924%
+      2037        Fidelity Advisor® Mega Cap Stock Fund - Class M*                                31617F809           4.6924%
+      2537        Fidelity Advisor® Mega Cap Stock Fund - Class Z*                                31617F791           4.6924%
+       237        Fidelity Advisor® Mortgage Securities Fund - Class A*                           31617K402           5.3107%
+      5635        Fidelity Advisor® Mortgage Securities Fund - Class C*                           315807545           5.3107%
+       240        Fidelity Advisor® Mortgage Securities Fund - Class I*                           31617K709           5.3107%
+       239        Fidelity Advisor® Mortgage Securities Fund - Class M*                           31617K600           5.3107%
+      3253        Fidelity Advisor® Mortgage Securities Fund - Class Z*                           315807438           5.3107%
+      2792        Fidelity Advisor® Multi-Asset Income Fund - Class A*                            31638R766          16.8603%
+      2793        Fidelity Advisor® Multi-Asset Income Fund - Class C*                            31638R758          16.8603%
+      2795        Fidelity Advisor® Multi-Asset Income Fund - Class I*                            31638R733          16.8603%
+      2794        Fidelity Advisor® Multi-Asset Income Fund - Class M*                            31638R741          16.8603%
+      3285        Fidelity Advisor® Multi-Asset Income Fund - Class Z*                            31638R675          16.8603%
+      3317        Fidelity Advisor® New Markets Income Fund - Class A*                            31641Q698           2.3772%
+      3320        Fidelity Advisor® New Markets Income Fund - Class C*                            31641Q672           2.3772%
+
+
+563636.18.0                Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                       Fund Name                                       CUSIP           Percentages
+      3322        Fidelity Advisor® New Markets Income Fund - Class I*                            31641Q763           2.3772%
+      3319        Fidelity Advisor® New Markets Income Fund - Class M*                            31641Q680           2.3772%
+      3323        Fidelity Advisor® New Markets Income Fund - Class Z*                            31641Q755           2.3772%
+      2221        Fidelity Advisor® Real Estate Income Fund - Class A*                            316389477           1.2512%
+      2224        Fidelity Advisor® Real Estate Income Fund - Class C*                            316389469           1.2512%
+      2227        Fidelity Advisor® Real Estate Income Fund - Class I*                            316389444           1.2512%
+      2225        Fidelity Advisor® Real Estate Income Fund - Class M*                            316389451           1.2512%
+      3302        Fidelity Advisor® Real Estate Income Fund - Class Z*                            316389311           1.2512%
+      6514        Fidelity Advisor® Risk Parity Fund - Class A*                                   31624J208          20.6405%
+      6515        Fidelity Advisor® Risk Parity Fund - Class C*                                   31624J307          20.6405%
+      6517        Fidelity Advisor® Risk Parity Fund - Class I*                                   31624J505          20.6405%
+      6516        Fidelity Advisor® Risk Parity Fund - Class M*                                   31624J406          20.6405%
+      6518        Fidelity Advisor® Risk Parity Fund - Class Z*                                   31624J604          20.6405%
+      2842        Fidelity Advisor® Short-Term Bond Fund - Class A*                               31635V596          31.6927%
+      2843        Fidelity Advisor® Short-Term Bond Fund - Class C*                               31635V570          31.6927%
+      2845        Fidelity Advisor® Short-Term Bond Fund - Class I*                               31635V562          31.6927%
+      2844        Fidelity Advisor® Short-Term Bond Fund - Class M*                               31635V588          31.6927%
+      3254        Fidelity Advisor® Short-Term Bond Fund - Class Z*                               31635T880          31.6927%
+       260        Fidelity Advisor® Strategic Income Fund - Class A*                              315920850          16.5089%
+       523        Fidelity Advisor® Strategic Income Fund - Class C*                              315807669          16.5089%
+       648        Fidelity Advisor® Strategic Income Fund - Class I*                              315920801          16.5089%
+       638        Fidelity Advisor® Strategic Income Fund - Class M*                              315920504          16.5089%
+      3286        Fidelity Advisor® Strategic Income Fund - Class Z*                              315807420          16.5089%
+      1486        Fidelity Advisor® Strategic Real Return Fund - Class A*                         315912873          25.8928%
+      1488        Fidelity Advisor® Strategic Real Return Fund - Class C*                         315912857          25.8928%
+      1490        Fidelity Advisor® Strategic Real Return Fund - Class I*                         315912832          25.8928%
+      1489        Fidelity Advisor® Strategic Real Return Fund - Class M*                         315912840          25.8928%
+      3262        Fidelity Advisor® Strategic Real Return Fund - Class Z*                         31635T872          25.8928%
+      6542        Fidelity Advisor® Sustainable Core Plus Bond Fund - Class A*                    31635T567          36.3628%
+      6543        Fidelity Advisor® Sustainable Core Plus Bond Fund - Class C*                    31635T559          36.3628%
+      6545        Fidelity Advisor® Sustainable Core Plus Bond Fund - Class I*                    31635T534          36.3628%
+      6544        Fidelity Advisor® Sustainable Core Plus Bond Fund - Class M*                    31635T542          36.3628%
+      6546        Fidelity Advisor® Sustainable Core Plus Bond Fund - Class Z*                    31635T526          36.3628%
+      6527        Fidelity Advisor® Sustainable Low Duration Bond Fund - Class A*                 31635T484          27.4116%
+
+
+563636.18.0                Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                      Fund Name                                         CUSIP          Percentages
+      6528        Fidelity Advisor® Sustainable Low Duration Bond Fund - Class C*                  31635T476         27.4116%
+      6530        Fidelity Advisor® Sustainable Low Duration Bond Fund - Class I*                  31635T450         27.4116%
+      6529        Fidelity Advisor® Sustainable Low Duration Bond Fund - Class M*                  31635T468         27.4116%
+      6531        Fidelity Advisor® Sustainable Low Duration Bond Fund - Class Z*                  31635T443         27.4116%
+      6478        Fidelity Advisor® Sustainable Multi-Asset Fund - Class A*                        316069285         25.0927%
+      6479        Fidelity Advisor® Sustainable Multi-Asset Fund - Class C*                        316069277         25.0927%
+      6481        Fidelity Advisor® Sustainable Multi-Asset Fund - Class I*                        316069269         25.0927%
+      6480        Fidelity Advisor® Sustainable Multi-Asset Fund - Class M*                        316069251         25.0927%
+      7383        Fidelity Advisor® Sustainable Target Date 2010 Fund - Class A*                   31579A608         55.1386%
+      7384        Fidelity Advisor® Sustainable Target Date 2010 Fund - Class C*                   31579A707         55.1386%
+      7386        Fidelity Advisor® Sustainable Target Date 2010 Fund - Class I*                   31579A806         55.1386%
+      7385        Fidelity Advisor® Sustainable Target Date 2010 Fund - Class M*                   31579A889         55.1386%
+      7387        Fidelity Advisor® Sustainable Target Date 2010 Fund - Class Z*                   31579A871         55.1386%
+      7392        Fidelity Advisor® Sustainable Target Date 2015 Fund - Class A*                   31579A863         48.6641%
+      7393        Fidelity Advisor® Sustainable Target Date 2015 Fund - Class C*                   31579A855         48.6641%
+      7395        Fidelity Advisor® Sustainable Target Date 2015 Fund - Class I*                   31579A848         48.6641%
+      7394        Fidelity Advisor® Sustainable Target Date 2015 Fund - Class M*                   31579A830         48.6641%
+      7396        Fidelity Advisor® Sustainable Target Date 2015 Fund - Class Z*                   31579A822         48.6641%
+      7401        Fidelity Advisor® Sustainable Target Date 2020 Fund - Class A*                   31579A814         42.6454%
+      7402        Fidelity Advisor® Sustainable Target Date 2020 Fund - Class C*                   31579A798         42.6454%
+      7404        Fidelity Advisor® Sustainable Target Date 2020 Fund - Class I*                   31579A780         42.6454%
+      7403        Fidelity Advisor® Sustainable Target Date 2020 Fund - Class M*                   31579A772         42.6454%
+      7405        Fidelity Advisor® Sustainable Target Date 2020 Fund - Class Z*                   31579A764         42.6454%
+      7410        Fidelity Advisor® Sustainable Target Date 2025 Fund - Class A*                   31579A756         42.2723%
+      7411        Fidelity Advisor® Sustainable Target Date 2025 Fund - Class C*                   31579A749         42.2723%
+      7413        Fidelity Advisor® Sustainable Target Date 2025 Fund - Class I*                   31579A731         42.2723%
+      7412        Fidelity Advisor® Sustainable Target Date 2025 Fund - Class M*                   31579A723         42.2723%
+      7414        Fidelity Advisor® Sustainable Target Date 2025 Fund - Class Z*                   31579A715         42.2723%
+      7419        Fidelity Advisor® Sustainable Target Date 2030 Fund - Class A*                   31579A699         37.7668%
+      7420        Fidelity Advisor® Sustainable Target Date 2030 Fund - Class C*                   31579A681         37.7668%
+      7422        Fidelity Advisor® Sustainable Target Date 2030 Fund - Class I*                   31579A673         37.7668%
+      7421        Fidelity Advisor® Sustainable Target Date 2030 Fund - Class M*                   31579A665         37.7668%
+      7423        Fidelity Advisor® Sustainable Target Date 2030 Fund - Class Z*                   31579A657         37.7668%
+      7428        Fidelity Advisor® Sustainable Target Date 2035 Fund - Class A*                   31579A640         30.0508%
+
+
+563636.18.0                Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                      Fund Name                                         CUSIP          Percentages
+      7429        Fidelity Advisor® Sustainable Target Date 2035 Fund - Class C*                   31579A632         30.0508%
+      7431        Fidelity Advisor® Sustainable Target Date 2035 Fund - Class I*                   31579A624         30.0508%
+      7430        Fidelity Advisor® Sustainable Target Date 2035 Fund - Class M*                   31579A616         30.0508%
+      7432        Fidelity Advisor® Sustainable Target Date 2035 Fund - Class Z*                   31579A590         30.0508%
+      7437        Fidelity Advisor® Sustainable Target Date 2040 Fund - Class A*                   31579A582         20.4858%
+      7438        Fidelity Advisor® Sustainable Target Date 2040 Fund - Class C*                   31579A574         20.4858%
+      7440        Fidelity Advisor® Sustainable Target Date 2040 Fund - Class I*                   31579A566         20.4858%
+      7439        Fidelity Advisor® Sustainable Target Date 2040 Fund - Class M*                   31579A558         20.4858%
+      7441        Fidelity Advisor® Sustainable Target Date 2040 Fund - Class Z*                   31579A541         20.4858%
+      7446        Fidelity Advisor® Sustainable Target Date 2045 Fund - Class A*                   31579A533         13.7772%
+      7447        Fidelity Advisor® Sustainable Target Date 2045 Fund - Class C*                   31579A525         13.7772%
+      7449        Fidelity Advisor® Sustainable Target Date 2045 Fund - Class I*                   31579A517         13.7772%
+      7448        Fidelity Advisor® Sustainable Target Date 2045 Fund - Class M*                   31579A491         13.7772%
+      7450        Fidelity Advisor® Sustainable Target Date 2045 Fund - Class Z*                   31579A483         13.7772%
+      7455        Fidelity Advisor® Sustainable Target Date 2050 Fund - Class A*                   31579A475         12.9035%
+      7456        Fidelity Advisor® Sustainable Target Date 2050 Fund - Class C*                   31579A467         12.9035%
+      7458        Fidelity Advisor® Sustainable Target Date 2050 Fund - Class I*                   31579A459         12.9035%
+      7457        Fidelity Advisor® Sustainable Target Date 2050 Fund - Class M*                   31579A442         12.9035%
+      7459        Fidelity Advisor® Sustainable Target Date 2050 Fund - Class Z*                   31579A434         12.9035%
+      7464        Fidelity Advisor® Sustainable Target Date 2055 Fund - Class A*                   31579A426         12.9702%
+      7465        Fidelity Advisor® Sustainable Target Date 2055 Fund - Class C*                   31579A418         12.9702%
+      7467        Fidelity Advisor® Sustainable Target Date 2055 Fund - Class I*                   31579A392         12.9702%
+      7466        Fidelity Advisor® Sustainable Target Date 2055 Fund - Class M*                   31579A384         12.9702%
+      7468        Fidelity Advisor® Sustainable Target Date 2055 Fund - Class Z*                   31579A376         12.9702%
+      7473        Fidelity Advisor® Sustainable Target Date 2060 Fund - Class A*                   31579A368         13.0866%
+      7474        Fidelity Advisor® Sustainable Target Date 2060 Fund - Class C*                   31579A350         13.0866%
+      7476        Fidelity Advisor® Sustainable Target Date 2060 Fund - Class I*                   31579A343         13.0866%
+      7475        Fidelity Advisor® Sustainable Target Date 2060 Fund - Class M*                   31579A335         13.0866%
+      7477        Fidelity Advisor® Sustainable Target Date 2060 Fund - Class Z*                   31579A327         13.0866%
+      7482        Fidelity Advisor® Sustainable Target Date 2065 Fund - Class A*                   31579A319         13.3684%
+      7483        Fidelity Advisor® Sustainable Target Date 2065 Fund - Class C*                   31579A293         13.3684%
+      7485        Fidelity Advisor® Sustainable Target Date 2065 Fund - Class I*                   31579A285         13.3684%
+      7484        Fidelity Advisor® Sustainable Target Date 2065 Fund - Class M*                   31579A277         13.3684%
+      7486        Fidelity Advisor® Sustainable Target Date 2065 Fund - Class Z*                   31579A269         13.3684%
+
+
+563636.18.0                Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                      Fund Name                                         CUSIP          Percentages
+      7666        Fidelity Advisor® Sustainable Target Date 2070 Fund - Class A*                   31579B424         12.1847%
+      7668        Fidelity Advisor® Sustainable Target Date 2070 Fund - Class C*                   31579B390         12.1847%
+      7669        Fidelity Advisor® Sustainable Target Date 2070 Fund - Class I*                   31579B382         12.1847%
+      7667        Fidelity Advisor® Sustainable Target Date 2070 Fund - Class M*                   31579B416         12.1847%
+      7670        Fidelity Advisor® Sustainable Target Date 2070 Fund - Class Z*                   31579B374         12.1847%
+      7374        Fidelity Advisor® Sustainable Target Date Retirement Fund - Class A*             31579A103         56.8426%
+      7375        Fidelity Advisor® Sustainable Target Date Retirement Fund - Class C*             31579A202         56.8426%
+      7377        Fidelity Advisor® Sustainable Target Date Retirement Fund - Class I*             31579A301         56.8426%
+      7376        Fidelity Advisor® Sustainable Target Date Retirement Fund - Class M*             31579A400         56.8426%
+      7378        Fidelity Advisor® Sustainable Target Date Retirement Fund - Class Z*             31579A509         56.8426%
+      6503        Fidelity Advisor® Tactical Bond Fund - Class A*                                  31635T633         39.0568%
+      6504        Fidelity Advisor® Tactical Bond Fund - Class C*                                  31635T625         39.0568%
+      6506        Fidelity Advisor® Tactical Bond Fund - Class I*                                  31635T591         39.0568%
+      6505        Fidelity Advisor® Tactical Bond Fund - Class M*                                  31635T617         39.0568%
+      6507        Fidelity Advisor® Tactical Bond Fund - Class Z*                                  31635T583         39.0568%
+      1341        Fidelity Advisor® Total Bond Fund - Class A*                                     31617K873         29.9177%
+      1343        Fidelity Advisor® Total Bond Fund - Class C*                                     31617K857         29.9177%
+      1345        Fidelity Advisor® Total Bond Fund - Class I*                                     31617K832         29.9177%
+      1344        Fidelity Advisor® Total Bond Fund - Class M*                                     31617K840         29.9177%
+      2733        Fidelity Advisor® Total Bond Fund - Class Z*                                     31617L798         29.9177%
+       328        Fidelity Asset Manager® 20%*                                                     316069400         23.1995%
+      1957        Fidelity Asset Manager® 30%*                                                     316069723         20.0447%
+      1958        Fidelity Asset Manager® 40%*                                                     316069657         16.5345%
+       314        Fidelity Asset Manager® 50%*                                                     316069103         13.8942%
+      1959        Fidelity Asset Manager® 60%*                                                     316069582         11.5089%
+       321        Fidelity Asset Manager® 70%*                                                     316069301          8.7091%
+       347        Fidelity Asset Manager® 85%*                                                     316069707          5.8711%
+      3087        Fidelity FlexSM Conservative Income Bond Fund*                                   31635T500         19.7179%
+      2903        Fidelity FlexSM Freedom Blend 2010 Fund*                                         315793521         39.7963%
+      2904        Fidelity FlexSM Freedom Blend 2015 Fund*                                         315793513         34.2879%
+      2905        Fidelity FlexSM Freedom Blend 2020 Fund*                                         315793497         28.6285%
+      2906        Fidelity FlexSM Freedom Blend 2025 Fund*                                         315793489         26.2465%
+      2907        Fidelity FlexSM Freedom Blend 2030 Fund*                                         315793471         21.2963%
+      2908        Fidelity FlexSM Freedom Blend 2035 Fund*                                         315793463         15.5691%
+
+
+563636.18.0                Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                      Fund Name                                        CUSIP           Percentages
+      2909        Fidelity FlexSM Freedom Blend 2040 Fund*                                        315793455           8.9318%
+      2910        Fidelity FlexSM Freedom Blend 2045 Fund*                                        315793448           5.5224%
+      2911        Fidelity FlexSM Freedom Blend 2050 Fund*                                        315793430           5.7230%
+      2912        Fidelity FlexSM Freedom Blend 2055 Fund*                                        315793422           5.2878%
+      2913        Fidelity FlexSM Freedom Blend 2060 Fund*                                        315793414           5.2521%
+      3414        Fidelity FlexSM Freedom Blend 2065 Fund*                                        315796813           4.8395%
+      7649        Fidelity FlexSM Freedom Blend 2070 Fund*                                        31579B655           5.2067%
+      2901        Fidelity FlexSM Freedom Blend Retirement Fund*                                  315793547          43.4712%
+      2897        Fidelity FlexSM Government Money Market Fund*                                   31617H888          56.7682%
+      8966        Fidelity FlexSM International Focused Index Fund*                               31635T138           2.5969%
+      8969        Fidelity FlexSM Large Cap Focused Index Fund*                                   315911370           3.5714%
+      2917        Fidelity FlexSM U.S. Bond Index Fund*                                           31635V539          44.6131%
+      3021        Fidelity Freedom® 2010 Fund - Class K*                                          315794818          31.6154%
+      2990        Fidelity Freedom® 2010 Fund - Class K6*                                         315793232          31.6154%
+       371        Fidelity Freedom® 2010 Fund*                                                    31617R506          31.6154%
+      3022        Fidelity Freedom® 2015 Fund - Class K*                                          315794792          26.1110%
+      2991        Fidelity Freedom® 2015 Fund - Class K6*                                         315793224          26.1110%
+      1313        Fidelity Freedom® 2015 Fund*                                                    315792671          26.1110%
+      3023        Fidelity Freedom® 2020 Fund - Class K*                                          315794784          21.1040%
+      2992        Fidelity Freedom® 2020 Fund - Class K6*                                         315793216          21.1040%
+       372        Fidelity Freedom® 2020 Fund*                                                    31617R605          21.1040%
+      3024        Fidelity Freedom® 2025 Fund - Class K*                                          315794776          16.8190%
+      2993        Fidelity Freedom® 2025 Fund - Class K6*                                         315793190          16.8190%
+      1314        Fidelity Freedom® 2025 Fund*                                                    315792663          16.8190%
+      3025        Fidelity Freedom® 2030 Fund - Class K*                                          315794768          12.8609%
+      2994        Fidelity Freedom® 2030 Fund - Class K6*                                         315793182          12.8609%
+       373        Fidelity Freedom® 2030 Fund*                                                    31617R704          12.8609%
+      3026        Fidelity Freedom® 2035 Fund - Class K*                                          315794750           8.4458%
+      2995        Fidelity Freedom® 2035 Fund - Class K6*                                         315793174           8.4458%
+      1315        Fidelity Freedom® 2035 Fund*                                                    315792655           8.4458%
+      3027        Fidelity Freedom® 2040 Fund - Class K*                                          315794743           4.1502%
+      2996        Fidelity Freedom® 2040 Fund - Class K6*                                         315793166           4.1502%
+       718        Fidelity Freedom® 2040 Fund*                                                    315792101           4.1502%
+      3028        Fidelity Freedom® 2045 Fund - Class K*                                          315794735           2.2468%
+
+
+563636.18.0                Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                    Fund Name                                          CUSIP          Percentages
+      2997        Fidelity Freedom® 2045 Fund - Class K6*                                         315793158          2.2468%
+      1617        Fidelity Freedom® 2045 Fund*                                                    315792424          2.2468%
+      3029        Fidelity Freedom® 2050 Fund - Class K*                                          315794727          2.1976%
+      2998        Fidelity Freedom® 2050 Fund - Class K6*                                         315793141          2.1976%
+      1618        Fidelity Freedom® 2050 Fund*                                                    315792416          2.1976%
+      3030        Fidelity Freedom® 2055 Fund - Class K*                                          315794719          2.1329%
+      2999        Fidelity Freedom® 2055 Fund - Class K6*                                         315793133          2.1329%
+      2331        Fidelity Freedom® 2055 Fund*                                                    315793851          2.1329%
+      3031        Fidelity Freedom® 2060 Fund - Class K*                                          315794693          2.0984%
+      3000        Fidelity Freedom® 2060 Fund - Class K6*                                         315793125          2.0984%
+      2708        Fidelity Freedom® 2060 Fund*                                                    315793729          2.0984%
+      3416        Fidelity Freedom® 2065 Fund - Class K*                                          315796631          1.9978%
+      3417        Fidelity Freedom® 2065 Fund - Class K6*                                         315796623          1.9978%
+      3415        Fidelity Freedom® 2065 Fund*                                                    315796797          1.9978%
+      7640        Fidelity Freedom® 2070 Fund - Class K*                                          31579B671          1.8847%
+      7641        Fidelity Freedom® 2070 Fund - Class K6*                                         31579B663          1.8847%
+      7639        Fidelity Freedom® 2070 Fund*                                                    31579B689          1.8847%
+      3200        Fidelity Freedom® Blend 2010 Fund - Class K*                                    315795625         38.6776%
+      3201        Fidelity Freedom® Blend 2010 Fund - Class K6*                                   315795476         38.6776%
+      6364        Fidelity Freedom® Blend 2010 Fund - Premier Class*                              315796425         38.6776%
+      3193        Fidelity Freedom® Blend 2010 Fund*                                              315794669         38.6776%
+      3191        Fidelity Freedom® Blend 2015 Fund - Class K*                                    315795617         32.8224%
+      3192        Fidelity Freedom® Blend 2015 Fund - Class K6*                                   315795468         32.8224%
+      6365        Fidelity Freedom® Blend 2015 Fund - Premier Class*                              315796417         32.8224%
+      3184        Fidelity Freedom® Blend 2015 Fund*                                              315794651         32.8224%
+      3182        Fidelity Freedom® Blend 2020 Fund - Class K*                                    315795591         26.9028%
+      3183        Fidelity Freedom® Blend 2020 Fund - Class K6*                                   315795450         26.9028%
+      6366        Fidelity Freedom® Blend 2020 Fund - Premier Class*                              315796391         26.9028%
+      3174        Fidelity Freedom® Blend 2020 Fund*                                              315794644         26.9028%
+      3172        Fidelity Freedom® Blend 2025 Fund - Class K*                                    315795583         21.5631%
+      3173        Fidelity Freedom® Blend 2025 Fund - Class K6*                                   315795443         21.5631%
+      6367        Fidelity Freedom® Blend 2025 Fund - Premier Class*                              315796383         21.5631%
+      3165        Fidelity Freedom® Blend 2025 Fund*                                              315794636         21.5631%
+      3163        Fidelity Freedom® Blend 2030 Fund - Class K*                                    315795575         16.9343%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                    Fund Name                                          CUSIP          Percentages
+      3164        Fidelity Freedom® Blend 2030 Fund - Class K6*                                   315795435         16.9343%
+      6368        Fidelity Freedom® Blend 2030 Fund - Premier Class*                              315796375         16.9343%
+      3156        Fidelity Freedom® Blend 2030 Fund*                                              315794628         16.9343%
+      3154        Fidelity Freedom® Blend 2035 Fund - Class K*                                    315795567         11.5594%
+      3155        Fidelity Freedom® Blend 2035 Fund - Class K6*                                   315795427         11.5594%
+      6369        Fidelity Freedom® Blend 2035 Fund - Premier Class*                              315796367         11.5594%
+      3147        Fidelity Freedom® Blend 2035 Fund*                                              315794610         11.5594%
+      3145        Fidelity Freedom® Blend 2040 Fund - Class K*                                    315795559          5.8885%
+      3146        Fidelity Freedom® Blend 2040 Fund - Class K6*                                   315795419          5.8885%
+      6370        Fidelity Freedom® Blend 2040 Fund - Premier Class*                              315796359          5.8885%
+      3138        Fidelity Freedom® Blend 2040 Fund*                                              315794594          5.8885%
+      3136        Fidelity Freedom® Blend 2045 Fund - Class K*                                    315795542          3.2507%
+      3137        Fidelity Freedom® Blend 2045 Fund - Class K6*                                   315795393          3.2507%
+      6371        Fidelity Freedom® Blend 2045 Fund - Premier Class*                              315796342          3.2507%
+      3128        Fidelity Freedom® Blend 2045 Fund*                                              315794586          3.2507%
+      3126        Fidelity Freedom® Blend 2050 Fund - Class K*                                    315795534          3.1745%
+      3127        Fidelity Freedom® Blend 2050 Fund - Class K6*                                   315795385          3.1745%
+      6372        Fidelity Freedom® Blend 2050 Fund - Premier Class*                              315796334          3.1745%
+      3119        Fidelity Freedom® Blend 2050 Fund*                                              315794578          3.1745%
+      3117        Fidelity Freedom® Blend 2055 Fund - Class K*                                    315795526          3.0924%
+      3118        Fidelity Freedom® Blend 2055 Fund - Class K6*                                   315795377          3.0924%
+      6373        Fidelity Freedom® Blend 2055 Fund - Premier Class*                              315796326          3.0924%
+      3108        Fidelity Freedom® Blend 2055 Fund*                                              315794560          3.0924%
+      3105        Fidelity Freedom® Blend 2060 Fund - Class K*                                    315795518          3.0184%
+      3107        Fidelity Freedom® Blend 2060 Fund - Class K6*                                   315795369          3.0184%
+      6374        Fidelity Freedom® Blend 2060 Fund - Premier Class*                              315796318          3.0184%
+      3095        Fidelity Freedom® Blend 2060 Fund*                                              315794552          3.0184%
+      3425        Fidelity Freedom® Blend 2065 Fund - Class K*                                    315796656          2.8960%
+      3426        Fidelity Freedom® Blend 2065 Fund - Class K6*                                   315796649          2.8960%
+      6375        Fidelity Freedom® Blend 2065 Fund - Premier Class*                              315796292          2.8960%
+      3418        Fidelity Freedom® Blend 2065 Fund*                                              315796789          2.8960%
+      7655        Fidelity Freedom® Blend 2070 Fund - Class K*                                    31579B531          3.4624%
+      7656        Fidelity Freedom® Blend 2070 Fund - Class K6*                                   31579B523          3.4624%
+      7662        Fidelity Freedom® Blend 2070 Fund - Premier Class*                              31579B515          3.4624%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                    Fund Name                                           CUSIP          Percentages
+      7654        Fidelity Freedom® Blend 2070 Fund*                                               31579B549          3.4624%
+      3212        Fidelity Freedom® Blend Retirement Fund - Class A*                               315794545         41.8015%
+      3213        Fidelity Freedom® Blend Retirement Fund - Class C*                               315794529         41.8015%
+      3215        Fidelity Freedom® Blend Retirement Fund - Class I*                               315794511         41.8015%
+      3218        Fidelity Freedom® Blend Retirement Fund - Class K*                               315795641         41.8015%
+      3219        Fidelity Freedom® Blend Retirement Fund - Class K6*                              315795492         41.8015%
+      3214        Fidelity Freedom® Blend Retirement Fund - Class M*                               315794537         41.8015%
+      3216        Fidelity Freedom® Blend Retirement Fund - Class Z*                               315794495         41.8015%
+      6362        Fidelity Freedom® Blend Retirement Fund - Premier Class*                         315796441         41.8015%
+      3211        Fidelity Freedom® Blend Retirement Fund*                                         315794685         41.8015%
+      2766        Fidelity Freedom® Index 2010 Fund - Institutional Premium Class*                 315793661         54.0857%
+      2226        Fidelity Freedom® Index 2010 Fund - Investor Class*                              315793307         54.0857%
+      6193        Fidelity Freedom® Index 2010 Fund - Premier Class*                               315796573         54.0857%
+      7706        Fidelity Freedom® Index 2010 Fund - Premier II Class*                            31579T201         54.0857%
+      2767        Fidelity Freedom® Index 2015 Fund - Institutional Premium Class*                 315793653         48.9458%
+      2242        Fidelity Freedom® Index 2015 Fund - Investor Class*                              315793406         48.9458%
+      6194        Fidelity Freedom® Index 2015 Fund - Premier Class*                               315796565         48.9458%
+      7707        Fidelity Freedom® Index 2015 Fund - Premier II Class*                            31579T870         48.9458%
+      2768        Fidelity Freedom® Index 2020 Fund - Institutional Premium Class*                 315793646         42.9960%
+      2228        Fidelity Freedom® Index 2020 Fund - Investor Class*                              315793505         42.9960%
+      6195        Fidelity Freedom® Index 2020 Fund - Premier Class*                               315796557         42.9960%
+      7708        Fidelity Freedom® Index 2020 Fund - Premier II Class*                            31579T300         42.9960%
+      2769        Fidelity Freedom® Index 2025 Fund - Institutional Premium Class*                 315793638         36.8361%
+      2232        Fidelity Freedom® Index 2025 Fund - Investor Class*                              315793604         36.8361%
+      6196        Fidelity Freedom® Index 2025 Fund - Premier Class*                               315796540         36.8361%
+      7709        Fidelity Freedom® Index 2025 Fund - Premier II Class*                            31579T409         36.8361%
+      2770        Fidelity Freedom® Index 2030 Fund - Institutional Premium Class*                 315793620         29.9339%
+      2235        Fidelity Freedom® Index 2030 Fund - Investor Class*                              315793703         29.9339%
+      6197        Fidelity Freedom® Index 2030 Fund - Premier Class*                               315796532         29.9339%
+      7710        Fidelity Freedom® Index 2030 Fund - Premier II Class*                            31579T508         29.9339%
+      2771        Fidelity Freedom® Index 2035 Fund - Institutional Premium Class*                 315793612         22.4554%
+      2238        Fidelity Freedom® Index 2035 Fund - Investor Class*                              315793802         22.4554%
+      6198        Fidelity Freedom® Index 2035 Fund - Premier Class*                               315796524         22.4554%
+      7711        Fidelity Freedom® Index 2035 Fund - Premier II Class*                            31579T607         22.4554%
+
+
+563636.18.0                Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                    Fund Name                                           CUSIP          Percentages
+      2772        Fidelity Freedom® Index 2040 Fund - Institutional Premium Class*                 315793596         15.1300%
+      2239        Fidelity Freedom® Index 2040 Fund - Investor Class*                              315793885         15.1300%
+      6199        Fidelity Freedom® Index 2040 Fund - Premier Class*                               315796516         15.1300%
+      7712        Fidelity Freedom® Index 2040 Fund - Premier II Class*                            31579T706         15.1300%
+      2773        Fidelity Freedom® Index 2045 Fund - Institutional Premium Class*                 315793588         10.9767%
+      2240        Fidelity Freedom® Index 2045 Fund - Investor Class*                              315793877         10.9767%
+      6200        Fidelity Freedom® Index 2045 Fund - Premier Class*                               315796490         10.9767%
+      7713        Fidelity Freedom® Index 2045 Fund - Premier II Class*                            31579T805         10.9767%
+      2774        Fidelity Freedom® Index 2050 Fund - Institutional Premium Class*                 315793570         11.1145%
+      2241        Fidelity Freedom® Index 2050 Fund - Investor Class*                              315793869         11.1145%
+      6201        Fidelity Freedom® Index 2050 Fund - Premier Class*                               315796482         11.1145%
+      7714        Fidelity Freedom® Index 2050 Fund - Premier II Class*                            31579T888         11.1145%
+      2775        Fidelity Freedom® Index 2055 Fund - Institutional Premium Class*                 315793562         10.9359%
+      2338        Fidelity Freedom® Index 2055 Fund - Investor Class*                              315793828         10.9359%
+      6202        Fidelity Freedom® Index 2055 Fund - Premier Class*                               315796474         10.9359%
+      7715        Fidelity Freedom® Index 2055 Fund - Premier II Class*                            31579T862         10.9359%
+      2776        Fidelity Freedom® Index 2060 Fund - Institutional Premium Class*                 315793554         10.8273%
+      2714        Fidelity Freedom® Index 2060 Fund - Investor Class*                              315793695         10.8273%
+      6203        Fidelity Freedom® Index 2060 Fund - Premier Class*                               315796466         10.8273%
+      7717        Fidelity Freedom® Index 2060 Fund - Premier II Class*                            31579T854         10.8273%
+      3427        Fidelity Freedom® Index 2065 Fund - Institutional Premium Class*                 315796615         10.5309%
+      3463        Fidelity Freedom® Index 2065 Fund - Investor Class*                              315796839         10.5309%
+      6204        Fidelity Freedom® Index 2065 Fund - Premier Class*                               315796458         10.5309%
+      7718        Fidelity Freedom® Index 2065 Fund - Premier II Class*                            31579T847         10.5309%
+      7650        Fidelity Freedom® Index 2070 Fund - Institutional Premium Class*                 31579B648          6.9464%
+      7653        Fidelity Freedom® Index 2070 Fund - Investor Class*                              31579B556          6.9464%
+      7652        Fidelity Freedom® Index 2070 Fund - Premier Class*                               31579B630          6.9464%
+      7719        Fidelity Freedom® Index 2070 Fund - Premier II Class*                            31579T839          6.9464%
+      2764        Fidelity Freedom® Index Retirement Fund - Institutional Premium Class*           315793687         56.5149%
+      2216        Fidelity Freedom® Index Retirement Fund - Investor Class*                        315792150         56.5149%
+      6191        Fidelity Freedom® Index Retirement Fund - Premier Class*                         315796599         56.5149%
+      7705        Fidelity Freedom® Index Retirement Fund - Premier II Class*                      31579T102         56.5149%
+      3019        Fidelity Freedom® Retirement Fund - Class K*                                     315794834         34.3352%
+      3001        Fidelity Freedom® Retirement Fund - Class K6*                                    315793257         34.3352%
+
+
+563636.18.0                Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                      Fund Name                                       CUSIP           Percentages
+       369        Fidelity Freedom® Retirement Fund*                                             31617R308          34.3352%
+      3473        Fidelity Managed Retirement 2010 FundSM - Class K*                             31617L715          43.1948%
+      3479        Fidelity Managed Retirement 2010 FundSM - Class K6*                            31617L640          43.1948%
+      1891        Fidelity Managed Retirement 2010 FundSM*                                       31617K345          43.1948%
+      3474        Fidelity Managed Retirement 2015 FundSM - Class K*                             31617L699          38.9701%
+      3480        Fidelity Managed Retirement 2015 FundSM - Class K6*                            31617L632          38.9701%
+      1893        Fidelity Managed Retirement 2015 FundSM*                                       31617K238          38.9701%
+      3475        Fidelity Managed Retirement 2020 FundSM - Class K*                             31617L681          34.0137%
+      3481        Fidelity Managed Retirement 2020 FundSM - Class K6*                            31617L624          34.0137%
+      1995        Fidelity Managed Retirement 2020 FundSM*                                       31617L103          34.0137%
+      3476        Fidelity Managed Retirement 2025 FundSM - Class K*                             31617L673          30.0716%
+      3482        Fidelity Managed Retirement 2025 FundSM - Class K6*                            31617L616          30.0716%
+      1996        Fidelity Managed Retirement 2025 FundSM*                                       31617L863          30.0716%
+      4501        Fidelity Managed Retirement 2030 FundSM - Class K*                             31617L517          26.3726%
+      4502        Fidelity Managed Retirement 2030 FundSM - Class K6*                            31617L491          26.3726%
+      4500        Fidelity Managed Retirement 2030 FundSM*                                       31617L533          26.3726%
+      7307        Fidelity Managed Retirement 2035 FundSM - Class K*                             31617L368          21.6554%
+      7308        Fidelity Managed Retirement 2035 FundSM - Class K6*                            31617L350          21.6554%
+      7303        Fidelity Managed Retirement 2035 FundSM*                                       31617L384          21.6554%
+      3471        Fidelity Managed Retirement Income FundSM - Class K*                           31617L731          42.8160%
+      3477        Fidelity Managed Retirement Income FundSM - Class K6*                          31617L665          42.8160%
+      1887        Fidelity Managed Retirement Income FundSM*                                     31617K568          42.8160%
+      1892        Fidelity Simplicity RMD 2010 FundSM*                                           31617K287          47.1524%
+      1894        Fidelity Simplicity RMD 2015 FundSM*                                           31617K170          45.9256%
+      2009        Fidelity Simplicity RMD 2020 FundSM*                                           31617L608          49.4089%
+      3497        Fidelity Simplicity RMD 2025 FundSM*                                           31617L475          52.7498%
+      7247        Fidelity Simplicity RMD 2030 FundSM*                                           31617L327          55.0317%
+      1888        Fidelity Simplicity RMD Income FundSM*                                         31617K519          47.7093%
+      2328        Fidelity® 500 Index Fund*                                                      315911750           0.0541%
+      2077        Fidelity® Balanced Fund - Class K*                                             316345602          26.8588%
+       304        Fidelity® Balanced Fund*                                                       316345206          26.8588%
+      3460        Fidelity® Balanced K6 Fund*                                                    316345818          27.0450%
+      2945        Fidelity® Blue Chip Growth K6 Fund*                                            316389337           2.3153%
+        38        Fidelity® Capital & Income Fund*                                               316062108           2.2542%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                       Fund Name                                      CUSIP           Percentages
+      2896        Fidelity® Commodity Strategy Fund*                                             31634R307          22.5237%
+      2268        Fidelity® Conservative Income Bond Fund*                                       316146521          19.7411%
+      2946        Fidelity® Contrafund® K6*                                                      316071836           2.7969%
+      2720        Fidelity® Corporate Bond ETF*                                                  316188101           7.2046%
+      2208        Fidelity® Corporate Bond Fund*                                                 316146596           8.1286%
+      7589        Fidelity® Dynamic Buffered Equity ETF*                                         31624J737           1.0871%
+      6361        Fidelity® Education Fund*                                                      316167402          47.2802%
+      3088        Fidelity® Enhanced High Yield ETF*                                             316092618           0.1910%
+      7725        Fidelity® Enhanced U.S. All-Cap Equity ETF*                                    31609A701           1.1835%
+      6379        Fidelity® Environmental Bond Fund*                                             31617L392          41.2014%
+       814        Fidelity® Floating Rate High Income Fund*                                      315916783           0.6503%
+      2423        Fidelity® Global Credit Fund*                                                  31638R881          22.1804%
+        15        Fidelity® GNMA Fund*                                                           31617K105           3.9587%
+        55        Fidelity® Government Cash Reserves*                                            316067107          52.1656%
+        54        Fidelity® Government Income Fund*                                              316172105          44.8511%
+      2739        Fidelity® Government Money Market Fund - Capital Reserves Class*               31617H508          50.9004%
+      3067        Fidelity® Government Money Market Fund - Class K6*                             31617H862          50.9004%
+      3018        Fidelity® Government Money Market Fund - Class M*                              31617H870          50.9004%
+      6461        Fidelity® Government Money Market Fund - Class S*                              31617H847          50.9004%
+      2740        Fidelity® Government Money Market Fund - Daily Money Class*                    31617H607          50.9004%
+      2741        Fidelity® Government Money Market Fund - Premium Class*                        31617H706          50.9004%
+       458        Fidelity® Government Money Market Fund*                                        31617H102          50.9004%
+      2089        Fidelity® Growth & Income Portfolio - Class K*                                 316389550           1.5673%
+        27        Fidelity® Growth & Income Portfolio*                                           316389204           1.5673%
+      6048        Fidelity® Health Savings Fund - Class K*                                       316069327          17.4289%
+      6046        Fidelity® Health Savings Fund*                                                 316069335          17.4289%
+      6047        Fidelity® Health Savings Index Fund*                                           316069319          28.4121%
+      7588        Fidelity® Hedged Equity ETF*                                                   31624J745           1.3174%
+       455        Fidelity® High Income Fund*                                                    316146406           1.2559%
+      2418        Fidelity® Inflation-Protected Bond Index Fund                                  31635T104          99.7736%
+        32        Fidelity® Intermediate Bond Fund*                                              315912105          36.9300%
+       452        Fidelity® Intermediate Government Income Fund                                  31617K303          75.4327%
+      3045        Fidelity® Intermediate Treasury Bond Index Fund                                31635V257          99.6890%
+      6353        Fidelity® Investment Grade Bond ETF*                                           316188606          44.2822%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                      Fund Name                                           CUSIP         Percentages
+        26        Fidelity® Investment Grade Bond Fund*                                              316146109        43.3450%
+      6354        Fidelity® Investment Grade Securitized ETF*                                        316188705         3.1422%
+        59        Fidelity® Investments Money Market - Money Market Portfolio - Class I*             316175207        16.1651%
+       541        Fidelity® Investments Money Market - Money Market Portfolio - Class II*            316175843        16.1651%
+       659        Fidelity® Investments Money Market - Money Market Portfolio - Class III*           316175702        16.1651%
+      2013        Fidelity® Investments Money Market - Money Market Portfolio - Institutional Cla    31607A109        16.1651%
+       931        Fidelity® Investments Money Market - Money Market Portfolio - Select Class*        192826501        16.1651%
+        57        Fidelity® Investments Money Market Government Portfolio - Class I*                 316175108        50.1074%
+       604        Fidelity® Investments Money Market Government Portfolio - Class II*                316175850        50.1074%
+       657        Fidelity® Investments Money Market Government Portfolio - Class III*               316175603        50.1074%
+      2642        Fidelity® Investments Money Market Government Portfolio - Institutional Class*     31607A703        50.1074%
+       918        Fidelity® Investments Money Market Government Portfolio - Select Class*            192826303        50.1074%
+       680        Fidelity® Investments Money Market Treasury Only Portfolio - Class I               233809300        99.5914%
+       542        Fidelity® Investments Money Market Treasury Only Portfolio - Class II              233809805        99.5914%
+       543        Fidelity® Investments Money Market Treasury Only Portfolio - Class III             233809888        99.5914%
+      2017        Fidelity® Investments Money Market Treasury Only Portfolio - Class IV              31607A505        99.5914%
+      2643        Fidelity® Investments Money Market Treasury Only Portfolio - Institutional Class   31607A802        99.5914%
+       906        Fidelity® Investments Money Market Treasury Only Portfolio - Select Class          192826105        99.5914%
+       695        Fidelity® Investments Money Market Treasury Portfolio - Class I*                   316175504        60.5301%
+       600        Fidelity® Investments Money Market Treasury Portfolio - Class II*                  316175835        60.5301%
+       696        Fidelity® Investments Money Market Treasury Portfolio - Class III*                 316175884        60.5301%
+      2016        Fidelity® Investments Money Market Treasury Portfolio - Class IV*                  31607A406        60.5301%
+      2644        Fidelity® Investments Money Market Treasury Portfolio - Institutional Class*       31607A885        60.5301%
+       911        Fidelity® Investments Money Market Treasury Portfolio - Select Class*              192826204        60.5301%
+       338        Fidelity® Large Cap Stock Fund*                                                    315912402         2.7305%
+      2954        Fidelity® Large Cap Stock K6 Fund*                                                 315911651         4.0393%
+      2721        Fidelity® Limited Term Bond ETF*                                                   316188200        12.5106%
+      2622        Fidelity® Limited Term Bond Fund*                                                  315916718        15.1724%
+       662        Fidelity® Limited Term Government Fund                                             315809400        74.5570%
+      7612        Fidelity® Limited Term Securitized Completion Fund*                                315916692         7.1104%
+      3047        Fidelity® Long-Term Treasury Bond Index Fund                                       31635V232        99.7931%
+      7578        Fidelity® Low Duration Bond ETF*                                                   316188861        22.2655%
+      3089        Fidelity® Low Duration Bond Factor ETF*                                            316188408        10.6831%
+      6519        Fidelity® Macro Opportunities Fund*                                                31624J703         1.3356%
+
+
+563636.18.0                 Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                        Fund Name                                      CUSIP           Percentages
+      9044        Fidelity® Managed Futures ETF*                                                  31624J620          35.2726%
+       361        Fidelity® Mega Cap Stock Fund*                                                  31617F403           4.6924%
+      2738        Fidelity® Money Market Fund - Premium Class*                                    31617H805          14.5636%
+       454        Fidelity® Money Market Fund*                                                    31617H201          14.5636%
+        40        Fidelity® Mortgage Securities Fund*                                             31617K204           5.3107%
+      3083        Fidelity® Multi-Asset Income Fund*                                              31638R717          16.8603%
+       355        Fidelity® Multi-Asset Index Fund*                                               31634R109          13.0530%
+       331        Fidelity® New Markets Income Fund*                                              315910836           2.3772%
+      6414        Fidelity® Preferred Securities & Income ETF*                                    316092261           0.9754%
+      2100        Fidelity® Puritan® Fund - Class K*                                              316345701          26.4064%
+         4        Fidelity® Puritan® Fund*                                                        316345107          26.4064%
+      3455        Fidelity® Puritan® K6 Fund*                                                     316345826          26.6885%
+       833        Fidelity® Real Estate Income Fund*                                              316389865           1.2512%
+      2355        Fidelity® Real Estate Index Fund*                                               316146232           0.0819%
+       303        Fidelity® Real Estate Investment Portfolio*                                     316138205           0.1755%
+      6513        Fidelity® Risk Parity Fund*                                                     31624J109          20.6405%
+      9116        Fidelity® SAI 0-5 Year Inflation-Protected Bond Index Fund                      31635W206          95.4792%
+      7565        Fidelity® SAI Alternative Risk Premia Commodity Strategy Fund                   31624J760          63.7649%
+      7521        Fidelity® SAI Convertible Arbitrage Fund*                                       31624J778          10.0382%
+      9110        Fidelity® SAI Emerging Markets Momentum Index Fund*                             31635W305          12.9196%
+      9034        Fidelity® SAI Enhanced Core Bond Fund*                                          31635T153          36.2477%
+      6345        Fidelity® SAI High Income Fund*                                                 31641Q110           1.9780%
+      3318        Fidelity® SAI Inflation-Focused Fund*                                           31634R406          11.8765%
+      7702        Fidelity® SAI Inflation-Protected Bond Index Fund                               31635T187          99.8051%
+      7703        Fidelity® SAI Intermediate Treasury Bond Index Fund                             31635T179          99.8619%
+      7328        Fidelity® SAI International Credit Fund*                                        31635T336          22.4038%
+      7329        Fidelity® SAI Investment Grade Securitized Fund*                                31635T245           3.1941%
+      2801        Fidelity® SAI Long-Term Treasury Bond Index Fund                                31635V851          99.8194%
+      6217        Fidelity® SAI Low Duration Bond Fund*                                           31635T682          19.3109%
+      9036        Fidelity® SAI Managed Futures Fund*                                             31624J646          33.6974%
+      2810        Fidelity® SAI Real Estate Index Fund*                                           31635V810           0.0836%
+      6218        Fidelity® SAI Short-Term Bond Fund*                                             31635T674          32.7608%
+      7700        Fidelity® SAI Short-Term Treasury Bond Index Fund                               31635T161          98.7690%
+      6540        Fidelity® SAI Sustainable Core Plus Bond Fund*                                  31635T518          43.9972%
+
+
+563636.18.0                Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                        Fund Name                                     CUSIP           Percentages
+      6548        Fidelity® SAI Sustainable Emerging Markets Equity Fund*                        31618Q770           1.6429%
+      6525        Fidelity® SAI Sustainable Low Duration Bond Fund*                              31635T435          28.5996%
+      6552        Fidelity® SAI Sustainable U.S. Equity Fund*                                    316433887           2.8946%
+      3308        Fidelity® SAI Total Bond Fund*                                                 31635T849          28.6774%
+      2803        Fidelity® SAI U.S. Quality Index Fund*                                         31635V844           3.3951%
+      2814        Fidelity® SAI U.S. Treasury Bond Index Fund                                    31635V786          99.6280%
+      6398        Fidelity® Series 0-5 Year Inflation-Protected Bond Index Fund                  31635T666          98.8475%
+      6399        Fidelity® Series 5+ Year Inflation-Protected Bond Index Fund                   31635T658          99.9394%
+      3357        Fidelity® Series Bond Index Fund*                                              31635T823          43.5554%
+      2278        Fidelity® Series Commodity Strategy Fund*                                      316146638          27.0837%
+      3220        Fidelity® Series Corporate Bond Fund*                                          31635V141           9.2094%
+      2295        Fidelity® Series Emerging Markets Debt Fund*                                   31617F858           3.0057%
+      6287        Fidelity® Series Emerging Markets Debt Local Currency Fund*                    31617F783           1.1669%
+      2270        Fidelity® Series Floating Rate High Income Fund*                               31641Q409           0.7525%
+      3221        Fidelity® Series Government Bond Index Fund                                    31617L756          99.3332%
+      2815        Fidelity® Series Government Money Market Fund*                                 31635V778          51.0418%
+      2269        Fidelity® Series High Income Fund*                                             31641Q607           0.5255%
+      3017        Fidelity® Series International Credit Fund*                                    31638R725          22.1678%
+      2114        Fidelity® Series Investment Grade Bond Fund*                                   316146729          41.4139%
+      3223        Fidelity® Series Investment Grade Securitized Fund*                            315807453           3.4150%
+      2840        Fidelity® Series Long-Term Treasury Bond Index Fund                            31635V620          99.6772%
+      2277        Fidelity® Series Real Estate Income Fund*                                      316389436           1.6581%
+      2743        Fidelity® Series Short-Term Credit Fund*                                       31635V604           8.4970%
+      7317        Fidelity® Series Sustainable Emerging Markets Fund*                            31618Q754           1.2631%
+      7314        Fidelity® Series Sustainable Investment Grade Bond Fund*                       31635T252          51.2564%
+      7318        Fidelity® Series Sustainable Non-U.S. Developed Markets Fund*                  31618Q747           1.7862%
+      3224        Fidelity® Series Treasury Bill Index Fund                                      31617H854          99.4723%
+       450        Fidelity® Short-Term Bond Fund*                                                316146208          31.6927%
+      3041        Fidelity® Short-Term Bond Index Fund                                           31635V273          62.3117%
+      3049        Fidelity® Short-Term Treasury Bond Index Fund                                  31635V216          99.5661%
+      3082        Fidelity® Strategic Income Fund*                                               315807461          16.5089%
+      5020        Fidelity® Strategic Real Return Fund - Class K6*                               31635T740          25.8928%
+      1505        Fidelity® Strategic Real Return Fund*                                          315912881          25.8928%
+      3086        Fidelity® Sustainability Bond Index Fund*                                      31635T401          44.2270%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                      Fund Name                                         CUSIP          Percentages
+      6563        Fidelity® Sustainable Core Plus Bond ETF*                                        316188887         31.9043%
+      6541        Fidelity® Sustainable Core Plus Bond Fund*                                       31635T575         36.3628%
+      6508        Fidelity® Sustainable High Yield ETF*                                            316092212          0.2766%
+      6564        Fidelity® Sustainable Low Duration Bond ETF*                                     316188804         32.1207%
+      6526        Fidelity® Sustainable Low Duration Bond Fund*                                    31635T492         27.4116%
+      6477        Fidelity® Sustainable Multi-Asset Fund*                                          316069293         25.0927%
+      7389        Fidelity® Sustainable Target Date 2010 Fund - Class K*                           31579A244         55.1386%
+      7390        Fidelity® Sustainable Target Date 2010 Fund - Class K6*                          315796276         55.1386%
+      7382        Fidelity® Sustainable Target Date 2010 Fund*                                     31579B200         55.1386%
+      7398        Fidelity® Sustainable Target Date 2015 Fund - Class K*                           31579A236         48.6641%
+      7399        Fidelity® Sustainable Target Date 2015 Fund - Class K6*                          315796268         48.6641%
+      7391        Fidelity® Sustainable Target Date 2015 Fund*                                     31579B309         48.6641%
+      7407        Fidelity® Sustainable Target Date 2020 Fund - Class K*                           31579A228         42.6454%
+      7408        Fidelity® Sustainable Target Date 2020 Fund - Class K6*                          315796250         42.6454%
+      7400        Fidelity® Sustainable Target Date 2020 Fund*                                     31579B408         42.6454%
+      7416        Fidelity® Sustainable Target Date 2025 Fund - Class K*                           31579A210         42.2723%
+      7417        Fidelity® Sustainable Target Date 2025 Fund - Class K6*                          315796243         42.2723%
+      7409        Fidelity® Sustainable Target Date 2025 Fund*                                     31579B507         42.2723%
+      7425        Fidelity® Sustainable Target Date 2030 Fund - Class K*                           31579A194         37.7668%
+      7426        Fidelity® Sustainable Target Date 2030 Fund - Class K6*                          315796235         37.7668%
+      7418        Fidelity® Sustainable Target Date 2030 Fund*                                     31579B606         37.7668%
+      7434        Fidelity® Sustainable Target Date 2035 Fund - Class K*                           31579A186         30.0508%
+      7435        Fidelity® Sustainable Target Date 2035 Fund - Class K6*                          315796227         30.0508%
+      7427        Fidelity® Sustainable Target Date 2035 Fund*                                     31579B705         30.0508%
+      7443        Fidelity® Sustainable Target Date 2040 Fund - Class K*                           31579A178         20.4858%
+      7444        Fidelity® Sustainable Target Date 2040 Fund - Class K6*                          315796219         20.4858%
+      7436        Fidelity® Sustainable Target Date 2040 Fund*                                     31579B804         20.4858%
+      7452        Fidelity® Sustainable Target Date 2045 Fund - Class K*                           31579A160         13.7772%
+      7453        Fidelity® Sustainable Target Date 2045 Fund - Class K6*                          315796193         13.7772%
+      7445        Fidelity® Sustainable Target Date 2045 Fund*                                     31579B887         13.7772%
+      7461        Fidelity® Sustainable Target Date 2050 Fund - Class K*                           31579A152         12.9035%
+      7462        Fidelity® Sustainable Target Date 2050 Fund - Class K6*                          315796185         12.9035%
+      7454        Fidelity® Sustainable Target Date 2050 Fund*                                     31579B879         12.9035%
+      7470        Fidelity® Sustainable Target Date 2055 Fund - Class K*                           31579A145         12.9702%
+
+
+563636.18.0                Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                        Fund Name                                     CUSIP           Percentages
+      7471        Fidelity® Sustainable Target Date 2055 Fund - Class K6*                        315796177           12.9702%
+      7463        Fidelity® Sustainable Target Date 2055 Fund*                                   31579B861           12.9702%
+      7479        Fidelity® Sustainable Target Date 2060 Fund - Class K*                         31579A137           13.0866%
+      7480        Fidelity® Sustainable Target Date 2060 Fund - Class K6*                        315796169           13.0866%
+      7472        Fidelity® Sustainable Target Date 2060 Fund*                                   31579B853           13.0866%
+      7488        Fidelity® Sustainable Target Date 2065 Fund - Class K*                         31579A129           13.3684%
+      7489        Fidelity® Sustainable Target Date 2065 Fund - Class K6*                        315796151           13.3684%
+      7481        Fidelity® Sustainable Target Date 2065 Fund*                                   31579B846           13.3684%
+      7664        Fidelity® Sustainable Target Date 2070 Fund - Class K*                         31579B432           12.1847%
+      7665        Fidelity® Sustainable Target Date 2070 Fund - Class K6*                        31579B366           12.1847%
+      7663        Fidelity® Sustainable Target Date 2070 Fund*                                   31579B440           12.1847%
+      7380        Fidelity® Sustainable Target Date Retirement Fund - Class K*                   31579A251           56.8426%
+      7381        Fidelity® Sustainable Target Date Retirement Fund - Class K6*                  315796284           56.8426%
+      7373        Fidelity® Sustainable Target Date Retirement Fund*                             31579B101           56.8426%
+      7324        Fidelity® Tactical Bond ETF*                                                   316188879           36.4052%
+      6502        Fidelity® Tactical Bond Fund*                                                  31635T641           39.0568%
+      2722        Fidelity® Total Bond ETF*                                                      316188309           30.3421%
+       820        Fidelity® Total Bond Fund*                                                     31617K881           29.9177%
+      2944        Fidelity® Total Bond K6 Fund*                                                  31617L764           33.5574%
+      2361        Fidelity® Total Market Index Fund*                                             315911693           0.0539%
+      8398        Fidelity® Treasury Digital Fund - Liquidity                                    31617H839          100.0000%
+      9053        Fidelity® Treasury Digital Fund - OnChain Class                                31617H813          100.0000%
+       529        Fidelity® Treasury Money Market Fund - Advisor Class C*                        650914401           61.5212%
+        77        Fidelity® Treasury Money Market Fund - Capital Reserves Class*                 650914104           61.5212%
+        58        Fidelity® Treasury Money Market Fund - Daily Money Class*                      233809201           61.5212%
+      2742        Fidelity® Treasury Money Market Fund*                                          316341304           61.5212%
+       415        Fidelity® Treasury Only Money Market Fund                                      31617H300           98.6705%
+      9003        Fidelity® Treasury Only Money Market Fund - Class OUS                          31617H821           98.6705%
+      2326        Fidelity® U.S. Bond Index Fund*                                                316146356           43.5551%
+      2941        Fidelity® U.S. Sustainability Index Fund*                                      31635V398           5.9310%
+      7590        Fidelity® Yield Enhanced Equity ETF*                                           31624J729           3.5728%
+       156        VIP Asset Manager 50% Portfolio - Initial Class*                               922175203           14.1065%
+      1457        VIP Asset Manager 50% Portfolio - Investor Class*                              922175799           14.1065%
+       363        VIP Asset Manager 50% Portfolio - Service Class 2*                             922175872           14.1065%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                         Fund Name                                      CUSIP          Percentages
+       467        VIP Asset Manager 50% Portfolio - Service Class*                                 922175609         14.1065%
+       159        VIP Asset Manager 70% Portfolio - Initial Class*                                 922175401          8.2449%
+      1458        VIP Asset Manager 70% Portfolio - Investor Class*                                922175781          8.2449%
+       364        VIP Asset Manager 70% Portfolio - Service Class 2*                               922175864          8.2449%
+       468        VIP Asset Manager 70% Portfolio - Service Class*                                 922175708          8.2449%
+       616        VIP Balanced Portfolio - Initial Class*                                          315802504         29.8587%
+      1462        VIP Balanced Portfolio - Investor Class*                                         922176664         29.8587%
+       380        VIP Balanced Portfolio - Service Class 2*                                        922176607         29.8587%
+       469        VIP Balanced Portfolio - Service Class*                                          922176300         29.8587%
+      3078        VIP Bond Index Portfolio - Initial Class*                                        922178785         44.1905%
+      3079        VIP Bond Index Portfolio - Service Class 2*                                      922178777         44.1905%
+      1019        VIP Bond Index Portfolio - Service Class*                                        922178660         44.1905%
+      1423        VIP Freedom 2010 PortfolioSM - Initial Class*                                    922174628         29.4095%
+      1425        VIP Freedom 2010 PortfolioSM - Service Class 2*                                  922174594         29.4095%
+      1424        VIP Freedom 2010 PortfolioSM - Service Class*                                    922174610         29.4095%
+      1426        VIP Freedom 2015 PortfolioSM - Initial Class*                                    922174586         23.7645%
+      1428        VIP Freedom 2015 PortfolioSM - Service Class 2*                                  922174560         23.7645%
+      1427        VIP Freedom 2015 PortfolioSM - Service Class*                                    922174578         23.7645%
+      1429        VIP Freedom 2020 PortfolioSM - Initial Class*                                    922174552         19.0316%
+      1431        VIP Freedom 2020 PortfolioSM - Service Class 2*                                  922174537         19.0316%
+      1430        VIP Freedom 2020 PortfolioSM - Service Class*                                    922174545         19.0316%
+      1432        VIP Freedom 2025 PortfolioSM - Initial Class*                                    922174529         16.7719%
+      1434        VIP Freedom 2025 PortfolioSM - Service Class 2*                                  922174495         16.7719%
+      1433        VIP Freedom 2025 PortfolioSM - Service Class*                                    922174511         16.7719%
+      1435        VIP Freedom 2030 PortfolioSM - Initial Class*                                    922174487         13.3091%
+      1437        VIP Freedom 2030 PortfolioSM - Service Class 2*                                  922174461         13.3091%
+      1436        VIP Freedom 2030 PortfolioSM - Service Class*                                    922174479         13.3091%
+      2159        VIP Freedom 2035 PortfolioSM - Initial Class*                                    922178405          9.5731%
+      2161        VIP Freedom 2035 PortfolioSM - Service Class 2*                                  922178603          9.5731%
+      2160        VIP Freedom 2035 PortfolioSM - Service Class*                                    922178504          9.5731%
+      2162        VIP Freedom 2040 PortfolioSM - Initial Class*                                    922178702          5.2481%
+      2164        VIP Freedom 2040 PortfolioSM - Service Class 2*                                  922178884          5.2481%
+      2163        VIP Freedom 2040 PortfolioSM - Service Class*                                    922178801          5.2481%
+      2165        VIP Freedom 2045 PortfolioSM - Initial Class*                                    922178876          3.0315%
+
+
+563636.18.0                Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                     Fund Name                                         CUSIP          Percentages
+      2167        VIP Freedom 2045 PortfolioSM - Service Class 2*                                 922178850          3.0315%
+      2166        VIP Freedom 2045 PortfolioSM - Service Class*                                   922178868          3.0315%
+      2168        VIP Freedom 2050 PortfolioSM - Initial Class*                                   922178843          2.9185%
+      2170        VIP Freedom 2050 PortfolioSM - Service Class 2*                                 922178827          2.9185%
+      2169        VIP Freedom 2050 PortfolioSM - Service Class*                                   922178835          2.9185%
+      3360        VIP Freedom 2055 PortfolioSM - Initial Class*                                   922178769          2.6195%
+      3364        VIP Freedom 2055 PortfolioSM - Service Class 2*                                 922178744          2.6195%
+      3363        VIP Freedom 2055 PortfolioSM - Service Class*                                   922178751          2.6195%
+      3361        VIP Freedom 2060 PortfolioSM - Initial Class*                                   922178736          2.6763%
+      3366        VIP Freedom 2060 PortfolioSM - Service Class 2*                                 922178710          2.6763%
+      3365        VIP Freedom 2060 PortfolioSM - Service Class*                                   922178728          2.6763%
+      3362        VIP Freedom 2065 PortfolioSM - Initial Class*                                   922178694          2.5801%
+      3368        VIP Freedom 2065 PortfolioSM - Service Class 2*                                 922178678          2.5801%
+      3367        VIP Freedom 2065 PortfolioSM - Service Class*                                   922178686          2.5801%
+      7671        VIP Freedom 2070 PortfolioSM - Initial Class*                                   922178520          2.8560%
+      7673        VIP Freedom 2070 PortfolioSM - Service Class 2*                                 922178496          2.8560%
+      7672        VIP Freedom 2070 PortfolioSM - Service Class*                                   922178512          2.8560%
+      1417        VIP Freedom Income PortfolioSM - Initial Class*                                 922174685         33.1085%
+      1419        VIP Freedom Income PortfolioSM - Service Class 2*                               922174669         33.1085%
+      1418        VIP Freedom Income PortfolioSM - Service Class*                                 922174677         33.1085%
+      1492        VIP Freedom Lifetime Income I Portfolio*                                        922177746         32.8280%
+      1493        VIP Freedom Lifetime Income II Portfolio*                                       922177753         27.2781%
+      1494        VIP Freedom Lifetime Income III Portfolio*                                      922177761         17.7358%
+      1584        VIP FundsManager® 20% Portfolio - Investor Class*                               922177423         33.7758%
+      1586        VIP FundsManager® 20% Portfolio - Service Class 2*                              922177399         33.7758%
+      1585        VIP FundsManager® 20% Portfolio - Service Class*                                922177415         33.7758%
+      6986        VIP FundsManager® 30% Portfolio - Investor Class*                               922178587         28.2157%
+      6988        VIP FundsManager® 30% Portfolio - Service Class 2*                              922178553         28.2157%
+      6991        VIP FundsManager® 30% Portfolio - Service Class*                                922178561         28.2157%
+      6992        VIP FundsManager® 40% Portfolio - Investor Class*                               922178579         24.3208%
+      6994        VIP FundsManager® 40% Portfolio - Service Class 2*                              922178538         24.3208%
+      6993        VIP FundsManager® 40% Portfolio - Service Class*                                922178546         24.3208%
+      1587        VIP FundsManager® 50% Portfolio - Investor Class*                               922177456         22.1382%
+      1589        VIP FundsManager® 50% Portfolio - Service Class 2*                              922177431         22.1382%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                        Fund Name                                      CUSIP          Percentages
+      1588        VIP FundsManager® 50% Portfolio - Service Class*                                922177449         22.1382%
+      1880        VIP FundsManager® 60% Portfolio - Investor Class*                               922178108         18.7984%
+      1882        VIP FundsManager® 60% Portfolio - Service Class 2*                              922178306         18.7984%
+      1881        VIP FundsManager® 60% Portfolio - Service Class*                                922178207         18.7984%
+      1590        VIP FundsManager® 70% Portfolio - Investor Class*                               922177480         14.8479%
+      1592        VIP FundsManager® 70% Portfolio - Service Class 2*                              922177464         14.8479%
+      1591        VIP FundsManager® 70% Portfolio - Service Class*                                922177472         14.8479%
+      1593        VIP FundsManager® 85% Portfolio - Investor Class*                               922177522          7.8669%
+      1595        VIP FundsManager® 85% Portfolio - Service Class 2*                              922177498          7.8669%
+      1594        VIP FundsManager® 85% Portfolio - Service Class*                                922177514          7.8669%
+       153        VIP Government Money Market Portfolio - Initial Class*                          922174107         54.5034%
+      1455        VIP Government Money Market Portfolio - Investor Class*                         922174420         54.5034%
+       359        VIP Government Money Market Portfolio - Service Class 2*                        922174834         54.5034%
+       713        VIP Government Money Market Portfolio - Service Class*                          922174826         54.5034%
+       152        VIP High Income Portfolio - Initial Class*                                      922174206          0.6583%
+      1454        VIP High Income Portfolio - Investor Class*                                     922174438          0.6583%
+       358        VIP High Income Portfolio - Service Class 2*                                    922174842          0.6583%
+       492        VIP High Income Portfolio - Service Class*                                      922174800          0.6583%
+      6571        VIP Investment Grade Bond II Portfolio - Initial Class*                         922178652         41.1259%
+      6572        VIP Investment Grade Bond II Portfolio - Investor Class*                        922178645         41.1259%
+       155        VIP Investment Grade Bond Portfolio - Initial Class*                            922175104         42.5492%
+      1460        VIP Investment Grade Bond Portfolio - Investor Class*                           922175765         42.5492%
+       367        VIP Investment Grade Bond Portfolio - Service Class 2*                          922175880         42.5492%
+       827        VIP Investment Grade Bond Portfolio - Service Class*                            922175823         42.5492%
+      1496        VIP Investor Freedom 2010 PortfolioSM*                                          922177589         28.7224%
+      1497        VIP Investor Freedom 2015 PortfolioSM*                                          922177571         23.2406%
+      1498        VIP Investor Freedom 2020 PortfolioSM*                                          922177563         18.4935%
+      1499        VIP Investor Freedom 2025 PortfolioSM*                                          922177555         16.1823%
+      1501        VIP Investor Freedom 2030 PortfolioSM*                                          922177548         13.1083%
+      6574        VIP Investor Freedom 2035 PortfolioSM*                                          922178637          8.9957%
+      6575        VIP Investor Freedom 2040 PortfolioSM*                                          922178629          5.0718%
+      6576        VIP Investor Freedom 2045 PortfolioSM*                                          922178611          2.6444%
+      6577        VIP Investor Freedom 2050 PortfolioSM*                                          922178595          2.5715%
+      1502        VIP Investor Freedom Income PortfolioSM*                                        922177530         32.6904%
+
+
+563636.18.0               Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917      1.842885.121
+Percentage of Income Earned
+on U.S. Government Securities
+2025
+  Fund Number                                          Fund Name                                              CUSIP            Percentages
+       1326        VIP Strategic Income Portfolio - Initial Class*                                          922177852           16.5550%
+       1470        VIP Strategic Income Portfolio - Investor Class*                                         922177712           16.5550%
+       1328        VIP Strategic Income Portfolio - Service Class 2*                                        922177860           16.5550%
+       1327        VIP Strategic Income Portfolio - Service Class*                                          922177886           16.5550%
+       2521        VIP Target Volatility Portfolio - Service Class 2*                                       922178819           23.7831%
+       2520        VIP Target Volatility Portfolio - Service Class*                                         922178793           23.7831%
+Fidelity does not provide legal or tax advice. The information herein is general and educational in nature and should not be considered
+legal or tax advice. Tax laws and regulations are complex and subject to change, which can materially impact investment results.
+Fidelity cannot guarantee that the information herein is accurate, complete, or timely. Fidelity makes no warranties with regard to such
+information or results obtained by its use, and disclaims any liability arising out of your use of, or any tax position taken in reliance on,
+such information. Consult an attorney or tax professional regarding your specific situation. This information is prepared for use by
+Fidelity shareholders only.
+
+
+
+
+563636.18.0                  Fidelity Investments Institutional Operations Company LLC, 900 Salem Street, Smithfield, RI 02917                  1.842885.121
+

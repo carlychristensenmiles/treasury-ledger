@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{% block title %}{{ client.name }} — Treasury Ledger{% endblock %}
+{% block content %}
+<h1>{{ client.name }}</h1>
+<p class="subtitle">{% if client.state %}Home state on file: {{ client.state }}{% else %}No home state on file{% endif %}</p>
+
+<div class="toggle-group" style="margin-bottom:20px">
+  <a href="/clients/{{ client.id }}?state_mode=ALL" class="{{ 'active' if mode == 'ALL' }}">Most states</a>
+  <a href="/clients/{{ client.id }}?state_mode=CACTNY" class="{{ 'active' if mode == 'CACTNY' }}">CA / CT / NY rule</a>
+</div>
+
+<div class="stat-grid">
+  <div class="stat">
+    <div class="label">Total ordinary dividends (Box 1a)</div>
+    <div class="value">${{ "%.2f"|format(total_dividends) }}</div>
+  </div>
+  <div class="stat accent">
+    <div class="label">State-tax-exempt portion{% if mode == 'CACTNY' %} (CA/CT/NY rule){% endif %}</div>
+    <div class="value">${{ "%.2f"|format(total_exempt) }}</div>
+  </div>
+</div>
+
+{% if mode == "CACTNY" %}
+<div class="note">Under the CA/CT/NY rule, only funds that met each fund family's 50%-of-assets-at-every-quarter-end threshold pass the exemption through — funds that didn't meet it show $0 exempt below even though they reported some government-obligation income.</div>
+{% endif %}
+
+<div class="card">
+  <h2>Add a holding by hand</h2>
+  <form method="post" action="/clients/{{ client.id }}/holdings" class="inline">
+    <div class="field">
+      <label for="ticker">Ticker</label>
+      <input type="text" id="ticker" name="ticker" required placeholder="VUSXX" style="width:120px">
+    </div>
+    <div class="field">
+      <label for="ordinary_dividends">Box 1a ordinary dividends ($)</label>
+      <input type="number" step="0.01" min="0" id="ordinary_dividends" name="ordinary_dividends" required style="width:160px">
+    </div>
+    <div class="field">
+      <button class="btn" type="submit">Add</button>
+    </div>
+  </form>
+</div>
+
+<div class="card">
+  <h2>Holdings</h2>
+  {% if rows %}
+  <div style="overflow-x:auto">
+  <table>
+    <thead>
+      <tr>
+        <th>Ticker</th>
+        <th>Fund</th>
+        <th class="num">Ordinary dividends</th>
+        <th class="num">% govt obligations</th>
+        <th class="num">Exempt amount</th>
+        <th>Status</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for r in rows %}
+      <tr>
+        <td>{{ r.holding.ticker_raw or "—" }}</td>
+        <td>{{ r.fund.name if r.fund else "Not matched — check ticker or add to database" }}</td>
+        <td class="num">${{ "%.2f"|format(r.holding.ordinary_dividends) }}</td>
+        <td class="num">{% if r.result.pct_used is not none %}{{ "%.4f"|format(r.result.pct_used) }}%{% else %}—{% endif %}</td>
+        <td class="num">${{ "%.2f"|format(r.result.exempt_amount) }}</td>
+        <td>
+          {% if not r.result.matched %}<span class="pill warn">Unmatched</span>
+          {% elif r.result.cactny_restricted %}<span class="pill warn">CA/CT/NY: 0%</span>
+          {% else %}<span class="pill ok">Matched</span>{% endif %}
+        </td>
+        <td>
+          <form method="post" action="/clients/{{ client.id }}/holdings/{{ r.holding.id }}/delete" style="margin:0">
+            <button class="btn danger" type="submit">Remove</button>
+          </form>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  {% else %}
+  <p style="color:var(--ink-soft);font-size:14px">No holdings yet. Upload a 1099-DIV or add one by hand above.</p>
+  {% endif %}
+</div>
+{% endblock %}

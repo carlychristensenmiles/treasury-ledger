@@ -1,0 +1,1304 @@
+PIMCO OPEN–END MUTUAL FUNDS
+PIMCO CLOSED–END FUNDS
+P I M C O I N T E R VA L F U N D S
+P I M C O E XC H A N G E -T R A D E D F U N D S
+PIMCO FIXED INCOME SHARES (FISH)
+
+
+2025 PIMCO Tax Information
+Dear Shareholder:                                                                         Telephone number    Transfer agent
+This booklet contains tax information to help you file your 2025    PIMCO Open-End        888.87.PIMCO        SS&C Global Investor &
+tax returns, including important information about PIMCO            Mutual Funds:         (888.877.4626)      Distribution Solutions, Inc.
+
+open-end mutual funds, closed-end funds, interval funds,
+                                                                    PIMCO Closed-End      844.33.PIMCO        Equiniti Trust Company,
+exchange-traded funds and fixed income shares (“PIMCO               Funds:                (844.337.4626)      LLC (“EQ”)
+funds”), and detailed schedules applicable to certain PIMCO
+funds you may hold.                                                 PIMCO Interval
+                                                                                          844.312.2113
+                                                                                                              SS&C Global Investor &
+                                                                    Funds:                                    Distribution Solutions, Inc.
+In the booklet, you’ll find:
+                                                                    PIMCO Exchange-       888.400.4ETF        State Street Bank
+• Tax form summary (p. 2)
+                                                                    Traded Funds:         (888.400.4383)      & Trust Company
+• Dividend and Capital Gain Distributions FAQ (p. 2)
+                                                                    PIMCO Fixed Income                        SS&C Global Investor &
+• Overview of the cost basis regulation (p. 2)                                            800.927.4648
+                                                                    SHares (FISH):                            Distributions Solutions, Inc.
+• Percentage of income derived from U.S. government
+  obligations for certain PIMCO funds p. (3-6)                     such as Qualified Dividend Rates, distribution dates and 1099
+                                                                   step-by-step guides.
+• Percentage of dividends paid that qualify for corporate
+  dividends-received deductions (applies to corporate              PIMCO Open–End Mutual Funds only. PIMCO has teamed
+  shareholders only) (p. 3-6)                                      up with TurboTax® and H&R Block® to help provide fast,
+                                                                   accurate and secure access to your tax data using your PIMCO
+• Percentage of foreign source income for certain PIMCO
+                                                                   Funds Account Access login credentials. To establish login
+  funds, including the percentage of foreign source income
+                                                                   credentials needed to access TurboTax® and H&R Block®
+  that constitutes “qualified foreign dividends” (p. 7)
+                                                                   software, visit PIMCO Account Access:
+And for certain PIMCO municipal bond funds:
+                                                                   • Retail investors (A & C shares) – pimco.com/
+• Percentage of income that was federally taxable (p. 8)
+                                                                     myaccountaccess
+• Percentage of tax-exempt income that is subject to the
+                                                                   • Institutional investors (institutional shares only) –
+  federal alternative minimum tax (AMT) (p. 8)
+                                                                     pimco.com/institutionalaccountaccess
+• Tax-exempt interest income earned state-by-state
+                                                                   As PIMCO does not provide legal or tax advice, please
+  (Open-End Mutual Funds p. 9-11; Closed-End Funds
+                                                                   consult a tax professional and/or legal counsel with any
+  p. 12-13; Interval Funds p. 14; Exchange-Traded Funds p. 15,
+                                                                   specific tax questions.
+  Fixed Income SHares p. 16
+                                                                   Sincerely,
+And PIMCO Qualified Dividend Rates (p. 17)
+
+Please note that not all forms and schedules apply to all
+                                                                   Erik C. Brown
+PIMCO funds or fund shareholders. If applicable, the tax
+                                                                   Assistant Treasurer
+information is separated by PIMCO Open-End Mutual Funds,
+PIMCO Closed-End Funds, PIMCO Interval Funds, PIMCO
+Exchange-Traded Funds and PIMCO Fixed Income SHares.
+
+Please call us at the applicable number provided if you
+have questions or need assistance. You can also visit the
+Tax Center page of our website, pimco.com/tax. The page
+includes additional information that may be helpful to you,
+
+                                                      PIMCO SHAREHOLDERS
+2                                                                                        2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS
+
+
+
+Tax Form                 Description
+                         Reports dividend and capital gain distributions from your PIMCO funds, excluding retirement plan accounts. Tax–exempt income
+1099–DIV                 dividends paid by certain PIMCO municipal funds are reported in Box 12 of your 2025 1099–DIV. Any private activity bond interest, which
+                         may be subject to the alternative minimum tax (AMT), is in Box 13.
+
+                         Reports redemption proceeds, including exchanges out, of any non–money market funds in your non–retirement account. Your cost or other
+                         basis for shares that were sold and fall under the IRS’s cost basis regulations is included on this form in Box 1e. This information is required
+1099–B
+                         to be reported to the IRS by PIMCO. If your shares have been transferred to PIMCO or have been converted, we may not be able to provide this
+                         cost basis information to you. For general information about cost basis and the regulations, see below or visit pimco.com/cost–basis.
+
+                         Reports any distributions (including rollovers, recharacterizations and conversions) taken from a retirement plan, such as an IRA, or any
+1099–R
+                         qualified retirement plan, such as a pension, profit sharing, 401(k) plan or tax–deferred annuity.
+
+
+
+Dividend and Capital Gain Distributions FAQ
+Q: WHAT ARE DISTRIBUTIONS AND WHY ARE                                                • Record Date: Purchases through this day are eligible to
+   THEY PAID?                                                                           receive the distribution. Shares redeemed on this day are not
+                                                                                        eligible to receive the distribution.
+A: Fund distributions are earnings from the fund’s operations.
+    The law requires that all profits be passed on to the fund’s                     • Ex–Dividend Date: The date on which the distribution
+    investors in order for the fund to qualify for special tax rules                    amount per share is deducted from the fund’s NAV per share.
+    afforded to funds that benefit the shareholder.                                  • Reinvestment Date: The date on which the distribution
+Q: WHAT IS A CAPITAL GAIN DISTRIBUTION?                                                 proceeds will be reinvested, if so elected, in additional
+                                                                                        PIMCO fund shares. Shares will settle on the payable date.
+A: When a fund sells portfolio securities at a profit, the sale
+    creates a capital gain. Two types of capital gains are                           • Payable Date: The fund pays shareholders their proportional
+    realized by PIMCO funds – short–term and long–term. Net                             amount of any distribution on this date. For PIMCO funds,
+    short–term capital gains are distributed to shareholders                            the payable date for distributions paid in cash, if so elected,
+    as Form 1099-DIV Box 1a income dividends and are taxed                              for mutual funds is normally the same business day as the
+    at ordinary income tax rates. For 2025, long–term capital                           ex–dividend date, except for those funds with daily income
+    gain distributions are taxed at a maximum effective rate of                         distributions. PIMCO fund shares purchased with reinvested
+    23.8% (20% maximum long–term capital gain rate plus 3.8%                            distributions are usually credited on the reinvestment date.
+    Medicare tax).
+
+Q: HOW IS A FUND AFFECTED IF THERE IS NO
+                                                                                     Cost Basis Regulation
+   REQUIRED DISTRIBUTION?                                                            A rule went into effect on January 1, 2012, requiring funds
+                                                                                     to report cost basis information to shareholders and to the
+A: If a distribution is not required, there are no tax
+                                                                                     IRS for “covered shares,” or those shares purchased on or
+    consequences to shareholders or to the fund. If the fund has
+                                                                                     after January 1, 2012. When filing your tax return, you will
+    not made a taxable distribution, shareholders will not receive
+                                                                                     be required to use the cost basis reported in Box 1e of Form
+    a Form 1099–DIV for that fund.
+                                                                                     1099–B to calculate and report the gains and losses from
+Q: HOW IS DISTRIBUTION ELIGIBILITY                                                   your covered shares to the IRS. Please note that retirement
+   DETERMINED FOR PIMCO FUNDS?                                                       accounts are excluded from the cost basis requirements.
+
+A: The timing of a distribution, and the determination of                            For more information about the cost basis requirements, we
+    shareholder eligibility to receive it, is based on the record                    encourage you to speak with your financial advisor or a tax
+    date, ex–dividend date, reinvestment date and payable date                       professional. For general information about cost basis and the
+    which are typically defined as follows:                                          regulations, visit pimco.com/cost–basis. Certain PIMCO funds
+                                                                                     may have earned a portion of their income from U.S. government
+                                                                                     securities. All or part of the interest on these securities may be
+                                                                                     exempt from state and/or local taxation. Please consult a tax
+                                                                                     professional as laws in various jurisdictions may differ.
+2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS                                                                                                 3
+
+
+
+
+The table below reflects the percentage of ordinary dividends                   Please use the contact information provided on page one, if
+derived from U.S. government securities.                                        you have questions or need assistance. You can also visit the
+                                                                                Tax Center page of our website, pimco.com/tax.
+For the benefit of our corporate shareholders, we have also
+included the percentage of dividends that qualify for the
+corporate dividends–received deduction, assuming holding
+period requirements have been met.
+
+2025 Income from U.S. Government Obligations
+                                                                            Percentage of income derived from U.S. Corporate dividends received
+ PIMCO Funds
+                                                                                   Government Securities                   deduction %
+ PIMCO All Asset All Authority Fund                                                           20.50%                                         -
+ PIMCO All Asset Fund                                                                         11.64%                                         -
+ PIMCO California Intermediate Municipal Bond Fund                                                -                                          -
+ PIMCO California Municipal Bond Fund                                                             -                                          -
+ PIMCO California Municipal Intermediate Value Fund1                                              -                                          -
+ PIMCO California Municipal Opportunistic Value Fund                                              -                                          -
+ PIMCO California Short Duration Municipal Income Fund                                            -                                          -
+ PIMCO Climate Bond Fund                                                                      15.65%                                         -
+ PIMCO CommoditiesPLUS® Strategy Fund                                                         10.25%                                         -
+ PIMCO CommodityRealReturn Strategy Fund®                                                     60.85%                                         -
+ PIMCO Credit Opportunities Bond Fund                                                          3.12%                                         -
+ PIMCO Diversified Income Fund                                                                 3.81%                                         -
+ PIMCO Dynamic Bond Fund                                                                       8.97%                                         -
+ PIMCO Emerging Markets Bond Fund                                                              0.08%                                         -
+ PIMCO Emerging Markets Corporate Bond Fund                                                    0.26%                                         -
+ PIMCO Emerging Markets Currency and Short-Term Investments Fund                               1.21%                                         -
+ PIMCO Emerging Markets Full Spectrum Bond Fund                                                0.14%                                         -
+ PIMCO Emerging Markets Local Currency and Bond Fund                                           0.51%                                         -
+ PIMCO ESG Income Fund                                                                        12.13%                                         -
+ PIMCO Extended Duration Fund*                                                                87.84%                                         -
+ PIMCO Global Advantage® Strategy Bond Fund                                                   10.02%                                         -
+ PIMCO Global Bond Opportunities Fund (U.S. Dollar-Hedged)                                     9.20%                                         -
+ PIMCO Global Core Asset Allocation Fund                                                      17.89%                                         -
+ PIMCO GNMA and Government Securities Fund                                                     0.51%                                         -
+ PIMCO Government Money Market Fund                                                               -                                          -
+ PIMCO High Yield Fund                                                                         3.19%                                         -
+ PIMCO High Yield Municipal Bond Fund                                                             -                                          -
+ PIMCO High Yield Spectrum Fund                                                                3.82%                                         -
+ PIMCO Income Fund                                                                            12.87%                                         -
+ PIMCO Inflation Response Multi-Asset Fund                                                    100.00%                                        -
+ PIMCO International Bond Fund (U.S. Dollar-Hedged)                                            8.09%                                         -
+ PIMCO International Bond Fund (Unhedged)                                                      7.67%                                         -
+ PIMCO Investment Grade Credit Bond Fund                                                       9.32%                                   4.06%
+ PIMCO Long Duration Total Return Fund                                                        38.37%                                         -
+ PIMCO Long-Term Credit Bond Fund                                                             15.04%                                   3.01%
+ PIMCO Long-Term Real Return Fund*                                                            87.02%                                         -
+ PIMCO Long-Term U.S. Government Fund*                                                        88.59%                                         -
+ PIMCO Low Duration Credit Fund                                                                2.43%                                         -
+ PIMCO Low Duration ESG Fund                                                                  13.94%                                         -
+ PIMCO Low Duration Fund                                                                       2.43%                                         -
+ PIMCO Low Duration Fund II                                                                   19.49%                                         -
+
+ 1
+     On November 21, 2025 PIMCO California Municipal Intermediate Value Fund merged into PIMCO California Intermediate Municipal Bond Fund
+ * Fund passes quarterly 50% U.S. Government holdings threshold
+4                                                                                     2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS
+
+
+2025 Income from U.S. Government Obligations (continued)
+
+                                                                              Percentage of income derived from U.S. Corporate dividends received
+    PIMCO Funds
+                                                                                     Government Securities                   deduction %
+    PIMCO Low Duration Income Fund                                                              6.83%                              -
+    PIMCO Low Duration Opportunities Fund                                                       10.68%                             -
+    PIMCO Moderate Duration Fund                                                                46.34%                             -
+    PIMCO Mortgage Opportunities and Bond Fund                                                  1.36%                              -
+    PIMCO Municipal Bond Fund                                                                      -                               -
+    PIMCO National Intermediate Municipal Bond Fund                                                -                               -
+    PIMCO National Municipal Intermediate Value Fund2                                              -                               -
+    PIMCO National Municipal Opportunistic Value Fund                                              -                               -
+    PIMCO New York Municipal Bond Fund                                                             -                               -
+    PIMCO Preferred and Capital Securities Fund                                                 2.09%                           34.63%
+    PIMCO RAE Fundamental Advantage PLUS Fund                                                    5.61%                             -
+    PIMCO RAE PLUS EMG Fund                                                                     1.53%                              -
+    PIMCO RAE PLUS Fund                                                                         2.98%                           1.06%
+    PIMCO RAE PLUS International Fund                                                           1.95%                              -
+    PIMCO RAE PLUS Small Fund                                                                   4.65%                              -
+    PIMCO RAE Worldwide Long/Short PLUS Fund                                                    5.24%                              -
+    PIMCO Real Return Fund*                                                                     82.34%                             -
+    PIMCO RealEstateRealReturn Strategy Fund                                                    66.67%                             -
+    PIMCO Short Asset Investment Fund                                                           0.76%                              -
+    PIMCO Short Duration Municipal Income Fund                                                     -                               -
+    PIMCO Short-Term Fund                                                                       3.39%                              -
+    PIMCO StocksPLUS® Absolute Return Fund                                                      4.00%                              -
+    PIMCO StocksPLUS® Fund                                                                      2.00%                              -
+    PIMCO StocksPLUS® International Fund (U.S. Dollar-Hedged)                                   1.58%                              -
+    PIMCO StocksPLUS® International Fund (Unhedged)                                             3.40%                              -
+    PIMCO StocksPLUS® Long Duration Fund                                                        18.78%                             -
+    PIMCO StocksPLUS® Short Fund                                                                29.79%                             -
+    PIMCO StocksPLUS® Small Fund                                                                5.27%                              -
+    PIMCO Total Return ESG Fund                                                                 19.12%                             -
+    PIMCO Total Return Fund                                                                     13.38%                             -
+    PIMCO Total Return Fund II                                                                  46.11%                             -
+    PIMCO Total Return Fund IV                                                                  14.25%                             -
+    PIMCO Total Return Fund V                                                                   18.51%                             -
+    PIMCO TRENDS Managed Futures Strategy Fund                                                  3.56%                              -
+
+
+
+
+    2
+        On November 21, 2025 PIMCO National Municipal Intermediate Value Fund merged into PIMCO National Municipal Bond Fund
+    * Fund passes quarterly 50% U.S. Government holdings threshold
+2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS                                                                                                            5
+
+
+2025 Income from U.S. Government Obligations (continued)
+
+                                                                             Percentage of income derived from U.S. Corporate dividends received
+ PIMCO Equity Series
+                                                                                    Government Securities                   deduction %
+ PIMCO Dividend and Income Fund                                                                 10.07%                                   14.56%
+ PIMCO RAE Emerging Markets Fund                                                                   -                                        -
+ PIMCO RAE Global ex-US Fund                                                                       -                                        -
+ PIMCO RAE International Fund                                                                      -                                        -
+ PIMCO RAE US Fund                                                                                 -                                     72.99%
+ PIMCO RAE US Small Fund                                                                           -                                     60.28%
+ PIMCO RealPATH® Blend 2025 Fund3                                                               0.83%                                       -
+ PIMCO RealPATH® Blend 2030 Fund                                                                34.29%                                      -
+ PIMCO RealPATH® Blend 2035 Fund                                                                29.26%                                      -
+ PIMCO RealPATH® Blend 2040 Fund                                                                21.83%                                      -
+ PIMCO RealPATH® Blend 2045 Fund                                                                17.13%                                      -
+ PIMCO RealPATH® Blend 2050 Fund                                                                12.18%                                      -
+ PIMCO RealPATH® Blend 2055 Fund                                                                8.06%                                       -
+ PIMCO REALPATH® Blend 2060 Fund                                                                6.92%                                       -
+ PIMCO RealPATH® Blend 2065 Fund                                                                7.09%                                       -
+ PIMCO RealPATH® Blend 2070 Fund                                                                   -                                        -
+ PIMCO RealPATH® Blend Income Fund                                                              29.46%                                      -
+
+
+
+                                                                             Percentage of income derived from U.S. Corporate dividends received
+ PIMCO Closed-End Funds
+                                                                                    Government Securities                   deduction %
+ PCM Fund, Inc.                                                                                 0.38%                                       -
+ PIMCO Access Income Fund                                                                       2.24%                                    4.40%
+ PIMCO California Municipal Income Fund                                                            -                                        -
+ PIMCO California Municipal Income Fund II4                                                        -                                        -
+ PIMCO California Municipal Income Fund III4                                                       -                                        -
+ PIMCO Corporate & Income Opportunity Fund                                                      1.09%                                       -
+ PIMCO Corporate & Income Strategy Fund                                                         1.35%                                       -
+ PIMCO Dynamic Income Fund                                                                      2.09%                                    2.57%
+ PIMCO Dynamic Income Opportunities Fund                                                        0.61%                                    3.19%
+ PIMCO Dynamic Income Strategy Fund                                                             0.47%                                    1.03%
+ PIMCO Global StocksPLUS® & Income Fund                                                         1.32%                                       -
+ PIMCO High Income Fund                                                                         0.45%                                       -
+ PIMCO Income Strategy Fund                                                                     1.04%                                       -
+ PIMCO Income Strategy Fund II                                                                  1.02%                                       -
+ PIMCO Municipal Income Fund5                                                                      -                                        -
+ PIMCO Municipal Income Fund II                                                                    -                                        -
+ PIMCO Municipal Income Fund III5                                                                  -                                        -
+ PIMCO New York Municipal Income Fund6                                                             -                                        -
+ PIMCO New York Municipal Income Fund II                                                           -                                        -
+ PIMCO New York Municipal Income Fund III6                                                         -                                        -
+ PIMCO Strategic Income Fund, Inc.                                                              1.05%                                       -
+
+
+
+
+ 3
+     PIMCO RealPATH® Blend 2025 merged into PIMCO RealPATH® Blend Income Fund on January 6, 2025
+ 4
+     PIMCO California Municipal Income Fund II and PIMCO California Municipal Income Fund III merged into PIMCO California Municipal Income Fund on August 1, 2025
+ 5
+     PIMCO Municipal Income Fund and PIMCO Municipal Income Fund III merged into PIMCO Municipal Income Fund II on August 1, 2025
+ 6
+     PIMCO New York Municipal Income Fund and PIMCO New York Municipal Income Fund III merged into PIMCO New York Municipal Income Fund II on August 1, 2025
+6                                                                                 2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS
+
+
+2025 Income from U.S. Government Obligations (continued)
+
+
+
+                                                                           Percentage of income derived from U.S. Corporate dividends received
+    PIMCO Interval Funds
+                                                                                  Government Securities                   deduction %
+    PIMCO California Flexible Municipal Income Fund                                        0.10%                                -
+    PIMCO Flexible Credit Income Fund                                                      1.27%                             3.60%
+    PIMCO Flexible Emerging Markets Income Fund                                            1.01%                                -
+    PIMCO Flexible Municipal Income Fund                                                   0.47%                                -
+
+
+
+                                                                           Percentage of income derived from U.S. Corporate dividends received
+    PIMCO Exchange-Traded Funds
+                                                                                   government securities                  deduction %
+    PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund                    0.01%                                -
+    PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund*                                  99.95%                                -
+    PIMCO 15+ Year U.S. TIPS Index Exchange-Traded Fund*                                  99.96%                                -
+    PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund*                  99.94%                                -
+    PIMCO Active Bond Exchange-Traded Fund                                                13.57%                                -
+    PIMCO Broad U.S. TIPS Index Exchange-Traded Fund*                                     99.87%                                -
+    PIMCO Commodity Strategy Active Exchange-Traded Fund                                   1.04%                                -
+    PIMCO Enhanced Low Duration Active Exchange-Traded Fund                                4.39%                                -
+    PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund                          3.20%                                -
+    PIMCO Enhanced Short Maturity Active Exchange-Traded Fund                              2.16%                                -
+    PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund                          5.73%                                -
+    PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund                       8.63%                                -
+    PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund                           0.27%                                -
+    PIMCO Multisector Bond Active Exchange-Traded Fund                                     4.79%                                -
+    PIMCO Municipal Income Opportunities Active Exchange-Traded Fund                         -                                  -
+    PIMCO Preferred and Capital Securities Active Exchange-Traded Fund                     0.52%                             31.45%
+    PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF                              -                                  -
+    PIMCO RAFI Dynamic Multi-Factor International Equity ETF                                 -                                  -
+    PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF                                          -                              100.00%
+    PIMCO RAFI ESG U.S. ETF                                                                  -                               98.59%
+    PIMCO Senior Loan Active Exchange-Traded Fund                                          0.08%                                -
+    PIMCO Short Term Municipal Bond Active Exchange-Traded Fund                            6.56%                                -
+    PIMCO Ultra Short Government Active Exchange-Traded Fund*                             100.00%                               -
+
+
+
+                                                                           Percentage of income derived from U.S. Corporate dividends received
+    PIMCO Fixed Income SHares Funds
+                                                                                   government securities                  deduction %
+    PIMCO Fixed Income SHares - Series C                                                  19.10%                                -
+    PIMCO Fixed Income SHares - Series LD                                                  4.21%                                -
+    PIMCO Fixed Income SHares - Series M                                                   8.54%                                -
+    PIMCO Fixed Income SHares - Series R*                                                 78.55%                                -
+    PIMCO Fixed Income SHares - Series TE                                                    -                                  -
+
+
+
+
+    * Fund passes quarterly 50% U.S. Government holdings threshold
+2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS                                                                                        7
+
+
+
+2025 Foreign Tax Credit Information
+Below is a summary of the percent of foreign source income          If you choose to claim the foreign tax credit, you may be required
+earned and the percent of qualified foreign dividends deemed        to file Form 1116, Foreign Tax Credit, with your federal income
+paid by PIMCO funds. For 2025, these funds represent the funds      tax return if your credit exceeds a de minimis threshold. Your
+for which PIMCO elects to pass through foreign taxes paid to        share of “Foreign Taxes Paid” is included in Box 7 of your 2025
+shareholders. If a fund is not listed below, PIMCO does not elect   Form 1099–DIV. The information below can help you compute
+to pass through foreign taxes paid to shareholders this year.       your foreign tax credit.
+Your share of the foreign taxes paid can be used as a tax credit    Please use the contact information provided on page one, if you
+or a deduction from income on your personal tax return. Please      have questions or need assistance. You can also visit the Tax
+consult a tax professional to determine whether you qualify for     Center page of our website, pimco.com/tax.
+the foreign tax credit or deduction.
+
+
+
+ PIMCO Open–End Mutual Funds: PIMCO Equity Series                   % of Foreign Source Income       % of Qualified Foreign Dividends
+ PIMCO RAE Emerging Markets Fund                                             95.97%                              45.15%
+ PIMCO RAE Global ex-US Fund                                                 65.66%                              58.52%
+ PIMCO RAE International Fund                                                 87.67%                             68.92%
+
+ PIMCO Exchange-Traded Funds                                        % of Foreign Source Income       % of Qualified Foreign Dividends
+ PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF                 100.00%                             51.07%
+ PIMCO RAFI Dynamic Multi-Factor International Equity ETF                     77.91%                             77.91%
+8                                                                                   2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS
+
+
+
+2025 Municipal Bond Fund Information
+This section contains additional tax–related information for                    breakdown of each fund’s tax–exempt interest income by state.
+shareholders of one or more of the below PIMCO municipal                        Note that any capital gains distributed by the funds during 2025
+bond and tax–managed funds for 2025.                                            are taxable. Short–term capital gains are reported in Box 1a of
+At least 50% of the value of a fund’s assets must consist of                    Form 1099–DIV as ordinary dividends and long–term capital
+federally tax–exempt obligations at the close of each quarter                   gains are reported in Box 2a.
+of a fund’s tax year in order for a fund to pass through the tax–               We suggest that you consult a tax professional or call your
+exempt character of its income to shareholders. For all funds                   state’s tax inquiry center to determine how this information may
+that qualified in 2025, the charts below and on pages 8 through                 apply to your particular tax situation.
+11 provide (1) the blended percentage of each fund’s dividends                  Please use the contact information provided on page one, if you
+paid in 2025 that was taxable, (2) the percentage of each fund’s                have questions or need assistance. You can also visit the Tax
+2025 income that was derived from private activity bonds                        Center page of our website, pimco.com/tax.
+and subject to the alternative minimum tax (AMT), and (3) the
+                                                                                                  % of Tax Exempt            % of Tax Exempt Income
+    PIMCO Open–End Mutual Funds: PIMCO Funds                           % of Taxable Income
+                                                                                                      Income                     Subject to AMT
+    PIMCO California Intermediate Municipal Bond Fund                         15.39%                   84.61%                          14.91%
+    PIMCO California Municipal Bond Fund                                      13.04%                   86.96%                          7.06%
+    PIMCO California Municipal Intermediate Value Fund7                       9.37%                    90.63%                          5.38%
+    PIMCO California Municipal Opportunistic Value Fund                       6.49%                    93.51%                          8.21%
+    PIMCO California Short Duration Municipal Income Fund                     20.95%                   79.05%                          9.38%
+    PIMCO High Yield Municipal Bond Fund                                      13.32%                   86.68%                          16.18%
+    PIMCO Municipal Bond Fund                                                 9.91%                    90.09%                          17.71%
+    PIMCO National Intermediate Municipal Bond Fund                           12.52%                   87.48%                          19.72%
+    PIMCO National Municipal Intermediate Value Fund8                         8.37%                    91.63%                          9.43%
+    PIMCO National Municipal Opportunistic Value Fund                         4.27%                    95.73%                          11.01%
+    PIMCO New York Municipal Bond Fund                                        6.46%                    93.54%                          10.37%
+    PIMCO Short Duration Municipal Income Fund                                14.05%                   85.95%                          15.73%
+
+                                                                                                  % of Tax Exempt            % of Tax Exempt Income
+    PIMCO Closed–End Funds                                             % of Taxable Income
+                                                                                                      Income                     Subject to AMT
+    PIMCO California Municipal Income Fund                                    7.64%                    92.36%                          5.80%
+    PIMCO California Municipal Income Fund II9                                7.47%                    92.53%                          6.17%
+    PIMCO California Municipal Income Fund III9                               7.81%                    92.19%                          6.42%
+    PIMCO Municipal Income Fund10                                             8.57%                    91.43%                          9.91%
+    PIMCO Municipal Income Fund II                                            9.22%                    90.78%                          9.84%
+    PIMCO Municipal Income Fund III10                                         10.00%                   90.00%                          10.42%
+    PIMCO New York Municipal Income Fund11                                    5.26%                    94.74%                          7.05%
+    PIMCO New York Municipal Income Fund II                                   5.91%                    94.09%                          7.59%
+    PIMCO New York Municipal Income Fund III11                                4.66%                    95.34%                          7.31%
+
+                                                                                                  % of Tax Exempt            % of Tax Exempt Income
+    PIMCO Interval Funds                                               % of Taxable Income
+                                                                                                      Income                     Subject to AMT
+    PIMCO California Flexible Municipal Income Fund                           12.86%                    87.14%                         8.21%
+    PIMCO Flexible Municipal Income Fund                                      15.75%                   84.25%                          17.08%
+
+                                                                                                  % of Tax Exempt            % of Tax Exempt Income
+    PIMCO Exchange-Traded Funds                                        % of Taxable Income
+                                                                                                      Income                     Subject to AMT
+    PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund             8.72%                    91.28%                             -
+    PIMCO Municipal Income Opportunities Active Exchange-Traded Fund          7.60%                    92.40%                          13.90%
+    PIMCO Short Term Municipal Bond Active Exchange-Traded Fund               9.68%                    90.32%                             -
+
+                                                                                                  % of Tax Exempt            % of Tax Exempt Income
+    PIMCO Fixed Income SHares Funds                                    % of Taxable Income
+                                                                                                      Income                     Subject to AMT
+    PIMCO Fixed Income SHares - Series TE                                     12.55%                   87.45%                          12.72%
+
+ 7
+   On November 21, 2025 PIMCO California Municipal Intermediate Value Fund merged into PIMCO California Intermediate Municipal Bond Fund
+ 8
+   On November 21, 2025 PIMCO National Municipal Intermediate Value Fund merged into PIMCO National Municipal Bond Fund
+ 9
+   PIMCO California Municipal Income Fund II and PIMCO California Municipal Income Fund III merged into PIMCO California Municipal Income Fund on August 1, 2025
+ 10
+    PIMCO Municipal Income Fund and PIMCO Municipal Income Fund III merged into PIMCO Municipal Income Fund II on August 1, 2025
+ 11
+    PIMCO New York Municipal Income Fund and PIMCO New York Municipal Income Fund III merged into PIMCO New York Municipal Income Fund II on August 1, 2025
+2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS                                                                                                             9
+
+
+
+PIMCO Municipal Bond Funds 2025 Tax Reporting Information – State and Territory Detail
+                                 PIMCO California                                  PIMCO California         PIMCO California        PIMCO California Short
+                              Intermediate Municipal      PIMCO California       Municipal Intermediate   Municipal Opportunistic     Duration Municipal
+                                    Bond Fund            Municipal Bond Fund         Value Fund12               Value Fund              Income Fund
+                                  % of     % Subject       % of      % Subject      % of      % Subject      % of      % Subject       % of     % Subject
+                                Income      to AMT       Income       to AMT      Income       to AMT      Income       to AMT       Income      to AMT
+ Alabama                         1.58%          -            -            -           -            -           -            -         1.27%          -
+ Alaska                             -           -            -            -           -            -           -            -            -           -
+ Arizona                         0.25%          -         0.35%           -           -            -           -            -            -           -
+ Arkansas                           -           -            -            -           -            -           -            -            -           -
+ California                     90.04%      14.12%       94.33%        7.06%       91.76%       5.38%      95.28%        8.21%       93.64%       9.38%
+ Colorado                        0.39%          -            -            -           -            -           -            -            -           -
+ Connecticut                        -           -            -            -           -            -           -            -            -           -
+ District of Columbia               -           -            -            -           -            -           -            -         0.61%          -
+ Delaware                           -           -            -            -           -            -           -            -            -           -
+ Florida                         0.37%       0.15%           -            -           -            -           -            -            -           -
+ Georgia                         0.43%          -         0.39%           -           -            -           -            -         0.62%          -
+ Guam                               -           -            -            -           -            -           -            -            -           -
+ Hawaii                             -           -            -            -           -            -           -            -            -           -
+ Idaho                              -           -            -            -           -            -           -            -            -           -
+ Illinois                        0.02%          -            -            -        7.80%           -           -            -            -           -
+ Indiana                            -           -            -            -           -            -        0.84%           -            -           -
+ Iowa                               -           -         0.07%           -           -            -           -            -            -           -
+ Kansas                             -           -            -            -           -            -           -            -            -           -
+ Kentucky                           -           -            -            -        0.44%           -           -            -            -           -
+ Louisiana                          -           -            -            -           -            -           -            -            -           -
+ Maine                              -           -            -            -           -            -           -            -            -           -
+ Maryland                           -           -            -            -           -            -           -            -            -           -
+ Massachusetts                      -           -            -            -           -            -           -            -            -           -
+ Michigan                        1.14%          -            -            -           -            -           -            -         0.13%          -
+ Minnesota                          -           -            -            -           -            -           -            -         0.06%          -
+ Mississippi                        -           -            -            -           -            -           -            -            -           -
+ Missouri                           -           -            -            -           -            -           -            -         0.21%          -
+ Montana                            -           -            -            -           -            -           -            -            -           -
+ Nebraska                           -           -            -            -           -            -           -            -            -           -
+ Nevada                             -           -            -            -           -            -           -            -            -           -
+ New Hampshire                      -           -            -            -           -            -           -            -            -           -
+ New Jersey                         -           -            -            -           -            -           -            -            -           -
+ New Mexico                         -           -            -            -           -            -           -            -            -           -
+ New York                        1.33%          -         0.86%           -           -            -        1.60%           -            -           -
+ North Carolina                     -           -            -            -           -            -           -            -            -           -
+ Northern Mariana Islands           -           -            -            -           -            -           -            -            -           -
+ North Dakota                       -           -            -            -           -            -           -            -            -           -
+ Ohio                            0.28%          -            -            -           -            -        1.06%           -         0.35%          -
+ Oklahoma                           -           -            -            -           -            -           -            -            -           -
+ Oregon                             -           -            -            -           -            -           -            -         0.17%          -
+ Pennsylvania                    0.64%       0.64%           -            -           -            -           -            -            -           -
+ Puerto Rico                     2.97%          -         2.88%           -           -            -           -            -         2.94%          -
+ Rhode Island                       -           -            -            -           -            -           -            -            -           -
+ South Carolina                     -           -            -            -           -            -           -            -            -           -
+ South Dakota                       -           -            -            -           -            -           -            -            -           -
+ Tennessee                          -           -         0.35%           -           -            -           -            -            -           -
+ Texas                           0.56%          -         0.77%           -           -            -        0.52%           -            -           -
+ Utah                               -           -            -            -           -            -        0.70%           -            -           -
+ Virgin Islands                     -           -            -            -           -            -           -            -            -           -
+ Vermont                            -           -            -            -           -            -           -            -            -           -
+ Virginia                           -           -            -            -           -            -           -            -            -           -
+ Washington                         -           -            -            -           -            -           -            -            -           -
+ West Virginia                      -           -            -            -           -            -           -            -            -           -
+ Wisconsin                          -           -            -            -           -            -           -            -            -           -
+ Wyoming                            -           -            -            -           -            -           -            -            -           -
+
+12
+     On November 21, 2025 PIMCO California Municipal Intermediate Value Fund merged into PIMCO California Intermediate Municipal Bond Fund
+10                                                                                 2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS
+
+
+
+PIMCO Municipal Bond Funds 2025 Tax Reporting Information – State and Territory Detail (continued)
+                                                                                   PIMCO National         PIMCO National            PIMCO National
+                               PIMCO High Yield          PIMCO Municipal       Intermediate Municipal   Municipal Intermediate   Municipal Opportunistic
+                              Municipal Bond Fund           Bond Fund                Bond Fund              Value Fund13               Value Fund
+                                % of      % Subject      % of      % Subject      % of      % Subject      % of      % Subject      % of      % Subject
+                              Income       to AMT      Income       to AMT      Income       to AMT      Income       to AMT      Income       to AMT
+Alabama                        3.86%       0.80%        4.41%       0.50%        4.38%       0.03%         3.43%          -       2.45%            -
+Alaska                         0.29%          -         0.25%          -            -           -          3.31%          -           -            -
+Arizona                        1.09%       0.15%        1.39%       0.39%        2.44%       1.23%            -           -        1.08%           -
+Arkansas                       0.83%       0.83%        0.23%       0.23%        0.01%       0.01%            -           -        1.58%           -
+California                    10.40%       1.36%       8.43%        2.48%        8.59%       2.44%         9.26%       1.40%       2.17%           -
+Colorado                      4.87%        0.11%        2.94%       0.17%        3.41%       0.46%            -           -       2.05%            -
+Connecticut                       -           -         0.54%          -         0.18%          -          0.17%          -           -            -
+District of Columbia           1.34%       0.21%       2.03%        0.68%        1.67%       0.89%            -           -        1.34%        1.34%
+Delaware                       0.71%          -         0.27%          -            -           -             -           -           -            -
+Florida                        6.90%       1.74%       4.83%        1.47%        6.18%       1.93%         6.07%          -        5.73%        2.13%
+Georgia                        2.73%          -        2.48%        0.04%       2.68%        0.64%        2.48%           -        1.76%           -
+Guam                           0.03%          -            -           -            -           -             -           -           -            -
+Hawaii                         0.37%       0.31%        0.01%       0.01%        0.17%          -             -           -       2.37%         0.27%
+Idaho                         0.50%           -        0.08%           -         0.31%          -             -           -           -            -
+Illinois                       4.64%       0.72%       6.85%        1.00%        4.79%       0.42%        17.01%          -       12.12%           -
+Indiana                        1.84%          -         1.75%       0.31%        1.97%       0.82%         0.89%          -           -            -
+Iowa                           0.65%          -        0.29%           -         0.34%          -          0.03%          -           -            -
+Kansas                         0.27%          -            -           -            -           -             -           -       0.85%            -
+Kentucky                       0.41%       0.01%        0.95%       0.36%        1.16%       0.20%         2.36%          -           -            -
+Louisiana                      0.92%       0.62%        0.92%       0.71%        0.79%       0.63%         1.82%          -        1.44%           -
+Maine                          0.06%       0.06%        0.24%       0.24%        0.10%       0.10%        2.30%        1.80%      2.33%            -
+Maryland                       0.37%          -         0.54%       0.09%        0.31%          -             -           -       0.30%            -
+Massachusetts                  1.80%          -        2.07%        0.04%        0.94%          -             -           -        2.70%        0.36%
+Michigan                       2.67%       0.11%        2.36%       0.18%        4.06%       1.56%         2.13%          -       6.34%            -
+Minnesota                     0.28%        0.09%        1.20%       0.07%        1.09%          -          2.21%          -           -            -
+Mississippi                    0.02%          -         0.11%          -         0.15%          -          2.16%          -           -            -
+Missouri                       0.25%          -         0.59%       0.28%        0.53%          -          3.61%          -       5.80%         1.11%
+Montana                        0.03%          -            -           -            -           -             -           -           -            -
+Nebraska                       0.31%          -         0.12%          -            -           -             -           -        1.84%           -
+Nevada                         0.21%          -         0.13%       0.07%        0.46%       0.28%         2.07%       2.07%          -            -
+New Hampshire                  1.20%          -         1.94%          -         1.47%          -             -           -       2.42%            -
+New Jersey                     1.61%       0.21%        1.25%       0.01%       2.68%           -             -           -       0.35%            -
+New Mexico                     0.01%          -        0.32%           -         0.85%          -             -           -           -            -
+New York                      10.91%       3.04%       15.47%       3.48%       10.48%       2.56%         1.37%          -        4.98%           -
+North Carolina                 0.18%          -         1.17%          -         0.63%          -             -           -        2.13%           -
+Northern Mariana Islands          -           -            -           -            -           -             -           -           -            -
+North Dakota                      -           -         0.07%          -         0.16%          -             -           -           -            -
+Ohio                          4.48%        0.78%       4.27%        0.91%       2.89%        1.24%         3.05%          -        7.98%        1.24%
+Oklahoma                      0.40%        0.11%       0.40%           -         0.57%          -             -           -        0.31%           -
+Oregon                         0.18%          -        0.38%        0.11%        1.61%       0.53%         7.95%       3.07%       1.85%           -
+Pennsylvania                  4.45%        0.91%        3.90%       0.86%        3.77%       0.82%         4.87%          -       10.03%           -
+Puerto Rico                    6.75%          -         3.41%          -         3.15%          -             -           -           -            -
+Rhode Island                   0.59%          -         0.96%          -         0.96%          -          0.47%          -           -            -
+South Carolina                 0.96%       0.09%        1.02%       0.03%        0.95%       0.11%         1.08%       1.08%          -            -
+South Dakota                      -           -         0.16%          -         0.22%          -         2.60%           -           -            -
+Tennessee                      1.28%       0.19%        1.51%       0.03%        2.01%          -             -           -           -            -
+Texas                         10.46%       2.56%       11.56%       1.73%       14.93%       1.67%        15.23%          -       10.66%        1.08%
+Utah                           0.91%       0.31%        1.28%       0.41%        0.57%          -             -           -        0.96%        0.37%
+Virgin Islands                    -           -            -           -            -           -             -           -           -            -
+Vermont                        0.03%       0.03%           -           -            -           -             -           -           -            -
+Virginia                       0.81%          -         1.16%          -         0.79%          -             -           -        1.26%        1.26%
+Washington                     1.31%          -         1.36%          -         2.49%       0.58%         0.74%          -       2.82%         1.84%
+West Virginia                  1.61%       0.26%       0.50%        0.20%        0.27%       0.10%         0.59%          -           -            -
+Wisconsin                     3.22%        0.58%        1.90%       0.63%        1.84%       0.46%         0.74%          -           -            -
+Wyoming                           -           -            -           -            -           -             -           -           -            -
+
+13
+     On November 21, 2025 PIMCO National Municipal Intermediate Value Fund merged into PIMCO National Municipal Bond Fund
+2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS                                                     11
+
+
+
+PIMCO Municipal Bond Funds 2025 Tax Reporting Information – State and Territory Detail (continued)
+                            PIMCO New York        PIMCO Short Duration
+                           Municipal Bond Fund    Municipal Income Fund
+                             % of     % Subject     % of      % Subject
+                           Income      to AMT     Income       to AMT
+Alabama                    1.20%           -       4.83%           -
+Alaska                         -           -           -           -
+Arizona                        -           -        2.81%       1.10%
+Arkansas                       -           -        0.01%       0.01%
+California                 1.34%        0.68%       7.98%       1.01%
+Colorado                       -           -       3.69%        0.28%
+Connecticut                0.33%           -        1.17%          -
+District of Columbia           -           -        1.61%       0.75%
+Delaware                       -           -       0.05%           -
+Florida                    0.08%        0.08%       4.01%       0.64%
+Georgia                    1.90%           -       2.59%           -
+Guam                           -           -           -           -
+Hawaii                         -           -        0.36%          -
+Idaho                          -           -       0.22%           -
+Illinois                       -           -        7.39%       1.54%
+Indiana                        -           -       3.20%        1.14%
+Iowa                        0.16%          -           -           -
+Kansas                         -           -        1.62%          -
+Kentucky                       -           -       0.53%        0.44%
+Louisiana                      -           -        0.61%          -
+Maine                          -           -       0.25%        0.25%
+Maryland                       -           -       0.04%           -
+Massachusetts                  -           -       2.47%           -
+Michigan                   0.27%           -       5.38%        2.81%
+Minnesota                      -           -       0.45%           -
+Mississippi                    -           -        0.18%          -
+Missouri                       -           -        0.95%          -
+Montana                        -           -           -           -
+Nebraska                       -           -       0.33%           -
+Nevada                      0.16%       0.16%      0.69%        0.69%
+New Hampshire              0.30%           -           -           -
+New Jersey                  0.17%          -       2.30%           -
+New Mexico                     -           -        0.11%          -
+New York                   87.77%       8.55%      10.92%       1.46%
+North Carolina                 -           -        2.01%          -
+Northern Mariana Islands       -           -           -           -
+North Dakota                   -           -        0.10%          -
+Ohio                       0.59%        0.59%      3.92%        0.57%
+Oklahoma                       -           -       0.08%           -
+Oregon                         -           -        0.13%          -
+Pennsylvania                   -           -       5.53%        2.55%
+Puerto Rico                3.87%           -       2.08%           -
+Rhode Island                   -           -           -           -
+South Carolina                 -           -       1.48%           -
+South Dakota                   -           -           -           -
+Tennessee                  0.70%           -        1.56%          -
+Texas                      0.62%           -       11.30%       0.27%
+Utah                           -           -       0.43%        0.21%
+Virgin Islands                 -           -           -           -
+Vermont                        -           -           -           -
+Virginia                       -           -        1.55%          -
+Washington                 0.23%           -        1.03%          -
+West Virginia                  -           -        0.51%          -
+Wisconsin                  0.31%        0.31%       1.54%          -
+Wyoming                        -           -           -           -
+12                                                                                     2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS
+
+
+
+PIMCO Closed–End Municipal Bond Funds 2025 Tax Reporting Information – State and Territory Detail
+                                                          PIMCO California          PIMCO California
+                                PIMCO California        Municipal Income Fund     Municipal Income Fund        PIMCO Municipal           PIMCO Municipal
+                              Municipal Income Fund               II14                     III14                Income Fund15             Income Fund II
+                                 % of      % Subject       % of      % Subject       % of      % Subject       % of      % Subject       % of      % Subject
+                               Income       to AMT       Income       to AMT       Income       to AMT       Income       to AMT       Income       to AMT
+Alabama                             -           -             -           -            -            -          1.47%       0.34%        1.71%        0.48%
+Alaska                              -           -             -           -            -            -          0.55%          -         0.37%           -
+Arizona                             -           -             -           -            -            -         2.59%           -         6.13%           -
+Arkansas                            -           -             -           -            -            -          1.60%       0.57%        0.74%        0.53%
+California                      89.67%       5.68%        89.56%       5.86%       89.63%        6.12%        2.45%        0.55%        2.78%        0.37%
+Colorado                            -           -             -           -            -            -         2.87%           -         4.19%           -
+Connecticut                         -           -             -           -            -            -          0.31%          -         0.32%           -
+District of Columbia                -           -             -           -            -            -         0.85%        0.57%        0.77%        0.52%
+Delaware                         0.91%          -          0.91%          -         0.91%           -          1.29%          -         0.99%           -
+Florida                             -           -             -           -            -            -         5.20%        1.18%        4.34%        1.09%
+Georgia                             -           -             -           -            -            -          3.96%          -         4.13%           -
+Guam                                -           -             -           -            -            -             -           -            -            -
+Hawaii                              -           -             -           -            -            -             -           -            -            -
+Idaho                               -           -             -           -            -            -             -           -            -            -
+Illinois                         0.66%          -         0.48%           -        0.43%            -         6.39%        0.72%        8.50%        0.69%
+Indiana                             -           -             -           -            -            -          1.13%          -         1.78%           -
+Iowa                                -           -             -           -            -            -          1.84%          -         1.73%           -
+Kansas                              -           -             -           -            -            -          0.12%          -            -            -
+Kentucky                            -           -             -           -            -            -         0.44%        0.15%        0.53%        0.07%
+Louisiana                           -           -             -           -            -            -         2.03%           -        2.28%         0.11%
+Maine                               -           -             -           -            -            -             -           -         0.18%           -
+Maryland                            -           -             -           -            -            -          0.13%          -         0.15%           -
+Massachusetts                       -           -             -           -            -            -          0.46%          -         0.34%           -
+Michigan                            -           -             -           -            -            -         3.04%           -         1.96%        0.07%
+Minnesota                           -           -             -           -            -            -          0.25%          -         0.50%           -
+Mississippi                         -           -             -           -            -            -          0.05%          -         0.14%           -
+Missouri                            -           -             -           -            -            -          1.14%          -         2.05%           -
+Montana                             -           -             -           -            -            -             -           -         0.07%           -
+Nebraska                            -           -             -           -            -            -          0.24%          -         0.26%           -
+Nevada                              -           -             -           -            -            -         0.80%           -         0.87%           -
+New Hampshire                   0.67%           -         0.67%           -         0.65%           -          0.98%          -         1.21%           -
+New Jersey                          -           -             -           -            -            -          3.24%          -        2.43%            -
+New Mexico                          -           -             -           -            -            -             -           -            -            -
+New York                        0.59%           -          1.06%          -         0.56%           -         15.95%       1.15%       10.57%        1.18%
+North Carolina                      -           -             -           -            -            -          1.43%          -         0.96%           -
+Northern Mariana Islands            -           -             -           -            -            -             -           -            -            -
+North Dakota                        -           -             -           -            -            -             -           -            -            -
+Ohio                                -           -             -           -            -            -         4.53%        0.98%        4.15%        0.86%
+Oklahoma                            -           -             -           -            -            -          0.04%          -         0.29%           -
+Oregon                              -           -             -           -            -            -          1.06%          -         0.57%           -
+Pennsylvania                     0.11%       0.11%         0.31%       0.31%       0.29%         0.29%         1.84%       1.49%       3.39%         1.63%
+Puerto Rico                      6.17%          -         5.77%           -         5.90%           -         4.46%           -         4.76%           -
+Rhode Island                        -           -             -           -            -            -         0.27%           -         0.63%           -
+South Carolina                      -           -             -           -            -            -          0.59%          -         0.63%           -
+South Dakota                        -           -             -           -            -            -         0.09%           -         0.11%           -
+Tennessee                           -           -             -           -            -            -             -           -         0.04%           -
+Texas                           0.58%           -         0.69%           -         0.59%           -         14.79%       1.78%       14.77%        1.53%
+Utah                                -           -             -           -            -            -         2.42%           -         0.97%        0.16%
+Virgin Islands                      -           -             -           -            -            -             -           -            -            -
+Vermont                             -           -             -           -            -            -             -           -            -            -
+Virginia                         0.56%          -         0.55%           -         0.58%           -          3.64%          -         1.58%           -
+Washington                          -           -             -           -            -            -         0.38%           -         0.60%           -
+West Virginia                       -           -             -           -            -            -          1.05%       0.19%        1.17%        0.27%
+Wisconsin                       0.08%           -             -           -         0.46%           -         2.04%        0.25%        3.36%        0.27%
+Wyoming                             -           -             -           -            -            -             -           -            -            -
+
+
+ 14
+      PIMCO California Municipal Income Fund II and PIMCO California Municipal Income Fund III merged into PIMCO California Municipal Income Fund on August 1, 2025
+ 15
+      PIMCO Municipal Income Fund and PIMCO Municipal Income Fund III merged into PIMCO Municipal Income Fund II on August 1, 2025
+2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS                                                                                                      13
+
+
+
+PIMCO Closed–End Municipal Bond Funds 2025 Tax Reporting Information – State and Territory Detail (continued)
+
+                                                                                     PIMCO New York           PIMCO New York
+                                 PIMCO Municipal           PIMCO New York            Municipal Income         Municipal Income
+                                 Income Fund III15      Municipal Income Fund16          Fund II                 Fund III16
+                                  % of     % Subject       % of      % Subject       % of      % Subject       % of     % Subject
+                                Income      to AMT       Income       to AMT       Income       to AMT       Income      to AMT
+Alabama                         1.54%        0.35%           -            -            -            -            -           -
+Alaska                          0.31%           -            -            -            -            -            -           -
+Arizona                         5.58%           -            -            -            -            -            -           -
+Arkansas                        0.75%        0.57%           -            -            -            -            -           -
+California                       3.16%       0.56%        0.75%           -         0.14%           -            -           -
+Colorado                        3.30%           -            -            -            -            -            -           -
+Connecticut                     0.32%           -            -            -            -            -            -           -
+District of Columbia            0.89%        0.59%           -            -            -            -            -           -
+Delaware                        2.81%           -         0.95%           -         0.92%           -         0.90%          -
+Florida                         5.29%        1.66%           -            -            -            -            -           -
+Georgia                         2.76%           -            -            -            -            -            -           -
+Guam                                -           -            -            -            -            -            -           -
+Hawaii                              -           -            -            -            -            -            -           -
+Idaho                               -           -            -            -            -            -            -           -
+Illinois                        7.32%        0.79%           -            -            -            -            -           -
+Indiana                         0.92%           -            -            -            -            -            -           -
+Iowa                            2.07%           -            -            -            -            -            -           -
+Kansas                              -           -            -            -            -            -            -           -
+Kentucky                        0.46%        0.15%           -            -            -            -            -           -
+Louisiana                       2.00%           -            -            -            -            -            -           -
+Maine                           0.45%           -            -            -            -            -            -           -
+Maryland                         0.13%          -            -            -            -            -            -           -
+Massachusetts                   0.58%           -            -            -            -            -            -           -
+Michigan                         3.18%       0.56%           -            -            -            -            -           -
+Minnesota                        0.12%          -            -            -            -            -            -           -
+Mississippi                     0.05%           -            -            -            -            -            -           -
+Missouri                        1.72%           -            -            -            -            -            -           -
+Montana                             -           -            -            -            -            -            -           -
+Nebraska                        0.27%           -            -            -            -            -            -           -
+Nevada                          0.81%           -            -            -            -            -            -           -
+New Hampshire                   0.98%           -        0.60%            -        0.64%            -         0.74%          -
+New Jersey                      3.21%           -            -            -            -            -            -           -
+New Mexico                          -           -            -            -            -            -            -           -
+New York                        9.75%        1.16%       93.42%        6.73%       93.64%        7.45%       92.62%       7.03%
+North Carolina                  0.87%           -            -            -            -            -            -           -
+Northern Mariana Islands            -           -            -            -            -            -            -           -
+North Dakota                        -           -            -            -            -            -            -           -
+Ohio                            4.54%        0.85%           -            -            -            -            -           -
+Oklahoma                        0.45%           -            -            -            -            -            -           -
+Oregon                          0.73%           -            -            -            -            -            -           -
+Pennsylvania                     3.41%       1.50%       0.32%         0.32%        0.14%        0.14%       0.28%        0.28%
+Puerto Rico                      4.76%          -        2.63%            -         3.31%           -        4.20%           -
+Rhode Island                    0.77%           -            -            -            -            -            -           -
+South Carolina                   0.61%          -            -            -            -            -            -           -
+South Dakota                    0.09%           -            -            -            -            -            -           -
+Tennessee                           -           -            -            -            -            -            -           -
+Texas                           16.76%       1.20%           -            -            -            -            -           -
+Utah                            0.53%           -            -            -            -            -            -           -
+Virgin Islands                      -           -            -            -            -            -            -           -
+Vermont                             -           -            -            -            -            -            -           -
+Virginia                        1.23%           -        0.88%            -        0.77%            -        0.84%           -
+Washington                       1.41%          -            -            -            -            -            -           -
+West Virginia                   0.49%        0.20%           -            -            -            -            -           -
+Wisconsin                       2.62%        0.28%       0.45%            -        0.44%            -         0.42%          -
+Wyoming                             -           -            -            -            -            -            -           -
+
+ 15
+      15 PIMCO Municipal Income Fund and PIMCO Municipal Income Fund III merged into PIMCO Municipal Income Fund II on August 1, 2025
+ 16
+      PIMCO New York Municipal Income Fund and PIMCO New York Municipal Income Fund III merged into PIMCO New York Municipal Income Fund II on August 1, 2025
+14                                                                         2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS
+
+
+
+PIMCO Interval Municipal Bond Funds 2025 Tax Reporting Information – State and Territory Detail
+
+                            PIMCO California
+                            Flexible Municipal        PIMCO Flexible
+                               Income Fund         Municipal Income Fund
+                             % of      % Subject     % of      % Subject
+                           Income       to AMT     Income       to AMT
+Alabama                        -           -        3.05%        0.67%
+Alaska                         -           -        0.33%           -
+Arizona                        -           -         1.62%       0.39%
+Arkansas                    0.60%       0.35%       0.24%        0.24%
+California                 83.50%       2.94%       11.07%       1.99%
+Colorado                    1.09%          -         4.18%          -
+Connecticut                    -           -         0.19%          -
+District of Columbia           -           -        0.69%        0.17%
+Delaware                       -           -         1.42%          -
+Florida                     0.10%          -        4.32%        1.32%
+Georgia                     0.10%          -        3.82%        0.13%
+Guam                           -           -        0.07%           -
+Hawaii                         -           -            -           -
+Idaho                       0.18%          -        0.26%           -
+Illinois                    0.02%          -        5.40%        0.75%
+Indiana                        -           -         1.95%       0.45%
+Iowa                       0.39%           -        0.77%           -
+Kansas                         -           -         0.21%          -
+Kentucky                       -           -         0.76%          -
+Louisiana                      -           -        0.86%        0.44%
+Maine                          -           -            -           -
+Maryland                       -           -        0.36%           -
+Massachusetts                  -           -        0.70%           -
+Michigan                    1.19%          -        2.67%           -
+Minnesota                      -           -         0.51%       0.17%
+Mississippi                    -           -            -           -
+Missouri                       -           -         0.18%          -
+Montana                        -           -            -           -
+Nebraska                       -           -            -           -
+Nevada                      0.16%          -        0.37%           -
+New Hampshire               0.46%          -        2.35%        0.23%
+New Jersey                     -           -        1.53%        0.49%
+New Mexico                     -           -        0.40%           -
+New York                    1.36%       0.62%       10.16%       2.81%
+North Carolina                 -           -        0.68%           -
+Northern Mariana Islands       -           -            -           -
+North Dakota                   -           -            -           -
+Ohio                        1.37%       0.17%       5.43%        1.31%
+Oklahoma                       -           -            -           -
+Oregon                         -           -        0.07%           -
+Pennsylvania                0.34%          -        5.83%        1.48%
+Puerto Rico                 6.59%          -         7.16%          -
+Rhode Island                   -           -        0.86%           -
+South Carolina                 -           -        0.49%        0.10%
+South Dakota                   -           -            -           -
+Tennessee                      -           -        1.88%           -
+Texas                       1.49%       0.70%       8.20%        2.68%
+Utah                           -           -        0.87%           -
+Virgin Islands                 -           -            -           -
+Vermont                        -           -            -           -
+Virginia                    0.19%          -         1.18%       0.26%
+Washington                     -           -        0.59%           -
+West Virginia               0.56%          -         2.19%       0.42%
+Wisconsin                   0.31%          -         4.13%       0.59%
+Wyoming                        -           -            -           -
+2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS                                                                                           15
+
+
+
+PIMCO Exchange-Traded Municpal Bond Funds 2025 Tax Reporting Information - State and Territory Detail
+
+                                                                        PIMCO Municipal Income
+                                  PIMCO Intermediate Municipal Bond   Opportunities Active Exchange-     PIMCO Short Term Municipal Bond
+                                     Active Exchange-Traded Fund              Traded Fund                  Active Exchange-Traded Fund
+                                   % of Income     % Subject to AMT   % of Income     % Subject to AMT    % of Income    % Subject to AMT
+Alabama                                4.75%               -             3.86%             0.40%            5.57%                -
+Alaska                                 0.31%               -             0.11%                -                 -                -
+Arizona                               0.80%                -             1.68%             0.32%             1.52%               -
+Arkansas                                  -                -             0.52%             0.34%                -                -
+California                             5.94%               -             6.06%             1.45%             5.78%               -
+Colorado                              2.49%                -             3.79%             0.37%             3.37%               -
+Connecticut                            1.16%               -             0.43%                -              1.77%               -
+District of Columbia                   1.65%               -             1.07%             0.18%             1.11%               -
+Delaware                              0.03%                -             0.03%                -              0.11%               -
+Florida                                3.12%               -             5.55%             0.61%             3.37%               -
+Georgia                                3.19%               -             2.67%             0.36%             5.41%               -
+Guam                                      -                -                -                 -                 -                -
+Hawaii                                0.33%                -                -                 -              0.25%               -
+Idaho                                 0.39%                -             1.03%                -              0.31%               -
+Illinois                              5.27%                -             6.19%             1.25%            5.50%                -
+Indiana                                1.15%               -             2.01%             0.42%             1.48%               -
+Iowa                                  0.40%                -             0.16%                -                 -                -
+Kansas                                 0.11%               -                -                 -              1.81%               -
+Kentucky                               0.86%               -             1.48%             0.26%            2.00%                -
+Louisiana                              1.31%               -             1.15%             0.69%             0.85%               -
+Maine                                     -                -                -                 -                 -                -
+Maryland                               1.03%               -             0.51%                -              0.77%               -
+Massachusetts                          1.09%               -            2.22%                 -              1.61%               -
+Michigan                              2.42%                -             2.98%             0.27%             2.67%               -
+Minnesota                              1.27%               -             1.53%                -              0.91%               -
+Mississippi                            0.18%               -             0.07%                -              0.19%               -
+Missouri                              0.44%                -             1.00%             0.59%             1.89%               -
+Montana                                   -                -                -                 -              0.23%               -
+Nebraska                               0.24%               -             0.09%                -              0.35%               -
+Nevada                                2.00%                -             1.00%             0.17%             0.66%               -
+New Hampshire                          1.80%               -             1.63%             0.39%            0.44%                -
+New Jersey                             3.56%               -             1.27%                -              2.42%               -
+New Mexico                             1.15%               -             0.27%                -              0.52%               -
+New York                              12.76%               -            12.68%             2.21%            16.26%               -
+North Carolina                         1.49%               -             0.74%                -             2.53%                -
+Northern Mariana Islands                  -                -                -                 -                 -                -
+North Dakota                           0.17%               -             0.21%                -              0.11%               -
+Ohio                                  2.58%                -             4.64%             0.79%            2.57%                -
+Oklahoma                              0.44%                -             0.24%                -              0.46%               -
+Oregon                                 0.72%               -             0.30%                -              0.35%               -
+Pennsylvania                           3.95%               -             4.69%             0.69%             2.10%               -
+Puerto Rico                           2.64%                -             2.77%                -              0.93%               -
+Rhode Island                           1.39%               -             0.38%                -                 -                -
+South Carolina                         0.90%               -             1.51%                -              1.16%               -
+South Dakota                           0.26%               -             0.15%                -                 -                -
+Tennessee                              1.97%               -             0.71%                -              1.36%               -
+Texas                                 16.07%               -            15.73%             1.16%            14.02%               -
+Utah                                  0.44%                -             0.71%             0.10%             0.32%               -
+Virgin Islands                            -                -                -                 -                 -                -
+Vermont                                   -                -                -                 -                 -                -
+Virginia                               1.66%               -             0.87%                -              0.65%               -
+Washington                             2.51%               -             1.28%                -             2.23%                -
+West Virginia                          0.19%               -             0.55%             0.37%             1.09%               -
+Wisconsin                              1.42%               -             1.48%             0.51%             0.99%               -
+Wyoming                                   -                -                -                 -                 -                -
+16                                                                   2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS
+
+
+
+PIMCO Fixed Income Shares 2025 Tax Reporting Information - State and Territory Detail
+
+
+                                     Fixed Income SHares:
+                                           Series TE
+                              % of Total
+                                                  % Subject to AMT
+                           Municipal Income
+Alabama                         5.14%                  1.11%
+Alaska                         0.09%                      -
+Arizona                        0.32%                   0.09%
+Arkansas                        0.54%                  0.54%
+California                     10.24%                  1.32%
+Colorado                        7.31%                  0.63%
+Connecticut                        -                      -
+District of Columbia            0.62%                  0.33%
+Delaware                       0.60%                      -
+Florida                        13.15%                  0.91%
+Georgia                         1.38%                     -
+Guam                               -                      -
+Hawaii                             -                      -
+Idaho                          0.29%                      -
+Illinois                        5.66%                  0.74%
+Indiana                         1.09%                     -
+Iowa                            1.26%                     -
+Kansas                          0.61%                     -
+Kentucky                       0.03%                      -
+Louisiana                      0.65%                      -
+Maine                           0.26%                  0.26%
+Maryland                       0.44%                   0.34%
+Massachusetts                   1.99%                     -
+Michigan                        1.13%                     -
+Minnesota                       1.22%                     -
+Mississippi                        -                      -
+Missouri                        0.49%                     -
+Montana                            -                      -
+Nebraska                           -                      -
+Nevada                         0.27%                      -
+New Hampshire                   1.35%                     -
+New Jersey                      1.56%                     -
+New Mexico                     0.60%                      -
+New York                       6.48%                   1.94%
+North Carolina                     -                      -
+Northern Mariana Islands           -                      -
+North Dakota                       -                      -
+Ohio                           5.77%                   0.49%
+Oklahoma                           -                      -
+Oregon                          0.26%                     -
+Pennsylvania                    3.49%                  0.62%
+Puerto Rico                    5.32%                      -
+Rhode Island                    1.23%                     -
+South Carolina                  0.98%                     -
+South Dakota                       -                      -
+Tennessee                       0.31%                     -
+Texas                          10.63%                  1.98%
+Utah                           2.47%                   0.59%
+Virgin Islands                     -                      -
+Vermont                         0.10%                  0.10%
+Virginia                        0.73%                     -
+Washington                      0.94%                     -
+West Virginia                  0.50%                   0.33%
+Wisconsin                      2.50%                   0.41%
+Wyoming                            -                      -
+2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS                                                                                                 17
+
+
+
+2025 PIMCO Qualified Dividend Rates
+Certain PIMCO funds may have qualified dividend, qualified short-term and/or qualified foreign rates.
+The qualified amount, if applicable, will be in box 1b of your Form 1099-DIV. The rates outlined below
+were used to calculate the qualified amount. See the Form 1040/1040A instructions or consult a tax
+professional for specific advice on how to determine this amount.
+
+
+PIMCO Funds                                                              Qualified Dividend Rate Qualified Short Term Rate Qualified Foreign Rate
+PIMCO All Asset All Authority Fund                                                    -                            -                         -
+
+PIMCO All Asset Fund                                                                  -                            -                         -
+
+PIMCO California Intermediate Municipal Bond Fund                                     -                            -                         -
+
+PIMCO California Municipal Bond Fund                                                  -                            -                         -
+
+PIMCO California Municipal Intermediate Value Fund   17
+                                                                                      -                            -                         -
+
+PIMCO California Municipal Opportunistic Value Fund                                   -                            -                         -
+
+PIMCO California Short Duration Municipal Income Fund                                 -                            -                         -
+
+PIMCO CommoditiesPLUS® Strategy Fund                                                  -                            -                         -
+
+PIMCO CommodityRealReturn Strategy Fund®                                              -                            -                         -
+
+PIMCO Climate Bond Fund                                                               -                            -                         -
+
+PIMCO Credit Opportunities Bond Fund                                               1.52%                           -                         -
+
+PIMCO Diversified Income Fund                                                      1.47%                           -                         -
+
+PIMCO Dynamic Bond Fund                                                            1.16%                           -                         -
+
+PIMCO Emerging Markets Local Currency and Bond Fund                                   -                            -                         -
+
+PIMCO Emerging Markets Bond Fund                                                      -                            -                         -
+
+PIMCO Emerging Markets Corporate Bond Fund                                            -                            -                         -
+
+PIMCO Emerging Markets Currency and Short-Term Investments Fund                       -                            -                         -
+
+PIMCO Emerging Markets Full Spectrum Bond Fund                                        -                            -                         -
+
+PIMCO ESG Income Fund                                                              1.20%                           -                         -
+
+PIMCO Extended Duration Fund                                                          -                            -                         -
+
+PIMCO Global Advantage® Strategy Bond Fund                                         2.73%                           -                         -
+
+PIMCO Global Bond Opportunities Fund (U.S. Dollar-Hedged)                             -                            -                         -
+
+PIMCO Global Core Asset Allocation Fund                                               -                            -                         -
+
+PIMCO GNMA and Government Securities Fund                                             -                            -                         -
+
+PIMCO Government Money Market Fund                                                    -                            -                         -
+
+PIMCO High Yield Fund                                                                 -                            -                         -
+
+PIMCO High Yield Municipal Bond Fund                                                  -                            -                         -
+
+PIMCO High Yield Spectrum Fund                                                        -                            -                         -
+
+PIMCO Income Fund                                                                     -                            -                         -
+PIMCO Inflation Response Multi-Asset Fund                                             -                            -                         -
+
+
+
+
+17
+     On November 21, 2025 PIMCO California Municipal Intermediate Value Fund merged into PIMCO California Intermediate Municipal Bond Fund
+2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS                                                                                                 18
+
+
+
+
+PIMCO Funds                                                           Qualified Dividend Rate      Qualified Short Term Rate Qualified Foreign Rate
+PIMCO International Bond Fund (U.S. Dollar-Hedged)                                   -                           -                      -
+PIMCO International Bond Fund (Unhedged)                                             -                           -                      -
+PIMCO Investment Grade Credit Bond Fund                                           6.85%                          -                      -
+PIMCO Long Duration Total Return Fund                                                -                           -                      -
+PIMCO Long-Term Credit Bond Fund                                                  5.27%                          -                      -
+PIMCO Long-Term Real Return Fund                                                     -                           -                      -
+PIMCO Long-Term U.S. Government Fund                                                 -                           -                      -
+PIMCO Low Duration Fund                                                              -                           -                      -
+PIMCO Low Duration Fund II                                                           -                           -                      -
+PIMCO Low Duration Credit Fund                                                       -                           -                      -
+PIMCO Low Duration ESG Fund                                                          -                           -                      -
+PIMCO Low Duration Income Fund                                                       -                           -                      -
+PIMCO Low Duration Opportunities Fund                                             1.26%                          -                      -
+PIMCO Moderate Duration Fund                                                         -                           -                      -
+PIMCO Mortgage Opportunities and Bond Fund                                           -                           -                      -
+PIMCO Municipal Bond Fund                                                            -                           -                      -
+PIMCO National Intermediate Municipal Bond Fund                                      -                           -                      -
+PIMCO National Municipal Intermediate Value Fund18                                   -                           -                      -
+PIMCO National Municipal Opportunistic Value Fund                                    -                           -                      -
+PIMCO New York Municipal Bond Fund                                                   -                           -                      -
+PIMCO Preferred and Capital Securities Fund                                      87.24%                          -                      -
+PIMCO RAE Fundamental Advantage PLUS Fund                                            -                           -                      -
+PIMCO RAE PLUS EMG Fund                                                              -                           -                      -
+PIMCO RAE PLUS Fund                                                               1.06%                          -                      -
+PIMCO RAE PLUS International Fund                                                    -                           -                      -
+PIMCO RAE PLUS Small Fund                                                            -                           -                      -
+PIMCO RAE Worldwide Long/Short PLUS Fund                                             -                           -                      -
+PIMCO Real Return Fund                                                               -                           -                      -
+PIMCO RealEstateRealReturn Strategy Fund                                          1.00%                          -                      -
+PIMCO Short Asset Investment Fund                                                    -                           -                      -
+PIMCO Short Duration Municipal Income Fund                                           -                           -                      -
+PIMCO Short-Term Fund                                                                -                           -                      -
+PIMCO StocksPLUS® Absolute Return Fund                                               -                           -                      -
+PIMCO StocksPLUS® Fund                                                               -                           -                      -
+PIMCO StocksPLUS® International Fund (U.S. Dollar-Hedged)                            -                           -                      -
+PIMCO StocksPLUS® International Fund (Unhedged)                                      -                           -                      -
+PIMCO StocksPLUS® Long Duration Fund                                                 -                           -                      -
+PIMCO StocksPLUS® Short Fund                                                         -                           -                      -
+PIMCO StocksPLUS® Small Fund                                                         -                           -                      -
+PIMCO Total Return Fund                                                              -                           -                      -
+PIMCO Total Return Fund II                                                           -                           -                      -
+PIMCO Total Return Fund IV                                                        1.30%                          -                      -
+PIMCO Total Return Fund V                                                            -                           -                      -
+PIMCO Total Return ESG Fund                                                          -                           -                      -
+PIMCO TRENDS Managed Futures Strategy Fund                                           -                           -                      -
+
+
+
+18
+     On November 21, 2025 PIMCO National Municipal Intermediate Value Fund merged into PIMCO National Municipal Bond Fund
+19                                                                                  2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS
+
+
+
+
+PIMCO Equity Series                                                     Qualified Dividend Rate Qualified Short Term Rate Qualified Foreign Rate
+PIMCO Dividend and Income Fund                                                   35.55%                            -                           -
+PIMCO RAE Emerging Markets Fund                                                  45.15%                            -                        45.15%
+PIMCO RAE Global ex-US Fund                                                      58.52%                        58.52%                       58.52%
+PIMCO RAE International Fund                                                     68.92%                        68.92%                       68.92%
+PIMCO RAE US Fund                                                                75.50%                        75.50%                          -
+PIMCO RAE US Small Fund                                                          61.94%                        61.94%                          -
+PIMCO RealPATH® Blend 2025 Fund19                                                    -                             -                           -
+PIMCO RealPATH® Blend 2030 Fund                                                      -                             -                           -
+PIMCO RealPATH® Blend 2035 Fund                                                      -                             -                           -
+PIMCO RealPATH® Blend 2040 Fund                                                      -                             -                           -
+PIMCO RealPATH® Blend 2045 Fund                                                      -                             -                           -
+PIMCO RealPATH® Blend 2050 Fund                                                      -                             -                           -
+PIMCO RealPATH® Blend 2055 Fund                                                      -                             -                           -
+PIMCO REALPATH® Blend 2060 Fund                                                      -                             -                           -
+PIMCO RealPATH® Blend 2065 Fund                                                      -                             -                           -
+PIMCO RealPATH® Blend 2070 Fund                                                      -                             -                           -
+PIMCO RealPATH® Blend Income Fund                                                    -                             -                           -
+
+
+
+
+PIMCO Closed-End Funds                                                  Qualified Dividend Rate Qualified Short Term Rate Qualified Foreign Rate
+PCM Fund, Inc.                                                                       -                             -                           -
+PIMCO Access Income Fund                                                          5.79%                            -                           -
+PIMCO California Municipal Income Fund                                               -                             -                           -
+PIMCO California Municipal Income Fund II20                                          -                             -                           -
+PIMCO California Municipal Income Fund III20                                         -                             -                           -
+PIMCO Corporate & Income Opportunity Fund                                         1.30%                            -                           -
+PIMCO Corporate & Income Strategy Fund                                            1.38%                            -                           -
+PIMCO Dynamic Income Fund                                                         3.41%                            -                           -
+PIMCO Dynamic Income Opportunities Fund                                           4.44%                            -                           -
+PIMCO Dynamic Income Strategy Fund                                                3.30%                         3.30%                          -
+PIMCO Global StocksPLUS® & Income Fund                                            2.43%                            -                           -
+PIMCO High Income Fund                                                            2.40%                            -                           -
+PIMCO Income Strategy Fund                                                        2.23%                            -                           -
+PIMCO Income Strategy Fund II                                                     2.08%                            -                           -
+PIMCO Municipal Income Fund21                                                        -                             -                           -
+PIMCO Municipal Income Fund II                                                       -                             -                           -
+PIMCO Municipal Income Fund III21                                                    -                             -                           -
+PIMCO New York Municipal Income Fund22                                               -                             -                           -
+PIMCO New York Municipal Income Fund II                                              -                             -                           -
+PIMCO New York Municipal Income Fund III22                                           -                             -                           -
+PIMCO Strategic Income Fund, Inc.                                                 1.72%                            -                           -
+
+
+
+
+19
+   PIMCO RealPATH® Blend 2025 merged into PIMCO RealPATH® Blend Income Fund on January 6, 2025
+20
+   PIMCO California Municipal Income Fund II and PIMCO California Municipal Income Fund III merged into PIMCO California Municipal Income Fund on August 1, 2025
+21
+   PIMCO Municipal Income Fund and PIMCO Municipal Income Fund III merged into PIMCO Municipal Income Fund II on August 1, 2025
+22
+   PIMCO New York Municipal Income Fund and PIMCO New York Municipal Income Fund III merged into PIMCO New York Municipal Income Fund II on August 1, 2025
+2025 PIMCO TA X INFORMATION | PIMCO SHAREHOLDERS                                                                                            20
+
+
+
+
+PIMCO Interval Funds                                                  Qualified Dividend Rate Qualified Short Term Rate Qualified Foreign Rate
+PIMCO California Flexible Municipal Income Fund                                  -                        -                        -
+PIMCO Flexible Credit Income Fund                                             4.47%                       -                        -
+PIMCO Flexible Emerging Markets Income Fund                                      -                        -                        -
+PIMCO Flexible Municipal Income Fund                                             -                        -                        -
+
+
+PIMCO Exchange-Traded Funds                                           Qualified Dividend Rate Qualified Short Term Rate Qualified Foreign Rate
+PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund              -                        -                        -
+PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund                              -                        -                        -
+PIMCO 15+ Year U.S. TIPS Index Exchange-Traded Fund                              -                        -                        -
+PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund              -                        -                        -
+PIMCO Active Bond Exchange-Traded Fund                                           -                        -                        -
+PIMCO Broad U.S. TIPS Index Exchange-Traded Fund                                 -                        -                        -
+PIMCO Commodity Strategy Active Exchange-Traded Fund                             -                        -                        -
+PIMCO Enhanced Low Duration Active Exchange-Traded Fund                          -                        -                        -
+PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund                    -                        -                        -
+PIMCO Enhanced Short Maturity Active Exchange-Traded Fund                        -                        -                        -
+PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund                    -                        -                        -
+PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund                 -                        -                        -
+PIMCO Multisector Bond Active Exchange-Traded Fund                               -                        -                        -
+PIMCO Municipal Income Opportunities Active Exchange-Traded Fund                 -                        -                        -
+PIMCO Preferred and Capital Securities Active Exchange-Traded Fund            64.89%                      -                        -
+PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF                   51.23%                      -                     51.07%
+PIMCO RAFI Dynamic Multi-Factor International Equity ETF                      80.41%                      -                     77.91%
+PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF                              100.00%                      -                        -
+PIMCO RAFI ESG U.S. ETF                                                      100.00%                      -                        -
+PIMCO Senior Loan Active Exchange-Traded Fund                                    -                        -                        -
+PIMCO Short Term Municipal Bond Active Exchange-Traded Fund                      -                        -                        -
+PIMCO Ultra Short Government Active Exchange-Traded Fund                         -                        -                        -
+PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund                     -                        -                        -
+
+
+
+PIMCO Fixed Income SHares Funds                                       Qualified Dividend Rate Qualified Short Term Rate Qualified Foreign Rate
+PIMCO Fixed Income SHares - Series C                                          2.91%                       -                        -
+PIMCO Fixed Income SHares - Series LD                                            -                        -                        -
+PIMCO Fixed Income SHares - Series M                                          1.01%                       -                        -
+PIMCO Fixed Income SHares - Series R                                             -                        -                        -
+PIMCO Fixed Income SHares - Series TE                                            -                        -                        -
+pimco.com
+
+
+
+
+This information is provided for informational and tax planning purposes only, and should not be construed as legal or tax advice.
+PIMCO Investments LLC (“PI”) does not provide legal or tax advice and is not recommending any action to you or any of your obligated persons. PI does not act as an
+advisor and does not owe a fiduciary duty pursuant to Section 15B of the Securities Exchange Act of 1934 with respect to the information and material contained in
+this communication. PI acts for its own interests only. You or your obligated persons should discuss any information and material contained in this communication
+with any and all internal or external advisors and experts that you or your obligated persons deem appropriate before acting on this information or material. Please
+consult your tax and/or legal counsel for specific tax or legal questions and concerns. The discussion herein is general in nature and is provided for informational
+purposes only. There is no guarantee as to its accuracy or completeness. Any tax statements contained herein are not intended or written to be used, and cannot be
+relied upon or used for the purpose of avoiding penalties imposed by the Internal Revenue Service or state and local tax authorities. Individuals should consult their
+own legal and tax counsel as to matters discussed herein and before entering into any estate planning, trust, investment, retirement, or insurance arrangement.
+
+The actual amounts and composition of distributions for tax reporting purposes will depend upon the Fund’s investment experience during its entire fiscal year and
+may be subject to changes based on tax regulations. Final determination of a distribution’s tax character will be reported on Form 1099 DIV sent to shareholders
+for the calendar year.
+
+The PIMCO Fixed Income SHares (FISH) are available only through managed accounts utilizing the managed account strategy and are available by prospectus
+only. No fees are charged to clients at the commingled vehicles level. The managed account strategies described in this material are offered by Pacific Investment
+Management Company, LLC and are available exclusively through financial professionals. Participation is restricted to accounts with a minimum asset level and may
+not be appropriate for all investors.
+
+Investors should consider the investment objectives, risks, charges and expenses of the funds carefully before investing. This and other information
+are contained in the fund’s prospectus and summary prospectus, if available, which may be obtained by contacting your investment professional or
+PIMCO representative or by visiting www.pimco.com.
+For risks associated with a particular Fund, please refer to the Fund’s prospectus.
+
+The interval funds are unlisted closed-end “interval funds.” Limited liquidity is provided to shareholders only through the funds quarterly offers to repurchase
+between 5% to 25% of its outstanding shares at net asset value. There is no secondary market for the funds shares and none is expected to develop. Investors
+should consider shares of the funds to be an illiquid investment. It is important to note that differences exist between the funds daily internal accounting records,
+the funds financial statements prepared in accordance with U.S. GAAP, and record keeping practices under income tax regulations. It is possible that the funds
+may not issue a Section 19 Notice in situations where the funds financial statements prepared later and in accordance with U.S. GAAP or the final tax character
+of those distributions might later report that the sources of those distributions included capital gains and/or a return of capital. Please see the funds most recent
+shareholder report for more details.
+
+PIMCO as a general matter provides services to qualified institutions, financial intermediaries and institutional investors. Individual investors should contact their
+own financial professional to determine the most appropriate investment options for their financial situation. This material has been distributed for informational
+purposes only. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. No part of this material may be reproduced
+in any form, or referred to in any other publication, without express written permission. PIMCO is a trademark of Allianz Asset Management of America LLC. in the
+United States and throughout the world. ©2026, PIMCO
+PIMCO Investments LLC, distributor, 1633 Broadway, New York, NY 10019, is a company of PIMCO.
+
+
+
+
+                                                                                                                                                                         CMR2025-1203-5028807
+
+
+
+
+PTAX_24838
+

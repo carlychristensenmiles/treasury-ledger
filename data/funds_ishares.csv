@@ -1,0 +1,453 @@
+family,ticker,fund_number,cusip,name,pct_govt_obligations,meets_ca_ct_ny,tax_year
+iShares,AAXJ,,,iShares MSCI All Country Asia ex Japan ETF,0.6800,0,2025
+iShares,ACWI,,,iShares MSCI ACWI ETF,0.1500,0,2025
+iShares,ACWV,,,iShares MSCI Global Min Vol Factor ETF,0.1700,0,2025
+iShares,ACWX,,,iShares MSCI ACWI ex U.S. ETF,0.0700,0,2025
+iShares,AGG,,,iShares Core U.S. Aggregate Bond ETF,40.5800,0,2025
+iShares,AGIH,,,iShares Inflation Hedged U.S. Aggregate Bond ETF,39.7600,0,2025
+iShares,AGRH,,,iShares Interest Rate Hedged U.S. Aggregate Bond ETF,19.1000,0,2025
+iShares,AGZ,,,iShares Agency Bond ETF,64.8800,1,2025
+iShares,AIA,,,iShares Asia 50 ETF,0.0700,0,2025
+iShares,AOA,,,iShares Core 80/20 Aggressive Allocation ETF,8.9000,0,2025
+iShares,AOK,,,iShares Core 30/70 Conservative Allocation ETF,23.0400,0,2025
+iShares,AOM,,,iShares Core 40/60 Moderate Allocation ETF,20.8700,0,2025
+iShares,AOR,,,iShares Core 60/40 Balanced Allocation ETF,15.3700,0,2025
+iShares,AQLT,,,iShares MSCI Global Quality Factor ETF,0.2100,0,2025
+iShares,BAI,,,iShares A.I. Innovation and Tech Active ETF,0.2000,0,2025
+iShares,BALI,,,iShares U.S. Large Cap Premium Income Active ETF,0.8900,0,2025
+iShares,BALQ,,,iShares Nasdaq Premium Income Active ETF,0.7500,0,2025
+iShares,BCLO,,,iShares BBB-B CLO Active ETF,0.6100,0,2025
+iShares,BDVL,,,iShares Disciplined Volatility Equity Active ETF,0.8100,0,2025
+iShares,BDYN,,,iShares Dynamic Equity Active ETF,28.8300,0,2025
+iShares,BEMB,,,iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,0.3000,0,2025
+iShares,BGRN,,,iShares USD Green Bond ETF,0.6200,0,2025
+iShares,BGRO,,,iShares Large Cap Growth Active ETF,13.4100,0,2025
+iShares,BIDD,,,iShares International Dividend Active ETF,0.8000,0,2025
+iShares,BILT,,,iShares Infrastructure Active ETF,0.3000,0,2025
+iShares,BINC,,,iShares Flexible Income Active ETF,0.4000,0,2025
+iShares,BKF,,,iShares MSCI BIC ETF,1.5100,0,2025
+iShares,BLCR,,,iShares Large Cap Core Active ETF,4.2400,0,2025
+iShares,BLCV,,,iShares Large Cap Value Active ETF,1.4000,0,2025
+iShares,BPAY,,,iShares FinTech Active ETF,1.9800,0,2025
+iShares,BREM,,,iShares Emerging Markets Bond Active ETF,0.6600,0,2025
+iShares,BRHY,,,iShares High Yield Active ETF,0.7400,0,2025
+iShares,BRLN,,,iShares Floating Rate Loan Active ETF,3.1700,0,2025
+iShares,BRTR,,,iShares Total Return Active ETF,13.4600,0,2025
+iShares,BTOT,,,iShares Total USD Fixed Income Market ETF,35.6600,0,2025
+iShares,BYLD,,,iShares Yield Optimized Bond ETF,4.6200,0,2025
+iShares,CEMB,,,iShares J.P. Morgan EM Corporate Bond ETF,0.2000,0,2025
+iShares,CLOA,,,iShares AAA CLO Active ETF,0.4100,0,2025
+iShares,CMBS,,,iShares CMBS ETF,0.4600,0,2025
+iShares,CMDY,,,iShares Bloomberg Roll Select Commodity Strategy ETF,32.4800,0,2025
+iShares,CNYA,,,iShares MSCI China A ETF,0.6800,0,2025
+iShares,COMT,,,iShares GSCI Commodity Dynamic Roll Strategy ETF,13.2000,0,2025
+iShares,CORO,,,iShares International Country Rotation Active ETF,0.1300,0,2025
+iShares,CRBN,,,iShares Low Carbon Optimized MSCI ACWI ETF,0.1400,0,2025
+iShares,CSHP,,,iShares Enhanced Short-Term Bond Active ETF,83.6700,1,2025
+iShares,DGRO,,,iShares Core Dividend Growth ETF,0.1700,0,2025
+iShares,DIVB,,,iShares Core Dividend ETF,0.1500,0,2025
+iShares,DMAX,,,iShares Large Cap Max Buffer Dec ETF,1.8500,0,2025
+iShares,DMXF,,,iShares ESG Advanced MSCI EAFE ETF,0.0100,0,2025
+iShares,DSI,,,iShares ESG MSCI KLD 400 ETF,0.3200,0,2025
+iShares,DVY,,,iShares Select Dividend ETF,0.1200,0,2025
+iShares,DVYA,,,iShares Asia/Pacific Dividend ETF,0.0300,0,2025
+iShares,DVYE,,,iShares Emerging Markets Dividend ETF,0.0400,0,2025
+iShares,DYNF,,,iShares U.S. Equity Factor Rotation Active ETF,1.2500,0,2025
+iShares,EAGG,,,iShares ESG Aware U.S. Aggregate Bond ETF,39.3300,0,2025
+iShares,EAOA,,,iShares ESG Aware 80/20 Aggressive Allocation ETF,13.1000,0,2025
+iShares,EAOK,,,iShares ESG Aware 30/70 Conservative Allocation ETF,32.4100,0,2025
+iShares,EAOM,,,iShares ESG Aware 40/60 Moderate Allocation ETF,29.2200,0,2025
+iShares,EAOR,,,iShares ESG Aware 60/40 Balanced Allocation ETF,22.0300,0,2025
+iShares,ECH,,,iShares MSCI Chile ETF,0.1000,0,2025
+iShares,ECNS,,,iShares MSCI China Small-Cap ETF,0.0200,0,2025
+iShares,EDEN,,,iShares MSCI Denmark ETF,0.0200,0,2025
+iShares,EEM,,,iShares MSCI Emerging Markets ETF,0.3800,0,2025
+iShares,EEMA,,,iShares MSCI Emerging Markets Asia ETF,0.2700,0,2025
+iShares,EEMS,,,iShares MSCI Emerging Markets Small-Cap ETF,0.3700,0,2025
+iShares,EEMV,,,iShares MSCI Emerging Markets Min Vol Factor ETF,0.3300,0,2025
+iShares,EFA,,,iShares MSCI EAFE ETF,0.0300,0,2025
+iShares,EFAV,,,iShares MSCI EAFE Min Vol Factor ETF,0.0200,0,2025
+iShares,EFG,,,iShares MSCI EAFE Growth ETF,0.0200,0,2025
+iShares,EFNL,,,iShares MSCI Finland ETF,0.0600,0,2025
+iShares,EFRA,,,iShares Environmental Infrastructure and Industrials ETF,0.0400,0,2025
+iShares,EFV,,,iShares MSCI EAFE Value ETF,0.0200,0,2025
+iShares,EGUS,,,iShares ESG Aware MSCI USA Growth ETF,1.0100,0,2025
+iShares,EIDO,,,iShares MSCI Indonesia ETF,0.0400,0,2025
+iShares,EIRL,,,iShares MSCI Ireland ETF,0.2100,0,2025
+iShares,EIS,,,iShares MSCI Israel ETF,0.0500,0,2025
+iShares,ELQD,,,iShares ESG Advanced Investment Grade Corporate Bond ETF,0.1800,0,2025
+iShares,EMB,,,iShares J.P. Morgan USD Emerging Markets Bond ETF,0.4100,0,2025
+iShares,EMGF,,,iShares Emerging Markets Equity Factor ETF,0.2200,0,2025
+iShares,EMHY,,,iShares J.P. Morgan EM High Yield Bond ETF,0.2200,0,2025
+iShares,EMIF,,,iShares Emerging Markets Infrastructure ETF,0.0700,0,2025
+iShares,EMXC,,,iShares MSCI Emerging Markets ex China ETF,0.3900,0,2025
+iShares,EMXF,,,iShares ESG Advanced MSCI EM ETF,0.1900,0,2025
+iShares,ENHU,,,iShares Enhanced Large Cap Core Active ETF,2.1500,0,2025
+iShares,ENOR,,,iShares MSCI Norway ETF,0.0200,0,2025
+iShares,ENZL,,,iShares MSCI New Zealand ETF,0.0300,0,2025
+iShares,EPHE,,,iShares MSCI Philippines ETF,0.0700,0,2025
+iShares,EPOL,,,iShares MSCI Poland ETF,0.1300,0,2025
+iShares,EPP,,,iShares MSCI Pacific ex Japan ETF,0.0300,0,2025
+iShares,EPU,,,iShares MSCI Peru and Global Exposure ETF,0.1800,0,2025
+iShares,EQLT,,,iShares MSCI Emerging Markets Quality Factor ETF,0.0300,0,2025
+iShares,ERET,,,iShares Environmentally Aware Real Estate ETF,0.0500,0,2025
+iShares,ESGD,,,iShares ESG Aware MSCI EAFE ETF,0.0200,0,2025
+iShares,ESGE,,,iShares ESG Aware MSCI EM ETF,0.2200,0,2025
+iShares,ESGU,,,iShares ESG Aware MSCI USA ETF,0.3900,0,2025
+iShares,ESML,,,iShares ESG Aware MSCI USA Small-Cap ETF,0.4800,0,2025
+iShares,ESMV,,,iShares ESG Optimized MSCI USA Min Vol Factor ETF,0.2800,0,2025
+iShares,ETEC,,,iShares Breakthrough Environmental Solutions ETF,0.0700,0,2025
+iShares,EUFN,,,iShares MSCI Europe Financials ETF,0.0200,0,2025
+iShares,EUHY,,,iShares Euro High Yield Corporate Bond USD Hedged ETF,0.0100,0,2025
+iShares,EUIG,,,iShares Euro Investment Grade Corporate Bond USD Hedged ETF,0.0800,0,2025
+iShares,EUSA,,,iShares MSCI USA Equal Weighted ETF,0.1900,0,2025
+iShares,EUSB,,,iShares ESG Advanced Universal USD Bond ETF,34.2100,0,2025
+iShares,EVLU,,,iShares MSCI Emerging Markets Value Factor ETF,0.0100,0,2025
+iShares,EVUS,,,iShares ESG Aware MSCI USA Value ETF,0.1300,0,2025
+iShares,EWA,,,iShares MSCI Australia ETF,0.0600,0,2025
+iShares,EWC,,,iShares MSCI Canada ETF,0.0400,0,2025
+iShares,EWD,,,iShares MSCI Sweden ETF,0.0400,0,2025
+iShares,EWG,,,iShares MSCI Germany ETF,0.0400,0,2025
+iShares,EWH,,,iShares MSCI Hong Kong ETF,0.0600,0,2025
+iShares,EWI,,,iShares MSCI Italy ETF,0.0600,0,2025
+iShares,EWJ,,,iShares MSCI Japan ETF,0.0200,0,2025
+iShares,EWJV,,,iShares MSCI Japan Value ETF,0.0100,0,2025
+iShares,EWK,,,iShares MSCI Belgium ETF,0.0200,0,2025
+iShares,EWL,,,iShares MSCI Switzerland ETF,0.0300,0,2025
+iShares,EWM,,,iShares MSCI Malaysia ETF,0.0800,0,2025
+iShares,EWN,,,iShares MSCI Netherlands ETF,0.0500,0,2025
+iShares,EWO,,,iShares MSCI Austria ETF,0.0600,0,2025
+iShares,EWP,,,iShares MSCI Spain ETF,0.0300,0,2025
+iShares,EWQ,,,iShares MSCI France ETF,0.0700,0,2025
+iShares,EWS,,,iShares MSCI Singapore ETF,0.0400,0,2025
+iShares,EWT,,,iShares MSCI Taiwan ETF,0.0400,0,2025
+iShares,EWU,,,iShares MSCI United Kingdom ETF,0.0200,0,2025
+iShares,EWUS,,,iShares MSCI United Kingdom Small-Cap ETF,0.0500,0,2025
+iShares,EWW,,,iShares MSCI Mexico ETF,0.0600,0,2025
+iShares,EWY,,,iShares MSCI South Korea ETF,0.0200,0,2025
+iShares,EWZ,,,iShares MSCI Brazil ETF,0.0800,0,2025
+iShares,EWZS,,,iShares MSCI Brazil Small-Cap ETF,0.1400,0,2025
+iShares,EXI,,,iShares Global Industrials ETF,0.3000,0,2025
+iShares,EZA,,,iShares MSCI South Africa ETF,0.0200,0,2025
+iShares,EZU,,,iShares MSCI Eurozone ETF,0.0600,0,2025
+iShares,FALN,,,iShares Fallen Angels USD Bond ETF,0.3400,0,2025
+iShares,FLOT,,,iShares Floating Rate Bond ETF,0.1900,0,2025
+iShares,FOVL,,,iShares Focused Value Factor ETF,0.1000,0,2025
+iShares,FXI,,,iShares China Large-Cap ETF,0.0500,0,2025
+iShares,GARP,,,iShares MSCI USA Quality GARP ETF,0.7700,0,2025
+iShares,GBF,,,iShares Government/Credit Bond ETF,53.5200,1,2025
+iShares,GGOV,,,iShares Global Government Bond USD Hedged Active ETF,19.7700,0,2025
+iShares,GHYG,,,iShares US & Intl High Yield Corp Bond ETF,0.2300,0,2025
+iShares,GLOF,,,iShares Global Equity Factor ETF,0.1400,0,2025
+iShares,GMMF,,,iShares Government Money Market ETF,56.4300,1,2025
+iShares,GNMA,,,iShares GNMA Bond ETF,3.6700,0,2025
+iShares,GOVT,,,iShares U.S. Treasury Bond ETF,99.9000,1,2025
+iShares,GOVZ,,,iShares 25+ Year Treasury STRIPS Bond ETF,99.8900,1,2025
+iShares,GVI,,,iShares Intermediate Government/Credit Bond ETF,59.3900,1,2025
+iShares,HAWX,,,iShares Currency Hedged MSCI ACWI ex U.S. ETF,0.1300,0,2025
+iShares,HDV,,,iShares Core High Dividend ETF,0.1000,0,2025
+iShares,HEEM,,,iShares Currency Hedged MSCI Emerging Markets ETF,0.2200,0,2025
+iShares,HEFA,,,iShares Currency Hedged MSCI EAFE ETF,0.0600,0,2025
+iShares,HEWJ,,,iShares Currency Hedged MSCI Japan ETF,0.0500,0,2025
+iShares,HEZU,,,iShares Currency Hedged MSCI Eurozone ETF,0.0700,0,2025
+iShares,HIMU,,,iShares High Yield Muni Active ETF,0.1200,0,2025
+iShares,HSCZ,,,iShares Currency Hedged MSCI EAFE Small-Cap ETF,0.0600,0,2025
+iShares,HYBB,,,iShares BB Rated Corporate Bond ETF,0.2100,0,2025
+iShares,HYDB,,,iShares High Yield Systematic Bond ETF,0.1900,0,2025
+iShares,HYG,,,iShares iBoxx $ High Yield Corporate Bond ETF,0.1400,0,2025
+iShares,HYGH,,,iShares Interest Rate Hedged High Yield Bond ETF,0.6500,0,2025
+iShares,HYGI,,,iShares Inflation Hedged High Yield Bond ETF,1.9700,0,2025
+iShares,HYGW,,,iShares High Yield Corporate Bond BuyWrite Strategy ETF,0.4100,0,2025
+iShares,HYXF,,,iShares ESG Advanced High Yield Corporate Bond ETF,0.5500,0,2025
+iShares,IAGG,,,iShares Core International Aggregate Bond ETF,0.4100,0,2025
+iShares,IAI,,,iShares U.S. Broker-Dealers & Securities Exchanges ETF,0.3000,0,2025
+iShares,IAK,,,iShares U.S. Insurance ETF,0.1700,0,2025
+iShares,IAT,,,iShares U.S. Regional Banks ETF,0.0800,0,2025
+iShares,IBAT,,,iShares Energy Storage & Materials ETF,0.0300,0,2025
+iShares,IBB,,,iShares Biotechnology ETF,1.0900,0,2025
+iShares,IBCA,,,iShares® iBonds® Dec 2035 Term Corporate ETF,0.1100,0,2025
+iShares,IBDQ,,,iShares® iBonds® Dec 2025 Term Corporate ETF,11.4900,0,2025
+iShares,IBDR,,,iShares® iBonds® Dec 2026 Term Corporate ETF,0.2800,0,2025
+iShares,IBDS,,,iShares® iBonds® Dec 2027 Term Corporate ETF,0.1600,0,2025
+iShares,IBDT,,,iShares® iBonds® Dec 2028 Term Corporate ETF,0.1200,0,2025
+iShares,IBDU,,,iShares® iBonds® Dec 2029 Term Corporate ETF,0.1800,0,2025
+iShares,IBDV,,,iShares® iBonds® Dec 2030 Term Corporate ETF,0.1100,0,2025
+iShares,IBDW,,,iShares® iBonds® Dec 2031 Term Corporate ETF,0.1000,0,2025
+iShares,IBDX,,,iShares® iBonds® Dec 2032 Term Corporate ETF,0.1100,0,2025
+iShares,IBDY,,,iShares® iBonds® Dec 2033 Term Corporate ETF,0.1700,0,2025
+iShares,IBDZ,,,iShares® iBonds® Dec 2034 Term Corporate ETF,0.1900,0,2025
+iShares,IBGA,,,iShares® iBonds® Dec 2044 Term Treasury ETF,100.0000,1,2025
+iShares,IBGB,,,iShares® iBonds® Dec 2045 Term Treasury ETF,98.9000,1,2025
+iShares,IBGK,,,iShares® iBonds® Dec 2054 Term Treasury ETF,100.0000,1,2025
+iShares,IBGL,,,iShares® iBonds® Dec 2055 Term Treasury ETF,99.6400,1,2025
+iShares,IBHE,,,iShares® iBonds® 2025 Term High Yield and Income ETF,9.5400,0,2025
+iShares,IBHF,,,iShares® iBonds® 2026 Term High Yield and Income ETF,0.9300,0,2025
+iShares,IBHG,,,iShares® iBonds® 2027 Term High Yield and Income ETF,0.6900,0,2025
+iShares,IBHH,,,iShares® iBonds® 2028 Term High Yield and Income ETF,0.3800,0,2025
+iShares,IBHI,,,iShares® iBonds® 2029 Term High Yield and Income ETF,0.2100,0,2025
+iShares,IBHJ,,,iShares® iBonds® 2030 Term High Yield and Income ETF,0.1600,0,2025
+iShares,IBHK,,,iShares® iBonds® 2031 Term High Yield and Income ETF,0.1600,0,2025
+iShares,IBHL,,,iShares® iBonds® 2032 Term High Yield and Income ETF,0.1400,0,2025
+iShares,IBIB,,,iShares® iBonds® Oct 2025 Term TIPS ETF,100.0000,1,2025
+iShares,IBIC,,,iShares® iBonds® Oct 2026 Term TIPS ETF,99.9500,1,2025
+iShares,IBID,,,iShares® iBonds® Oct 2027 Term TIPS ETF,100.0000,1,2025
+iShares,IBIE,,,iShares® iBonds® Oct 2028 Term TIPS ETF,100.0000,1,2025
+iShares,IBIF,,,iShares® iBonds® Oct 2029 Term TIPS ETF,99.9600,1,2025
+iShares,IBIG,,,iShares® iBonds® Oct 2030 Term TIPS ETF,92.5100,1,2025
+iShares,IBIH,,,iShares® iBonds® Oct 2031 Term TIPS ETF,100.0000,1,2025
+iShares,IBII,,,iShares® iBonds® Oct 2032 Term TIPS ETF,100.0000,1,2025
+iShares,IBIJ,,,iShares® iBonds® Oct 2033 Term TIPS ETF,99.8700,1,2025
+iShares,IBIK,,,iShares® iBonds® Oct 2034 Term TIPS ETF,100.0000,1,2025
+iShares,IBIL,,,iShares® iBonds® Oct 2035 Term TIPS ETF,100.0000,1,2025
+iShares,IBLC,,,iShares Blockchain and Tech ETF,0.0500,0,2025
+iShares,IBRN,,,iShares Neuroscience and Healthcare ETF,0.0200,0,2025
+iShares,IBTF,,,iShares® iBonds® Dec 2025 Term Treasury ETF,95.9600,1,2025
+iShares,IBTG,,,iShares® iBonds® Dec 2026 Term Treasury ETF,99.1400,1,2025
+iShares,IBTH,,,iShares® iBonds® Dec 2027 Term Treasury ETF,99.8400,1,2025
+iShares,IBTI,,,iShares® iBonds® Dec 2028 Term Treasury ETF,99.8500,1,2025
+iShares,IBTJ,,,iShares® iBonds® Dec 2029 Term Treasury ETF,99.8200,1,2025
+iShares,IBTK,,,iShares® iBonds® Dec 2030 Term Treasury ETF,99.2800,1,2025
+iShares,IBTL,,,iShares® iBonds® Dec 2031 Term Treasury ETF,99.7700,1,2025
+iShares,IBTM,,,iShares® iBonds® Dec 2032 Term Treasury ETF,100.0000,1,2025
+iShares,IBTO,,,iShares® iBonds® Dec 2033 Term Treasury ETF,100.0000,1,2025
+iShares,IBTP,,,iShares® iBonds® Dec 2034 Term Treasury ETF,100.0000,1,2025
+iShares,IBTQ,,,iShares® iBonds® Dec 2035 Term Treasury ETF,97.5800,1,2025
+iShares,ICF,,,iShares Select U.S. REIT ETF,0.1200,0,2025
+iShares,ICLN,,,iShares Global Clean Energy ETF,0.1400,0,2025
+iShares,ICOP,,,iShares Copper and Metals Mining ETF,0.0400,0,2025
+iShares,ICPI,,,iShares 0-1 Year TIPS Bond ETF,98.4600,1,2025
+iShares,ICSH,,,iShares Ultra Short Duration Bond Active ETF,2.7900,0,2025
+iShares,ICVT,,,iShares Convertible Bond ETF,0.6700,0,2025
+iShares,IDAT,,,iShares Future Cloud 5G and Tech ETF,6.5200,0,2025
+iShares,IDEF,,,iShares Defense Industrials Active ETF,2.3600,0,2025
+iShares,IDEV,,,iShares Core MSCI International Developed Markets ETF,0.0200,0,2025
+iShares,IDGT,,,iShares U.S. Digital Infrastructure and Real Estate ETF,0.1900,0,2025
+iShares,IDNA,,,iShares Genomics Immunology and Healthcare ETF,0.2400,0,2025
+iShares,IDRV,,,iShares Self-Driving EV and Tech ETF,0.0900,0,2025
+iShares,IDU,,,iShares U.S. Utilities ETF,0.1300,0,2025
+iShares,IDV,,,iShares International Select Dividend ETF,0.0200,0,2025
+iShares,IDYN,,,iShares International Equity Factor Rotation Active ETF,0.3900,0,2025
+iShares,IEDI,,,iShares U.S. Consumer Focused ETF,1.3200,0,2025
+iShares,IEF,,,iShares 7-10 Year Treasury Bond ETF,98.7600,1,2025
+iShares,IEFA,,,iShares Core MSCI EAFE ETF,0.0100,0,2025
+iShares,IEI,,,iShares 3-7 Year Treasury Bond ETF,99.6500,1,2025
+iShares,IEMG,,,iShares Core MSCI Emerging Markets ETF,0.3700,0,2025
+iShares,IEO,,,iShares U.S. Oil & Gas Exploration & Production ETF,0.1100,0,2025
+iShares,IETC,,,iShares U.S. Tech Independence Focused ETF,1.4900,0,2025
+iShares,IEUR,,,iShares Core MSCI Europe ETF,0.0200,0,2025
+iShares,IEUS,,,iShares MSCI Europe Small-Cap ETF,0.0300,0,2025
+iShares,IEV,,,iShares Europe ETF,0.0500,0,2025
+iShares,IEZ,,,iShares U.S. Oil Equipment & Services ETF,0.1200,0,2025
+iShares,IFGL,,,iShares International Developed Real Estate ETF,0.0600,0,2025
+iShares,IFRA,,,iShares U.S. Infrastructure ETF,0.1600,0,2025
+iShares,IGBH,,,iShares Interest Rate Hedged Long-Term Corporate Bond ETF,1.1600,0,2025
+iShares,IGE,,,iShares North American Natural Resources ETF,0.0900,0,2025
+iShares,IGEB,,,iShares Investment Grade Systematic Bond ETF,0.2400,0,2025
+iShares,IGF,,,iShares Global Infrastructure ETF,0.0800,0,2025
+iShares,IGIB,,,iShares 5-10 Year Investment Grade Corporate Bond ETF,0.2800,0,2025
+iShares,IGLB,,,iShares 10+ Year Investment Grade Corporate Bond ETF,0.3500,0,2025
+iShares,IGM,,,iShares Expanded Tech Sector ETF,1.4100,0,2025
+iShares,IGOV,,,iShares International Treasury Bond ETF,0.0600,0,2025
+iShares,IGRO,,,iShares International Dividend Growth ETF,0.1100,0,2025
+iShares,IGSB,,,iShares 1-5 Year Investment Grade Corporate Bond ETF,0.1100,0,2025
+iShares,IHAK,,,iShares Cybersecurity and Tech ETF,2.9300,0,2025
+iShares,IHE,,,iShares U.S. Pharmaceuticals ETF,0.1200,0,2025
+iShares,IHF,,,iShares U.S. Healthcare Providers ETF,0.1600,0,2025
+iShares,IHI,,,iShares U.S. Medical Devices ETF,0.6800,0,2025
+iShares,IJH,,,iShares Core S&P Mid-Cap ETF,0.3900,0,2025
+iShares,IJJ,,,iShares S&P Mid-Cap 400 Value ETF,0.2000,0,2025
+iShares,IJK,,,iShares S&P Mid-Cap 400 Growth ETF,0.4300,0,2025
+iShares,IJR,,,iShares Core S&P Small-Cap ETF,1.7300,0,2025
+iShares,IJS,,,iShares S&P Small-Cap 600 Value ETF,1.2900,0,2025
+iShares,IJT,,,iShares S&P Small-Cap 600 Growth ETF,0.8000,0,2025
+iShares,ILCB,,,iShares Morningstar U.S. Equity ETF,0.2800,0,2025
+iShares,ILCG,,,iShares Morningstar Growth ETF,0.5700,0,2025
+iShares,ILCV,,,iShares Morningstar Value ETF,0.1700,0,2025
+iShares,ILF,,,iShares Latin America 40 ETF,0.0700,0,2025
+iShares,ILIT,,,iShares Lithium Miners and Producers ETF,0.0400,0,2025
+iShares,ILTB,,,iShares Core 10+ Year USD Bond ETF,37.4100,0,2025
+iShares,IMCB,,,iShares Morningstar Mid-Cap ETF,0.2000,0,2025
+iShares,IMCG,,,iShares Morningstar Mid-Cap Growth ETF,0.3800,0,2025
+iShares,IMCV,,,iShares Morningstar Mid-Cap Value ETF,0.1100,0,2025
+iShares,IMTB,,,iShares Core 5-10 Year USD Bond ETF,19.5900,0,2025
+iShares,IMTM,,,iShares MSCI Intl Momentum Factor ETF,0.0400,0,2025
+iShares,INDY,,,iShares India 50 ETF,3.4200,0,2025
+iShares,INRO,,,iShares U.S. Industry Rotation Active ETF,0.8300,0,2025
+iShares,INTF,,,iShares International Equity Factor ETF,0.0200,0,2025
+iShares,IOO,,,iShares Global 100 ETF,0.3000,0,2025
+iShares,IPAC,,,iShares Core MSCI Pacific ETF,0.0100,0,2025
+iShares,IQLT,,,iShares MSCI Intl Quality Factor ETF,0.0200,0,2025
+iShares,IRTR,,,iShares® LifePath® Retirement ETF,40.9200,0,2025
+iShares,ISCB,,,iShares Morningstar Small-Cap ETF,0.3400,0,2025
+iShares,ISCF,,,iShares International Small-Cap Equity Factor ETF,0.0200,0,2025
+iShares,ISCG,,,iShares Morningstar Small-Cap Growth ETF,0.4500,0,2025
+iShares,ISCV,,,iShares Morningstar Small-Cap Value ETF,0.1800,0,2025
+iShares,ISHG,,,iShares 1-3 Year International Treasury Bond ETF,0.0400,0,2025
+iShares,ISMF,,,iShares Managed Futures Active ETF,48.3700,1,2025
+iShares,ISTB,,,iShares Core 1-5 Year USD Bond ETF,44.5000,1,2025
+iShares,ISVL,,,iShares International Developed Small Cap Value Factor ETF,0.0300,0,2025
+iShares,ITA,,,iShares U.S. Aerospace & Defense ETF,0.2200,0,2025
+iShares,ITB,,,iShares U.S. Home Construction ETF,0.1800,0,2025
+iShares,ITDB,,,iShares® LifePath® Target Date 2030 ETF,30.8800,0,2025
+iShares,ITDC,,,iShares® LifePath® Target Date 2035 ETF,18.8200,0,2025
+iShares,ITDD,,,iShares® LifePath® Target Date 2040 ETF,13.3700,0,2025
+iShares,ITDE,,,iShares® LifePath® Target Date 2045 ETF,6.7400,0,2025
+iShares,ITDF,,,iShares® LifePath® Target Date 2050 ETF,1.3900,0,2025
+iShares,ITDG,,,iShares® LifePath® Target Date 2055 ETF,0.1700,0,2025
+iShares,ITDH,,,iShares® LifePath® Target Date 2060 ETF,0.1700,0,2025
+iShares,ITDI,,,iShares® LifePath® Target Date 2065 ETF,0.1700,0,2025
+iShares,ITDJ,,,iShares® LifePath® Target Date 2070 ETF,0.1600,0,2025
+iShares,ITOT,,,iShares Core S&P Total U.S. Stock Market ETF,0.2700,0,2025
+iShares,IUSB,,,iShares Core Universal USD Bond ETF,32.4900,0,2025
+iShares,IUSG,,,iShares Core S&P U.S. Growth ETF,0.3000,0,2025
+iShares,IUSV,,,iShares Core S&P U.S. Value ETF,0.1700,0,2025
+iShares,IVE,,,iShares S&P 500 Value ETF,0.1600,0,2025
+iShares,IVEG,,,iShares Emergent Food and AgTech Multisector ETF,1.7900,0,2025
+iShares,IVLU,,,iShares MSCI Intl Value Factor ETF,0.0200,0,2025
+iShares,IVRS,,,iShares Future Metaverse Tech and Communications ETF,0.0700,0,2025
+iShares,IVV,,,iShares Core S&P 500 ETF,0.2300,0,2025
+iShares,IVVB,,,iShares Large Cap Deep Quarterly Laddered ETF,0.9300,0,2025
+iShares,IVVM,,,iShares Large Cap Moderate Quarterly Laddered ETF,0.9300,0,2025
+iShares,IVVW,,,iShares S&P 500 BuyWrite ETF,0.0400,0,2025
+iShares,IVW,,,iShares S&P 500 Growth ETF,0.4500,0,2025
+iShares,IWB,,,iShares Russell 1000 ETF,0.2300,0,2025
+iShares,IWC,,,iShares Micro-Cap ETF,0.3100,0,2025
+iShares,IWD,,,iShares Russell 1000 Value ETF,0.1700,0,2025
+iShares,IWF,,,iShares Russell 1000 Growth ETF,0.6500,0,2025
+iShares,IWL,,,iShares Russell Top 200 ETF,0.2700,0,2025
+iShares,IWM,,,iShares Russell 2000 ETF,0.4300,0,2025
+iShares,IWMW,,,iShares Russell 2000 BuyWrite ETF,0.3900,0,2025
+iShares,IWN,,,iShares Russell 2000 Value ETF,0.2500,0,2025
+iShares,IWO,,,iShares Russell 2000 Growth ETF,0.5500,0,2025
+iShares,IWP,,,iShares Russell Mid-Cap Growth ETF,0.6400,0,2025
+iShares,IWR,,,iShares Russell Mid-Cap ETF,0.2200,0,2025
+iShares,IWS,,,iShares Russell Mid-Cap Value ETF,0.2000,0,2025
+iShares,IWTR,,,iShares MSCI Water Management Multisector ETF,1.6700,0,2025
+iShares,IWV,,,iShares Russell 3000 ETF,0.2600,0,2025
+iShares,IWX,,,iShares Russell Top 200 Value ETF,0.1600,0,2025
+iShares,IWY,,,iShares Russell Top 200 Growth ETF,0.7400,0,2025
+iShares,IXC,,,iShares Global Energy ETF,0.0700,0,2025
+iShares,IXG,,,iShares Global Financials ETF,0.1300,0,2025
+iShares,IXJ,,,iShares Global Healthcare ETF,0.1900,0,2025
+iShares,IXN,,,iShares Global Tech ETF,1.2800,0,2025
+iShares,IXP,,,iShares Global Comm Services ETF,0.0700,0,2025
+iShares,IXUS,,,iShares Core MSCI Total International Stock ETF,0.0700,0,2025
+iShares,IYC,,,iShares U.S. Consumer Discretionary ETF,0.4700,0,2025
+iShares,IYE,,,iShares U.S. Energy ETF,0.0900,0,2025
+iShares,IYF,,,iShares U.S. Financials ETF,0.2700,0,2025
+iShares,IYG,,,iShares U.S. Financial Services ETF,0.2900,0,2025
+iShares,IYH,,,iShares U.S. Healthcare ETF,0.1900,0,2025
+iShares,IYJ,,,iShares U.S. Industrials ETF,0.2800,0,2025
+iShares,IYK,,,iShares U.S. Consumer Staples ETF,0.1200,0,2025
+iShares,IYLD,,,iShares Morningstar Multi-Asset Income ETF,6.3200,0,2025
+iShares,IYM,,,iShares U.S. Basic Materials ETF,0.1700,0,2025
+iShares,IYR,,,iShares U.S. Real Estate ETF,0.1200,0,2025
+iShares,IYT,,,iShares U.S. Transportation ETF,0.1600,0,2025
+iShares,IYW,,,iShares U.S. Technology ETF,1.2300,0,2025
+iShares,IYY,,,iShares Dow Jones U.S. ETF,0.2400,0,2025
+iShares,IYZ,,,iShares U.S. Telecommunications ETF,0.2300,0,2025
+iShares,JPXN,,,iShares JPX-Nikkei 400 ETF,0.0200,0,2025
+iShares,JXI,,,iShares Global Utilities ETF,0.3100,0,2025
+iShares,KSA,,,iShares MSCI Saudi Arabia ETF,0.2000,0,2025
+iShares,KWT,,,iShares MSCI Kuwait ETF,0.0700,0,2025
+iShares,KXI,,,iShares Global Consumer Staples ETF,0.1500,0,2025
+iShares,LCTD,,,iShares World ex U.S. Carbon Transition Readiness Aware Active ETF,0.3900,0,2025
+iShares,LCTU,,,iShares U.S. Carbon Transition Readiness Aware Active ETF,0.9700,0,2025
+iShares,LDEM,,,iShares ESG MSCI EM Leaders ETF,0.3200,0,2025
+iShares,LDRC,,,iShares® iBonds® 1-5 Year Corporate Ladder ETF,0.8600,0,2025
+iShares,LDRH,,,iShares® iBonds® 1-5 Year High Yield and Income Ladder ETF,1.0600,0,2025
+iShares,LDRI,,,iShares® iBonds® 1-5 Year TIPS Ladder ETF,95.5400,1,2025
+iShares,LDRT,,,iShares® iBonds® 1-5 Year Treasury Ladder ETF,98.3000,1,2025
+iShares,LEMB,,,iShares J.P. Morgan EM Local Currency Bond ETF,0.0600,0,2025
+iShares,LQD,,,iShares iBoxx $ Investment Grade Corporate Bond ETF,0.4400,0,2025
+iShares,LQDB,,,iShares BBB Rated Corporate Bond ETF,1.0800,0,2025
+iShares,LQDH,,,iShares Interest Rate Hedged Corporate Bond ETF,1.3500,0,2025
+iShares,LQDI,,,iShares Inflation Hedged Corporate Bond ETF,0.8500,0,2025
+iShares,LQDW,,,iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,0.7300,0,2025
+iShares,LRGF,,,iShares U.S. Equity Factor ETF,0.2400,0,2025
+iShares,MADE,,,iShares U.S. Manufacturing ETF,0.2500,0,2025
+iShares,MAXJ,,,iShares Large Cap Max Buffer Jun ETF,1.8900,0,2025
+iShares,MBB,,,iShares MBS ETF,0.0600,0,2025
+iShares,MCHI,,,iShares MSCI China ETF,0.0500,0,2025
+iShares,MMAX,,,iShares Large Cap Max Buffer Mar ETF,1.7300,0,2025
+iShares,MTUM,,,iShares MSCI USA Momentum Factor ETF,0.3100,0,2025
+iShares,MXI,,,iShares Global Materials ETF,0.1000,0,2025
+iShares,NEAR,,,iShares Short Duration Bond Active ETF,24.9700,0,2025
+iShares,OEF,,,iShares S&P 100 ETF,0.2700,0,2025
+iShares,PABD,,,iShares Paris-Aligned Climate Optimized MSCI World ex USA ETF,0.0500,0,2025
+iShares,PABU,,,iShares Paris-Aligned Climate Optimized MSCI USA ETF,0.2600,0,2025
+iShares,PFF,,,iShares Preferred and Income Securities ETF,0.2000,0,2025
+iShares,PICK,,,iShares MSCI Global Metals & Mining Producers ETF,0.1000,0,2025
+iShares,PMMF,,,iShares Prime Money Market ETF,0.0900,0,2025
+iShares,POWR,,,iShares U.S. Power Infrastructure ETF,0.2100,0,2025
+iShares,QAT,,,iShares MSCI Qatar ETF,0.0400,0,2025
+iShares,QLTA,,,iShares Aaa - A Rated Corporate Bond ETF,0.2500,0,2025
+iShares,QNXT,,,iShares Nasdaq-100 ex Top 30 ETF,0.5800,0,2025
+iShares,QTOP,,,iShares Nasdaq Top 30 Stocks ETF,0.5700,0,2025
+iShares,QUAL,,,iShares MSCI USA Quality Factor ETF,0.2900,0,2025
+iShares,REET,,,iShares Global REIT ETF,0.1200,0,2025
+iShares,REM,,,iShares Mortgage Real Estate ETF,0.0400,0,2025
+iShares,REZ,,,iShares Residential and Multisector Real Estate ETF,0.1300,0,2025
+iShares,RING,,,iShares MSCI Global Gold Miners ETF,0.0700,0,2025
+iShares,RXI,,,iShares Global Consumer Discretionary ETF,0.1200,0,2025
+iShares,SCJ,,,iShares MSCI Japan Small-Cap ETF,0.0200,0,2025
+iShares,SCZ,,,iShares MSCI EAFE Small-Cap ETF,0.0200,0,2025
+iShares,SDG,,,iShares MSCI Global Sustainable Development Goals ETF,0.0600,0,2025
+iShares,SGOV,,,iShares 0-3 Month Treasury Bond ETF,95.1400,1,2025
+iShares,SHV,,,iShares 0-1 Year Treasury Bond ETF,89.8000,1,2025
+iShares,SHY,,,iShares 1-3 Year Treasury Bond ETF,99.7100,1,2025
+iShares,SHYG,,,iShares 0-5 Year High Yield Corporate Bond ETF,0.3200,0,2025
+iShares,SHYM,,,iShares Short Duration High Yield Muni Active ETF,0.1800,0,2025
+iShares,SIZE,,,iShares MSCI USA Size Factor ETF,0.2400,0,2025
+iShares,SLQD,,,iShares 0-5 Year Investment Grade Corporate Bond ETF,0.3000,0,2025
+iShares,SLVP,,,iShares MSCI Global Silver and Metals Miners ETF,0.0500,0,2025
+iShares,SMAX,,,iShares Large Cap Max Buffer Sep ETF,2.4400,0,2025
+iShares,SMLF,,,iShares U.S. Small-Cap Equity Factor ETF,1.1300,0,2025
+iShares,SMMD,,,iShares Russell 2500 ETF,0.2000,0,2025
+iShares,SMMV,,,iShares MSCI USA Small-Cap Min Vol Factor ETF,0.1900,0,2025
+iShares,SOXX,,,iShares Semiconductor ETF,0.3700,0,2025
+iShares,STEN,,,iShares Large Cap 10% Target Buffer Sep ETF,1.9400,0,2025
+iShares,STIP,,,iShares 0-5 Year TIPS Bond ETF,99.4200,1,2025
+iShares,SUSA,,,iShares ESG Optimized MSCI USA ETF,0.3500,0,2025
+iShares,SUSB,,,iShares ESG Aware 1-5 Year USD Corporate Bond ETF,0.1500,0,2025
+iShares,SUSC,,,iShares ESG Aware USD Corporate Bond ETF,0.1500,0,2025
+iShares,SUSL,,,iShares ESG MSCI USA Leaders ETF,0.3400,0,2025
+iShares,SVAL,,,iShares US Small Cap Value Factor ETF,1.4300,0,2025
+iShares,SYSB,,,iShares Systematic Bond ETF,16.9600,0,2025
+iShares,TCHI,,,iShares MSCI China Multisector Tech ETF,0.0400,0,2025
+iShares,TECB,,,iShares U.S. Tech Breakthrough Multisector ETF,0.6900,0,2025
+iShares,TEK,,,iShares Technology Opportunities Active ETF,1.3300,0,2025
+iShares,TEND,,,iShares Large Cap 10% Target Buffer Dec ETF,1.3800,0,2025
+iShares,TENJ,,,iShares Large Cap 10% Target Buffer Jun ETF,0.7800,0,2025
+iShares,TENM,,,iShares Large Cap 10% Target Buffer Mar ETF,0.3800,0,2025
+iShares,TEXN,,,iShares Texas Equity ETF,0.2800,0,2025
+iShares,TFLO,,,iShares Treasury Floating Rate Bond ETF,99.2100,1,2025
+iShares,THD,,,iShares MSCI Thailand ETF,0.0900,0,2025
+iShares,THRO,,,iShares U.S. Thematic Rotation Active ETF,18.2300,0,2025
+iShares,TIP,,,iShares TIPS Bond ETF,100.0000,1,2025
+iShares,TLH,,,iShares 10-20 Year Treasury Bond ETF,99.4100,1,2025
+iShares,TLT,,,iShares 20+ Year Treasury Bond ETF,99.6400,1,2025
+iShares,TLTW,,,iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,38.8200,1,2025
+iShares,TMET,,,iShares Transition-Enabling Metals ETF,17.0100,0,2025
+iShares,TOK,,,iShares MSCI Kokusai ETF,0.1700,0,2025
+iShares,TOPC,,,iShares S&P 500 3% Capped ETF,0.2600,0,2025
+iShares,TOPT,,,iShares Top 20 U.S. Stocks ETF,0.6200,0,2025
+iShares,TUR,,,iShares MSCI Turkey ETF,0.0700,0,2025
+iShares,TWOX,,,iShares Large Cap Accelerated Outcome ETF,1.0000,0,2025
+iShares,UAE,,,iShares MSCI UAE ETF,0.1300,0,2025
+iShares,URTH,,,iShares MSCI World ETF,0.1500,0,2025
+iShares,USCL,,,iShares Climate Conscious & Transition MSCI USA ETF,0.2800,0,2025
+iShares,USHY,,,iShares Broad USD High Yield Corporate Bond ETF,0.1100,0,2025
+iShares,USIG,,,iShares Broad USD Investment Grade Corporate Bond ETF,0.0800,0,2025
+iShares,USMV,,,iShares MSCI USA Min Vol Factor ETF,0.2300,0,2025
+iShares,USRT,,,iShares Core U.S. REIT ETF,0.1300,0,2025
+iShares,USXF,,,iShares ESG Advanced MSCI USA ETF,0.2800,0,2025
+iShares,VEGI,,,iShares MSCI Agriculture Producers ETF,0.1300,0,2025
+iShares,VLUE,,,iShares MSCI USA Value Factor ETF,0.1200,0,2025
+iShares,WOOD,,,iShares Global Timber & Forestry ETF,0.0600,0,2025
+iShares,WSML,,,iShares MSCI World Small-Cap ETF,0.1500,0,2025
+iShares,XJH,,,iShares ESG Select Screened S&P Mid-Cap ETF,0.2900,0,2025
+iShares,XJR,,,iShares ESG Select Screened S&P Small-Cap ETF,2.4700,0,2025
+iShares,XOEF,,,iShares S&P 500 ex S&P 100 ETF,0.1700,0,2025
+iShares,XT,,,iShares Future Exponential Technologies ETF,0.1300,0,2025
+iShares,XVV,,,iShares ESG Select Screened S&P 500 ETF,0.2900,0,2025
